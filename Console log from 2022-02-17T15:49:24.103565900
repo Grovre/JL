@@ -1,0 +1,112 @@
+[15:48:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:48:22] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[15:48:23] [Worker-Main-14/INFO]: Loaded 7 recipes
+[15:48:27] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[15:48:27] [Server thread/INFO]: Loading properties
+[15:48:27] [Server thread/INFO]: Default game type: SURVIVAL
+[15:48:27] [Server thread/INFO]: Generating keypair
+[15:48:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:48:27] [Server thread/INFO]: Using default channel type
+[15:48:28] [Server thread/INFO]: This server is running CraftBukkit version 3427-Bukkit-de95135 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[15:48:29] [Server thread/INFO]: [SnowNeverHurtAnybody] Loading SnowNeverHurtAnybody v1.2-SNAPSHOT
+[15:48:29] [Server thread/INFO]: [AltAlerter] Loading AltAlerter v1.16-SNAPSHOT
+[15:48:29] [Server thread/INFO]: [FreeMaxEnchants] Loading FreeMaxEnchants v1.0-SNAPSHOT
+[15:48:29] [Server thread/INFO]: [EntityLagMachineDetector] Loading EntityLagMachineDetector v1.0-SNAPSHOT
+[15:48:29] [Server thread/INFO]: [PillagerRaidEvents] Loading PillagerRaidEvents v1.0-SNAPSHOT
+[15:48:29] [Server thread/INFO]: [ReferralRewards] Loading ReferralRewards v1.0-SNAPSHOT
+[15:48:29] [Server thread/INFO]: [TrackPlaytime] Loading TrackPlaytime v1.0-SNAPSHOT
+[15:48:29] [Server thread/INFO]: [ConDump] Loading ConDump v1.1
+[15:48:29] [Server thread/INFO]: [EasyShearing] Loading EasyShearing v1.3.1-SNAPSHOT
+[15:48:29] [Server thread/INFO]: [GriefLogger] Loading GriefLogger v1.0-SNAPSHOT
+[15:48:29] [Server thread/INFO]: [ShearDimitrov] Loading ShearDimitrov v1.0-SNAPSHOT
+[15:48:29] [Server thread/INFO]: [EndermanLimiter] Loading EndermanLimiter v1.0-SNAPSHOT
+[15:48:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:48:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:48:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:48:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:48:29] [Server thread/INFO]: Preparing level "world"
+[15:48:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:48:33] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[15:48:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:48:33] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[15:48:33] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[15:48:33] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[15:48:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:48:34] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:48:34] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[15:48:40] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[15:48:40] [Worker-Main-18/INFO]: Preparing spawn area: 19%
+[15:48:41] [Worker-Main-14/INFO]: Preparing spawn area: 33%
+[15:48:41] [Worker-Main-20/INFO]: Preparing spawn area: 41%
+[15:48:42] [Worker-Main-18/INFO]: Preparing spawn area: 44%
+[15:48:43] [Worker-Main-19/INFO]: Preparing spawn area: 61%
+[15:48:43] [Worker-Main-13/INFO]: Preparing spawn area: 79%
+[15:48:43] [Worker-Main-14/INFO]: Preparing spawn area: 90%
+[15:48:44] [Worker-Main-15/INFO]: Preparing spawn area: 99%
+[15:48:44] [Worker-Main-18/INFO]: Preparing spawn area: 99%
+[15:48:45] [Server thread/INFO]: Time elapsed: 13606 ms
+[15:48:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:48:46] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:48:46] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:48:46] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[15:48:46] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:48:47] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:48:47] [Worker-Main-19/INFO]: Preparing spawn area: 1%
+[15:48:48] [Worker-Main-18/INFO]: Preparing spawn area: 1%
+[15:48:48] [Worker-Main-13/INFO]: Preparing spawn area: 3%
+[15:48:49] [Worker-Main-17/INFO]: Preparing spawn area: 6%
+[15:48:49] [Worker-Main-13/INFO]: Preparing spawn area: 10%
+[15:48:50] [Worker-Main-18/INFO]: Preparing spawn area: 14%
+[15:48:50] [Worker-Main-18/INFO]: Preparing spawn area: 32%
+[15:48:51] [Worker-Main-14/INFO]: Preparing spawn area: 50%
+[15:48:51] [Worker-Main-12/INFO]: Preparing spawn area: 68%
+[15:48:52] [Worker-Main-15/INFO]: Preparing spawn area: 72%
+[15:48:52] [Worker-Main-13/INFO]: Preparing spawn area: 74%
+[15:48:53] [Worker-Main-16/INFO]: Preparing spawn area: 76%
+[15:48:53] [Worker-Main-21/INFO]: Preparing spawn area: 79%
+[15:48:54] [Worker-Main-19/INFO]: Preparing spawn area: 81%
+[15:48:54] [Worker-Main-15/INFO]: Preparing spawn area: 84%
+[15:48:55] [Worker-Main-15/INFO]: Preparing spawn area: 88%
+[15:48:55] [Worker-Main-18/INFO]: Preparing spawn area: 92%
+[15:48:56] [Worker-Main-17/INFO]: Preparing spawn area: 95%
+[15:48:56] [Server thread/INFO]: Time elapsed: 11392 ms
+[15:48:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:48:57] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[15:48:57] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[15:48:57] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:48:58] [Worker-Main-16/INFO]: Preparing spawn area: 2%
+[15:48:58] [Worker-Main-16/INFO]: Preparing spawn area: 18%
+[15:48:59] [Worker-Main-16/INFO]: Preparing spawn area: 21%
+[15:48:59] [Worker-Main-15/INFO]: Preparing spawn area: 46%
+[15:49:00] [Worker-Main-16/INFO]: Preparing spawn area: 71%
+[15:49:00] [Worker-Main-13/INFO]: Preparing spawn area: 87%
+[15:49:00] [Server thread/INFO]: Time elapsed: 4219 ms
+[15:49:00] [Server thread/INFO]: [SnowNeverHurtAnybody] Enabling SnowNeverHurtAnybody v1.2-SNAPSHOT
+[15:49:00] [Server thread/INFO]: [AltAlerter] Enabling AltAlerter v1.16-SNAPSHOT
+[15:49:00] [Server thread/INFO]: AltAlerter now notifying and logging anybody who joins from the same IP!
+[15:49:00] [Server thread/INFO]: [FreeMaxEnchants] Enabling FreeMaxEnchants v1.0-SNAPSHOT
+[15:49:00] [Server thread/INFO]: [EntityLagMachineDetector] Enabling EntityLagMachineDetector v1.0-SNAPSHOT
+[15:49:00] [Server thread/INFO]: [PillagerRaidEvents] Enabling PillagerRaidEvents v1.0-SNAPSHOT
+[15:49:00] [Server thread/INFO]: [ReferralRewards] Enabling ReferralRewards v1.0-SNAPSHOT
+[15:49:00] [Server thread/INFO]: [TrackPlaytime] Enabling TrackPlaytime v1.0-SNAPSHOT
+[15:49:00] [Server thread/INFO]: [ConDump] Enabling ConDump v1.1
+[15:49:00] [Server thread/INFO]: [EasyShearing] Enabling EasyShearing v1.3.1-SNAPSHOT
+[15:49:00] [Server thread/INFO]: [GriefLogger] Enabling GriefLogger v1.0-SNAPSHOT
+[15:49:00] [Server thread/INFO]: [ShearDimitrov] Enabling ShearDimitrov v1.0-SNAPSHOT
+[15:49:00] [Server thread/INFO]: [EndermanLimiter] Enabling EndermanLimiter v1.0-SNAPSHOT
+[15:49:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:49:00] [Server thread/INFO]: Done (31.421s)! For help, type "help"
+[15:49:07] [Server thread/INFO]: Latest log file is at C:\Users\lando\Documents\Minecraft Server\.\logs\latest.log
+[15:49:08] [Server thread/INFO]: Repo commit success, creating link...
+[15:49:08] [Server thread/INFO]: Commit is at: https://github.com/Grovre/JL/blob/main/Console%20log%20from%202022-02-17T15:49:07.057722
+[15:49:24] [Server thread/INFO]: Latest log file is at C:\Users\lando\Documents\Minecraft Server\.\logs\latest.log
