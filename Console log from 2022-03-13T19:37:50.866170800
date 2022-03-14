@@ -1,0 +1,100 @@
+[19:36:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:36:32] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[19:36:34] [Worker-Main-16/INFO]: Loaded 7 recipes
+[19:36:36] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[19:36:36] [Server thread/INFO]: Loading properties
+[19:36:36] [Server thread/INFO]: Default game type: SURVIVAL
+[19:36:36] [Server thread/INFO]: Generating keypair
+[19:36:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:36:37] [Server thread/INFO]: Using default channel type
+[19:36:37] [Server thread/INFO]: This server is running CraftBukkit version 3443-Bukkit-2c1e499 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[19:36:38] [Server thread/INFO]: [ConDump] Loading ConDump v1.3
+[19:36:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:36:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:36:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:36:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:36:38] [Server thread/INFO]: Preparing level "world"
+[19:36:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:36:41] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[19:36:42] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:36:42] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:36:43] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:36:43] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[19:36:44] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[19:36:44] [Worker-Main-15/INFO]: Preparing spawn area: 4%
+[19:36:45] [Worker-Main-16/INFO]: Preparing spawn area: 4%
+[19:36:45] [Worker-Main-22/INFO]: Preparing spawn area: 4%
+[19:36:46] [Worker-Main-15/INFO]: Preparing spawn area: 6%
+[19:36:51] [Worker-Main-20/INFO]: Preparing spawn area: 7%
+[19:36:51] [Worker-Main-12/INFO]: Preparing spawn area: 7%
+[19:36:51] [Worker-Main-12/INFO]: Preparing spawn area: 7%
+[19:36:51] [Worker-Main-20/INFO]: Preparing spawn area: 7%
+[19:36:51] [Worker-Main-12/INFO]: Preparing spawn area: 7%
+[19:36:51] [Worker-Main-12/INFO]: Preparing spawn area: 7%
+[19:36:51] [Worker-Main-22/INFO]: Preparing spawn area: 7%
+[19:36:51] [Worker-Main-22/INFO]: Preparing spawn area: 7%
+[19:36:51] [Worker-Main-12/INFO]: Preparing spawn area: 7%
+[19:36:51] [Worker-Main-20/INFO]: Preparing spawn area: 7%
+[19:36:51] [Worker-Main-20/INFO]: Preparing spawn area: 23%
+[19:36:52] [Worker-Main-16/INFO]: Preparing spawn area: 35%
+[19:36:52] [Worker-Main-17/INFO]: Preparing spawn area: 46%
+[19:36:53] [Worker-Main-15/INFO]: Preparing spawn area: 65%
+[19:36:53] [Worker-Main-22/INFO]: Preparing spawn area: 88%
+[19:36:54] [Worker-Main-17/INFO]: Preparing spawn area: 94%
+[19:36:54] [Worker-Main-21/INFO]: Preparing spawn area: 97%
+[19:36:54] [Server thread/INFO]: Time elapsed: 15041 ms
+[19:36:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:36:56] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[19:36:56] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[19:36:56] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[19:36:56] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:36:57] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:36:57] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:36:58] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:36:58] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[19:36:59] [Worker-Main-16/INFO]: Preparing spawn area: 7%
+[19:36:59] [Worker-Main-21/INFO]: Preparing spawn area: 28%
+[19:37:00] [Worker-Main-17/INFO]: Preparing spawn area: 40%
+[19:37:00] [Worker-Main-14/INFO]: Preparing spawn area: 56%
+[19:37:01] [Worker-Main-17/INFO]: Preparing spawn area: 68%
+[19:37:01] [Worker-Main-12/INFO]: Preparing spawn area: 69%
+[19:37:02] [Worker-Main-14/INFO]: Preparing spawn area: 70%
+[19:37:02] [Worker-Main-19/INFO]: Preparing spawn area: 75%
+[19:37:03] [Worker-Main-19/INFO]: Preparing spawn area: 76%
+[19:37:03] [Worker-Main-17/INFO]: Preparing spawn area: 80%
+[19:37:04] [Worker-Main-14/INFO]: Preparing spawn area: 82%
+[19:37:04] [Worker-Main-20/INFO]: Preparing spawn area: 83%
+[19:37:05] [Worker-Main-17/INFO]: Preparing spawn area: 84%
+[19:37:05] [Worker-Main-12/INFO]: Preparing spawn area: 87%
+[19:37:06] [Worker-Main-17/INFO]: Preparing spawn area: 88%
+[19:37:06] [Worker-Main-15/INFO]: Preparing spawn area: 89%
+[19:37:07] [Worker-Main-20/INFO]: Preparing spawn area: 92%
+[19:37:07] [Worker-Main-21/INFO]: Preparing spawn area: 92%
+[19:37:08] [Worker-Main-22/INFO]: Preparing spawn area: 96%
+[19:37:08] [Worker-Main-22/INFO]: Preparing spawn area: 97%
+[19:37:09] [Worker-Main-21/INFO]: Preparing spawn area: 99%
+[19:37:09] [Server thread/INFO]: Time elapsed: 14226 ms
+[19:37:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:37:10] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[19:37:10] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[19:37:10] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:37:10] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[19:37:11] [Worker-Main-14/INFO]: Preparing spawn area: 3%
+[19:37:11] [Worker-Main-14/INFO]: Preparing spawn area: 14%
+[19:37:12] [Worker-Main-14/INFO]: Preparing spawn area: 35%
+[19:37:12] [Worker-Main-15/INFO]: Preparing spawn area: 68%
+[19:37:13] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[19:37:13] [Server thread/INFO]: Time elapsed: 4388 ms
+[19:37:13] [Server thread/INFO]: [ConDump] Enabling ConDump v1.3
+[19:37:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:37:13] [Server thread/INFO]: Done (35.187s)! For help, type "help"
+[19:37:29] [Server thread/INFO]: PoptartFromPluto[/127.0.0.1:65392] logged in with entity id 232 at ([world]151.28701697128952, 119.0, -42.161450901945834)
+[19:37:43] [Server thread/INFO]: PoptartFromPluto issued server command: /conwipe
+[19:37:45] [Craft Scheduler Thread - 0/INFO]: Repo successfully cleared at https://github.com/ Grovre/JL
+[19:37:45] [Craft Scheduler Thread - 0/INFO]: Repo successfully cleared in 2.474 seconds (2474ms)
+[19:37:50] [Server thread/INFO]: PoptartFromPluto issued server command: /condump
+[19:37:50] [Craft Scheduler Thread - 0/INFO]: Latest log file is at C:\Users\lando\Documents\Minecraft Server\.\logs\latest.log
