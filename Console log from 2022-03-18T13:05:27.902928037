@@ -1,0 +1,220 @@
+[12:48:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:48:20] [Worker-Main-2/INFO]: Loaded 7 recipes
+[12:48:21] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[12:48:21] [Server thread/INFO]: Loading properties
+[12:48:21] [Server thread/INFO]: This server is running Purpur version git-Purpur-1586 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: 67f934e on HEAD)
+[12:48:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:48:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:48:21] [Server thread/WARN]: [Pufferfish] To improve performance, timings have been disabled by default
+[12:48:21] [Server thread/WARN]: [Pufferfish] You can still use timings by using /timings on, but they will not start on server startup unless you set timings.really-enabled to true in paper.yml
+[12:48:21] [Server thread/WARN]: [Pufferfish] If you would like to disable this message, either set timings.really-enabled to true or timings.enabled to false.
+[12:48:21] [Server thread/WARN]: [Pufferfish] SIMD operations are available for your server, but are not configured!
+[12:48:21] [Server thread/WARN]: [Pufferfish] To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[12:48:21] [Server thread/INFO]: Default game type: SURVIVAL
+[12:48:21] [Server thread/INFO]: Generating keypair
+[12:48:21] [Server thread/INFO]: Starting Minecraft server on 119.252.189.57:27456
+[12:48:21] [Server thread/INFO]: Using epoll channel type
+[12:48:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[12:48:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[12:48:22] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.9
+[12:48:22] [Server thread/INFO]: [VoidGen] Loading VoidGen v2.2.1
+[12:48:22] [Server thread/INFO]: [TrackPlaytime] Loading TrackPlaytime v1.0-SNAPSHOT
+[12:48:22] [Server thread/INFO]: [ConDump] Loading ConDump v1.3
+[12:48:22] [Server thread/INFO]: [VoidEscape] Loading VoidEscape v1.0
+[12:48:22] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[12:48:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.10-SNAPSHOT+6120-f50a81f
+[12:48:22] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1f4804b2]
+[12:48:22] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.0-dev+2-e12f1b5
+[12:48:22] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.20.0-dev+2-e12f1b5
+[12:48:22] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.0-dev+2-e12f1b5
+[12:48:22] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.7+216b061
+[12:48:22] [Server thread/INFO]: [Spartan] Loading Spartan vBuild 451.1
+[12:48:22] [Server thread/INFO]: [EssentialsDiscord] Loading EssentialsDiscord v2.20.0-dev+2-e12f1b5
+[12:48:22] [Server thread/INFO]: [IridiumSkyblock] Loading IridiumSkyblock v3.2.6
+[12:48:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:48:23] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.9
+[12:48:23] [Server thread/INFO]:         __
+[12:48:23] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.9
+[12:48:23] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[12:48:23] [Server thread/INFO]:
+[12:48:23] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[12:48:23] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[12:48:23] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[12:48:24] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[12:48:24] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 860ms)
+[12:48:24] [Server thread/INFO]: [VoidGen] Enabling VoidGen v2.2.1
+[12:48:24] [Server thread/INFO]: [VoidGen] Using VoidChunkGen: VERSION_UNKNOWN
+[12:48:24] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[12:48:24] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.20.0-dev+2-e12f1b5 which is not a depend or softdepend of this plugin.
+[12:48:24] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:48:24] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:48:24] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[12:48:24] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[12:48:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.10-SNAPSHOT+6120-f50a81f
+[12:48:24] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[12:48:24] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[12:48:24] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
+[12:48:25] [Server thread/INFO]: Preparing level "Spawn"
+[12:48:25] [Server thread/INFO]: [VoidGen] Generator settings have not been set. Using default values:
+[12:48:25] [Server thread/INFO]: [VoidGen] {"caves":false,"decoration":false,"mobs":false,"structures":false,"noise":false,"surface":false,"bedrock":false}
+[12:48:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:48:26] [Server thread/INFO]: Time elapsed: 209 ms
+[12:48:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:48:26] [Server thread/INFO]: Time elapsed: 55 ms
+[12:48:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:48:26] [Server thread/INFO]: Time elapsed: 48 ms
+[12:48:26] [Server thread/INFO]: [TrackPlaytime] Enabling TrackPlaytime v1.0-SNAPSHOT
+[12:48:26] [Server thread/INFO]: [ConDump] Enabling ConDump v1.3
+[12:48:26] [Server thread/INFO]: [VoidEscape] Enabling VoidEscape v1.0
+[12:48:26] [Server thread/INFO]: [VoidEscape] Config setup improperly. safeWorld is an invalid world name.
+[12:48:26] [Server thread/ERROR]: [VoidEscape] Disabling VoidEscape...
+[12:48:26] [Server thread/INFO]: [VoidEscape] Disabling VoidEscape v1.0
+[12:48:26] [Server thread/INFO]: [VoidEscape] Yes! It's a HashSet!!
+[12:48:26] [Server thread/ERROR]: Error occurred while enabling VoidEscape v1.0 (Is it up to date?)
+java.lang.NoClassDefFoundError: me/grovre/voidescape/listeners/FallListener
+at me.grovre.voidescape.VoidEscape.onEnable(VoidEscape.java:55) ~[VoidEscape-1.0.jar:?]
+at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:501) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.craftbukkit.v1_18_R2.CraftServer.enablePlugin(CraftServer.java:559) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at org.bukkit.craftbukkit.v1_18_R2.CraftServer.enablePlugins(CraftServer.java:473) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:671) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:438) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:352) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1181) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:322) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[12:48:26] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.0-dev+2-e12f1b5
+[12:48:26] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[12:48:26] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[12:48:26] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[12:48:26] [Server thread/INFO]: [Essentials] Using locale en_US
+[12:48:26] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:48:26] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[12:48:26] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[12:48:26] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[12:48:26] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.0-dev+2-e12f1b5
+[12:48:26] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[12:48:26] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.0-dev+2-e12f1b5
+[12:48:26] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[12:48:26] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.7+216b061
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn) TNT ignition is PERMITTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn) Lighters are PERMITTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn) Lava fire is PERMITTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn) Fire spread is UNRESTRICTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Spawn'
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn_nether) TNT ignition is PERMITTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn_nether) Lighters are PERMITTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn_nether) Lava fire is PERMITTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn_nether) Fire spread is UNRESTRICTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Spawn_nether'
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) TNT ignition is PERMITTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) Lighters are PERMITTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) Lava fire is PERMITTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) Fire spread is UNRESTRICTED.
+[12:48:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Spawn_the_end'
+[12:48:26] [Server thread/INFO]: [WorldGuard] Loading region data...
+[12:48:26] [Server thread/INFO]: [Spartan] Enabling Spartan vBuild 451.1
+[12:48:28] [Server thread/INFO]: [EssentialsDiscord] Enabling EssentialsDiscord v2.20.0-dev+2-e12f1b5
+[12:48:28] [Server thread/INFO]: [EssentialsDiscord] Starting Metrics. Opt-out using the global bStats config.
+[12:48:28] [Server thread/INFO]: [EssentialsDiscord] Attempting to login to Discord...
+[12:48:29] [Server thread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.api.JDA] Login Successful!
+[12:48:29] [JDA MainWS-ReadThread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.internal.requests.WebSocketClient] Connected to WebSocket
+[12:48:29] [JDA MainWS-ReadThread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.api.JDA] Finished Loading!
+[12:48:29] [Server thread/INFO]: [EssentialsDiscord] Successfully logged in as JappaSkies Chat#4331
+[12:48:29] [Server thread/INFO]: [EssentialsDiscord] Discord console logger has been disabled due to insufficient permissions! Please make sure your bot has the "Manage Webhooks" permissions on the server. After fixing that, run "/ess reload".
+[12:48:29] [Server thread/INFO]: [IridiumSkyblock] Enabling IridiumSkyblock v3.2.6
+[12:48:29] [pool-47-thread-1/INFO]: [Spartan Notification] Done loading 54 rows of data to the Search Engine.
+[12:48:29] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock
+[12:48:30] [Server thread/INFO]: Preparing spawn area: 0%
+[12:48:30] [Server thread/INFO]: Time elapsed: 217 ms
+[12:48:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) TNT ignition is PERMITTED.
+[12:48:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lighters are PERMITTED.
+[12:48:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lava fire is PERMITTED.
+[12:48:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Fire spread is UNRESTRICTED.
+[12:48:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock'
+[12:48:30] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_nether
+[12:48:30] [Server thread/INFO]: Preparing spawn area: 0%
+[12:48:31] [Server thread/INFO]: Time elapsed: 282 ms
+[12:48:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) TNT ignition is PERMITTED.
+[12:48:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lighters are PERMITTED.
+[12:48:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lava fire is PERMITTED.
+[12:48:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Fire spread is UNRESTRICTED.
+[12:48:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_nether'
+[12:48:31] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_the_end
+[12:48:31] [Server thread/INFO]: Preparing spawn area: 0%
+[12:48:31] [Server thread/INFO]: Time elapsed: 285 ms
+[12:48:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) TNT ignition is PERMITTED.
+[12:48:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lighters are PERMITTED.
+[12:48:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lava fire is PERMITTED.
+[12:48:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Fire spread is UNRESTRICTED.
+[12:48:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_the_end'
+[12:48:31] [Server thread/INFO]: [IridiumSkyblock] ----------------------------------------
+[12:48:31] [Server thread/INFO]: [IridiumSkyblock]
+[12:48:31] [Server thread/INFO]: [IridiumSkyblock] IridiumSkyblock Enabled!
+[12:48:31] [Server thread/INFO]: [IridiumSkyblock] Version: 3.2.6
+[12:48:31] [Server thread/INFO]: [IridiumSkyblock]
+[12:48:31] [Server thread/INFO]: [IridiumSkyblock] ----------------------------------------
+[12:48:31] [Server thread/INFO]: Running delayed init tasks
+[12:48:31] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[12:48:31] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[12:48:31] [Server thread/INFO]: [IridiumSkyblock] You are using the latest version of IridiumSkyblock.
+[12:48:31] [Server thread/INFO]: Done (10.270s)! For help, type "help"
+[12:48:31] [Server thread/INFO]: Timings Reset
+[12:48:31] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ...
+[12:48:31] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
+[12:48:43] [User Authenticator #1/INFO]: UUID of player JappaCheese is 963aa26a-8e00-4d1f-9162-ca68c018eb5c
+[12:48:43] [Server thread/INFO]: JappaCheese joined the game
+[12:48:43] [Server thread/INFO]: JappaCheese[/103.85.36.170:27039] logged in with entity id 12 at ([Spawn]8.439793577065258, 135.0, 4.1891019089607395)
+[12:48:44] [pool-49-thread-1/INFO]: (JappaCheese) [Spartan Notification] You are using an outdated version of Spartan.
+[12:48:48] [Async Chat Thread - #0/INFO]: <JappaCheese> Lets gooo
+[12:49:10] [Server thread/INFO]: JappaCheese issued server command: /help
+[12:49:53] [Server thread/INFO]: JappaCheese issued server command: /ess reload
+[12:49:53] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
+[12:49:53] [Server thread/INFO]: [EssentialsDiscord] Discord console logger has been disabled due to insufficient permissions! Please make sure your bot has the "Manage Webhooks" permissions on the server. After fixing that, run "/ess reload".
+[12:49:53] [Server thread/INFO]: [Essentials] Using locale en_US
+[12:49:53] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:50:06] [Server thread/INFO]: CONSOLE issued server command: /ess reload
+[12:50:06] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
+[12:50:06] [Server thread/INFO]: [EssentialsDiscord] Discord console logger has been disabled due to insufficient permissions! Please make sure your bot has the "Manage Webhooks" permissions on the server. After fixing that, run "/ess reload".
+[12:50:06] [Server thread/INFO]: [Essentials] Using locale en_US
+[12:50:06] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:50:06] [Server thread/INFO]: Essentials reloaded 2.20.0-dev+2-e12f1b5.
+[12:50:43] [Server thread/INFO]: CONSOLE issued server command: /help
+[12:50:43] [Server thread/INFO]: To view help from the console, type '?'.
+[12:53:46] [Server thread/INFO]: CONSOLE issued server command: /ess reload
+[12:53:46] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
+[12:53:46] [Server thread/INFO]: [EssentialsDiscord] Discord console logging has been disabled due to an invalid channel definition! If you intend to disable it, set the channel ID to "none"; otherwise check that your channel ID is correct.
+[12:53:46] [Server thread/INFO]: [Essentials] Using locale en_US
+[12:53:46] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:53:46] [Server thread/INFO]: Essentials reloaded 2.20.0-dev+2-e12f1b5.
+[12:54:09] [Server thread/INFO]: CONSOLE issued server command: /ess reload
+[12:54:09] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
+[12:54:10] [Server thread/INFO]: [Essentials] Using locale en_US
+[12:54:10] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:54:10] [Server thread/INFO]: Essentials reloaded 2.20.0-dev+2-e12f1b5.
+[12:54:52] [Server thread/INFO]: FeedbackForwardingSender issued server command: /help
+[12:55:03] [Server thread/INFO]: FeedbackForwardingSender issued server command: /ess reload
+[12:55:03] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
+[12:55:03] [Server thread/INFO]: [Essentials] Using locale en_US
+[12:55:03] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:57:27] [Async Chat Thread - #1/INFO]: <JappaCheese> ada
+[12:59:41] [Async Chat Thread - #2/INFO]: <JappaCheese> test
+[13:02:13] [Server thread/INFO]: FeedbackForwardingSender issued server command: /ess reload
+[13:02:13] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
+[13:02:13] [Server thread/INFO]: [Essentials] Using locale en_US
+[13:02:13] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:02:46] [Server thread/INFO]: JappaCheese lost connection: Disconnected
+[13:02:46] [Server thread/INFO]: JappaCheese left the game
+[13:02:49] [User Authenticator #2/INFO]: UUID of player JappaCheese is 963aa26a-8e00-4d1f-9162-ca68c018eb5c
+[13:02:49] [Server thread/INFO]: JappaCheese joined the game
+[13:02:49] [Server thread/INFO]: JappaCheese[/103.85.36.170:27058] logged in with entity id 13 at ([Spawn]8.503497058753878, 135.0, 1.2319511670084546)
+[13:02:50] [Server thread/INFO]: (JappaCheese) [Spartan Notification] You are using an outdated version of Spartan.
+[13:02:53] [Async Chat Thread - #3/INFO]: <JappaCheese> .
+[13:03:32] [Server thread/INFO]: JappaCheese issued server command: /ess reload
+[13:03:32] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
+[13:03:34] [Server thread/INFO]: [Essentials] Using locale en_US
+[13:03:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:03:35] [Server thread/WARN]: JappaCheese moved too quickly! -1.0079325266427368,2.0244240882136637,-12.266781306149419
+[13:03:36] [Async Chat Thread - #3/INFO]: <JappaCheese> .
+[13:05:27] [Craft Scheduler Thread - 43 - ConDump/INFO]: [ConDump] Latest log file is at /ssd/var/stipedata/servers/playnice mct 2/stipe_user_1290277/./logs/latest.log
