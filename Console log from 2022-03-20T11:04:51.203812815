@@ -1,0 +1,257 @@
+[11:04:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:04:16] [Worker-Main-2/INFO]: Loaded 7 recipes
+[11:04:17] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[11:04:17] [Server thread/INFO]: Loading properties
+[11:04:17] [Server thread/INFO]: This server is running Purpur version git-Purpur-1586 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: 67f934e on HEAD)
+[11:04:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:04:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:04:17] [Server thread/WARN]: [Pufferfish] To improve performance, timings have been disabled by default
+[11:04:17] [Server thread/WARN]: [Pufferfish] You can still use timings by using /timings on, but they will not start on server startup unless you set timings.really-enabled to true in paper.yml
+[11:04:17] [Server thread/WARN]: [Pufferfish] If you would like to disable this message, either set timings.really-enabled to true or timings.enabled to false.
+[11:04:17] [Server thread/WARN]: [Pufferfish] SIMD operations are available for your server, but are not configured!
+[11:04:17] [Server thread/WARN]: [Pufferfish] To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[11:04:17] [Server thread/INFO]: Default game type: SURVIVAL
+[11:04:17] [Server thread/INFO]: Generating keypair
+[11:04:17] [Server thread/INFO]: Starting Minecraft server on 119.252.189.57:27456
+[11:04:17] [Server thread/INFO]: Using epoll channel type
+[11:04:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:04:17] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[11:04:17] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.9
+[11:04:18] [Server thread/INFO]: [VoidGen] Loading VoidGen v2.2.1
+[11:04:18] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.1
+[11:04:18] [Server thread/INFO]: [BuycraftX] Loading BuycraftX v12.0.8
+[11:04:18] [Server thread/INFO]: [Votifier] Loading Votifier v2.7.3
+[11:04:18] [Server thread/INFO]: [VoteParty] Loading VoteParty v2.31
+[11:04:18] [Server thread/INFO]: [TrackPlaytime] Loading TrackPlaytime v1.0-SNAPSHOT
+[11:04:18] [Server thread/INFO]: [ConDump] Loading ConDump v1.3
+[11:04:18] [Server thread/INFO]: [VoidEscape] Loading VoidEscape v1.0
+[11:04:18] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[11:04:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.10-SNAPSHOT+6120-f50a81f
+[11:04:18] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@13a3d1fd]
+[11:04:18] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.0-dev+2-e12f1b5
+[11:04:18] [Server thread/INFO]: [Rankup] Loading Rankup v3.13.2
+[11:04:18] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.7+216b061
+[11:04:18] [Server thread/INFO]: [Spartan] Loading Spartan vBuild 452
+[11:04:18] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.29-SNAPSHOT (build 2506)
+[11:04:18] [Server thread/INFO]: [TabList] Loading TabList v5.6.2
+[11:04:18] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.20.0-dev+2-e12f1b5
+[11:04:18] [Server thread/INFO]: [Shop] Loading Shop v1.8.3.5
+[11:04:18] [Server thread/INFO]: [GSit] Loading GSit v1.0.7
+[11:04:18] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.0-dev+2-e12f1b5
+[11:04:18] [Server thread/INFO]: [ProCosmetics] Loading ProCosmetics v13.3
+[11:04:18] [Server thread/INFO]: [Denizen] Loading Denizen v1.2.3-SNAPSHOT (build 1760-REL)
+[11:04:18] [Server thread/INFO]: [SimpleScore] Loading SimpleScore v3.11.0
+[11:04:18] [Server thread/INFO]: [EssentialsDiscord] Loading EssentialsDiscord v2.20.0-dev+2-e12f1b5
+[11:04:18] [Server thread/INFO]: [IridiumSkyblock] Loading IridiumSkyblock v3.2.6
+[11:04:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:04:19] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.9
+[11:04:19] [Server thread/INFO]:         __
+[11:04:19] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.9
+[11:04:19] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[11:04:19] [Server thread/INFO]:
+[11:04:19] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[11:04:19] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[11:04:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[11:04:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[11:04:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1131ms)
+[11:04:20] [Server thread/INFO]: [VoidGen] Enabling VoidGen v2.2.1
+[11:04:20] [Server thread/INFO]: [VoidGen] Using VoidChunkGen: VERSION_UNKNOWN
+[11:04:20] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[11:04:20] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.20.0-dev+2-e12f1b5 which is not a depend or softdepend of this plugin.
+[11:04:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[11:04:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[11:04:20] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[11:04:20] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[11:04:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.10-SNAPSHOT+6120-f50a81f
+[11:04:20] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[11:04:20] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[11:04:20] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
+[11:04:21] [Server thread/INFO]: Preparing level "Spawn"
+[11:04:21] [Server thread/INFO]: [VoidGen] Generator settings have not been set. Using default values:
+[11:04:21] [Server thread/INFO]: [VoidGen] {"caves":false,"decoration":false,"mobs":false,"structures":false,"noise":false,"surface":false,"bedrock":false}
+[11:04:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:04:22] [Server thread/INFO]: Time elapsed: 205 ms
+[11:04:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:04:22] [Server thread/INFO]: Time elapsed: 84 ms
+[11:04:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:04:22] [Server thread/INFO]: Time elapsed: 79 ms
+[11:04:22] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.1
+[11:04:22] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[11:04:22] [Server thread/INFO]: [BuycraftX] Enabling BuycraftX v12.0.8
+[11:04:22] [Server thread/INFO]: [BuycraftX] Looks like this is a fresh setup. Get started by using 'tebex secret <key>' in the console.
+[11:04:23] [Server thread/INFO]: [Votifier] Enabling Votifier v2.7.3
+[11:04:23] [Server thread/INFO]: [Votifier] Loaded token for website: default
+[11:04:23] [Server thread/INFO]: [Votifier] Using epoll transport to accept votes.
+[11:04:23] [Server thread/INFO]: [Votifier] Method none selected for vote forwarding: Votes will not be received from a forwarder.
+[11:04:23] [Server thread/INFO]: [VoteParty] Enabling VoteParty v2.31
+[11:04:23] [Votifier epoll boss/INFO]: [Votifier] Votifier enabled on socket /119.252.189.57:8192.
+[11:04:23] [Server thread/INFO]: [VoteParty] [ACF] Enabled Asynchronous Tab Completion Support!
+[11:04:23] [Server thread/INFO]:
+[11:04:23] [Server thread/INFO]:  _  _  ____
+[11:04:23] [Server thread/INFO]: / )( \(  _ \
+[11:04:23] [Server thread/INFO]: \ \/ / ) __/ VoteParty v2.31
+[11:04:23] [Server thread/INFO]:  \__/ (__)   Server Version: git-Purpur-1586 (MC: 1.18.2)
+[11:04:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: voteparty [2.0]
+[11:04:24] [Server thread/INFO]: [TrackPlaytime] Enabling TrackPlaytime v1.0-SNAPSHOT
+[11:04:24] [Server thread/INFO]: [ConDump] Enabling ConDump v1.3
+[11:04:24] [Server thread/INFO]: [VoidEscape] Enabling VoidEscape v1.0
+[11:04:24] [Server thread/INFO]: [VoidEscape] Yes! It's a HashSet!!
+[11:04:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.0-dev+2-e12f1b5
+[11:04:24] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[11:04:24] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[11:04:24] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[11:04:24] [Server thread/INFO]: [Essentials] Using locale en_US
+[11:04:24] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[11:04:24] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[11:04:24] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[11:04:24] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[11:04:24] [Server thread/INFO]: [Rankup] Enabling Rankup v3.13.2
+[11:04:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: rankup [3.13.2]
+[11:04:24] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.7+216b061
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn) TNT ignition is PERMITTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn) Lighters are PERMITTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn) Lava fire is PERMITTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn) Fire spread is UNRESTRICTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Spawn'
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn_nether) TNT ignition is PERMITTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn_nether) Lighters are PERMITTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn_nether) Lava fire is PERMITTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn_nether) Fire spread is UNRESTRICTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Spawn_nether'
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) TNT ignition is PERMITTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) Lighters are PERMITTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) Lava fire is PERMITTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) Fire spread is UNRESTRICTED.
+[11:04:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Spawn_the_end'
+[11:04:24] [Server thread/INFO]: [WorldGuard] Loading region data...
+[11:04:24] [Server thread/INFO]: [Spartan] Enabling Spartan vBuild 452
+[11:04:26] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.29-SNAPSHOT (build 2506)
+[11:04:26] [Server thread/INFO]: [TabList] Enabling TabList v5.6.2
+[11:04:26] [Server thread/INFO]: [TabList] Hooked PlaceholderAPI version: 2.11.1
+[11:04:26] [Server thread/INFO]: [TabList] > Enabled v5.6.2 (52ms)
+[11:04:26] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.0-dev+2-e12f1b5
+[11:04:26] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[11:04:26] [Server thread/INFO]: [Shop] Enabling Shop v1.8.3.5
+[11:04:26] [Server thread/INFO]: [Shop] Shops will use emerald as the currency on the server.
+[11:04:26] [Server thread/INFO]: [GSit] Enabling GSit v1.0.7
+[11:04:26] [Server thread/INFO]: [GSit] The Plugin was successfully enabled.
+[11:04:26] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
+[11:04:26] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.0-dev+2-e12f1b5
+[11:04:26] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[11:04:26] [Server thread/INFO]: [ProCosmetics] Enabling ProCosmetics v13.3
+[11:04:26] [Server thread/INFO]: [ProCosmetics] Initializing...
+[11:04:26] [Server thread/INFO]: [ProCosmetics] Initializing configs...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing menus...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing cosmetics...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing arrow effects...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing balloons...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing banners...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing death effects...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing emotes...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing gadgets...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing miniatures...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing morphs...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing mounts...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing music...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing particle effects...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing pets...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing statuses...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Initializing treasures...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Hooking into PlaceholderAPI...
+[11:04:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: procosmetics [1.0.0]
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Connecting to the database...
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Successfully connected to the database!
+[11:04:27] [Server thread/INFO]: [ProCosmetics] Hooking into Essentials...
+[11:04:28] [Server thread/INFO]: [ProCosmetics] Initialized! Took 1165ms.
+[11:04:28] [pool-48-thread-1/INFO]: [Spartan Notification] Done loading 61 rows of data to the Search Engine.
+[11:04:28] [Server thread/INFO]: [Denizen] Enabling Denizen v1.2.3-SNAPSHOT (build 1760-REL)
+[11:04:28] [Server thread/INFO]: [Denizen] Running on java version: 17.0.2
+[11:04:28] [Server thread/INFO]: [Denizen] Running on fully supported Java 17.
+[11:04:28] [Server thread/ERROR]: Error occurred while enabling Denizen v1.2.3-SNAPSHOT (build 1760-REL) (Is it up to date?)
+java.lang.NoClassDefFoundError: org/bukkit/craftbukkit/v1_18_R1/inventory/CraftInventoryCustom
+at com.denizenscript.denizen.nms.v1_18.Handler.<clinit>(Handler.java:222) ~[Denizen-1.2.3-b1760-REL.jar:?]
+at java.lang.Class.forName0(Native Method) ~[?:?]
+at java.lang.Class.forName(Class.java:375) ~[?:?]
+at com.denizenscript.denizen.nms.NMSHandler.initialize(NMSHandler.java:55) ~[Denizen-1.2.3-b1760-REL.jar:?]
+at com.denizenscript.denizen.Denizen.onEnable(Denizen.java:148) ~[Denizen-1.2.3-b1760-REL.jar:?]
+at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:501) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.craftbukkit.v1_18_R2.CraftServer.enablePlugin(CraftServer.java:559) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at org.bukkit.craftbukkit.v1_18_R2.CraftServer.enablePlugins(CraftServer.java:473) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:671) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:438) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:352) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1181) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:322) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_18_R1.inventory.CraftInventoryCustom
+at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:153) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:105) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+... 16 more
+[11:04:28] [Server thread/INFO]: [Denizen] Disabling Denizen v1.2.3-SNAPSHOT (build 1760-REL)
+[11:04:28] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.11.0
+[11:04:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: SimpleScore [3.11.0]
+[11:04:28] [Server thread/INFO]: [EssentialsDiscord] Enabling EssentialsDiscord v2.20.0-dev+2-e12f1b5
+[11:04:28] [Server thread/INFO]: [EssentialsDiscord] Starting Metrics. Opt-out using the global bStats config.
+[11:04:28] [Server thread/INFO]: [EssentialsDiscord] Attempting to login to Discord...
+[11:04:29] [Server thread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.api.JDA] Login Successful!
+[11:04:29] [JDA MainWS-ReadThread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.internal.requests.WebSocketClient] Connected to WebSocket
+[11:04:29] [JDA MainWS-ReadThread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.api.JDA] Finished Loading!
+[11:04:29] [Server thread/INFO]: [EssentialsDiscord] Successfully logged in as JappaSkies Chat#4331
+[11:04:30] [Server thread/INFO]: [IridiumSkyblock] Enabling IridiumSkyblock v3.2.6
+[11:04:30] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock
+[11:04:30] [Server thread/INFO]: Preparing spawn area: 0%
+[11:04:30] [Server thread/INFO]: Time elapsed: 242 ms
+[11:04:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) TNT ignition is PERMITTED.
+[11:04:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lighters are PERMITTED.
+[11:04:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lava fire is PERMITTED.
+[11:04:30] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Fire spread is UNRESTRICTED.
+[11:04:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock'
+[11:04:31] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_nether
+[11:04:31] [Server thread/INFO]: Preparing spawn area: 0%
+[11:04:31] [Server thread/INFO]: Time elapsed: 492 ms
+[11:04:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) TNT ignition is PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lighters are PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lava fire is PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Fire spread is UNRESTRICTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_nether'
+[11:04:31] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_the_end
+[11:04:31] [Server thread/INFO]: Preparing spawn area: 0%
+[11:04:31] [Server thread/INFO]: Time elapsed: 135 ms
+[11:04:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) TNT ignition is PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lighters are PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lava fire is PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Fire spread is UNRESTRICTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_the_end'
+[11:04:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: iridiumskyblock [3.2.6]
+[11:04:31] [Server thread/INFO]: [IridiumSkyblock] Successfully registered 837 placeholders with PlaceholderAPI.
+[11:04:31] [Server thread/INFO]: [IridiumSkyblock] ----------------------------------------
+[11:04:31] [Server thread/INFO]: [IridiumSkyblock]
+[11:04:31] [Server thread/INFO]: [IridiumSkyblock] IridiumSkyblock Enabled!
+[11:04:31] [Server thread/INFO]: [IridiumSkyblock] Version: 3.2.6
+[11:04:31] [Server thread/INFO]: [IridiumSkyblock]
+[11:04:31] [Server thread/INFO]: [IridiumSkyblock] ----------------------------------------
+[11:04:32] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[11:04:32] [Server thread/INFO]: Running delayed init tasks
+[11:04:32] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
+[11:04:32] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[11:04:32] [Craft Scheduler Thread - 2 - VoteParty/INFO]: [VoteParty] Version is up to date
+[11:04:32] [Craft Scheduler Thread - 6 - SimpleScore/WARN]: [SimpleScore] New version (v3.11.1) available, download at:
+[11:04:32] [Craft Scheduler Thread - 6 - SimpleScore/WARN]: [SimpleScore] https://www.spigotmc.org/resources/23243/
+[11:04:32] [Server thread/INFO]: [Citizens] Loaded 18 NPCs.
+[11:04:32] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b131 which is not a depend or softdepend of this plugin.
+[11:04:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault [1.7.0]
+[11:04:32] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[11:04:32] [Server thread/INFO]: [IridiumSkyblock] You are using the latest version of IridiumSkyblock.
+[11:04:32] [Server thread/INFO]: Done (15.430s)! For help, type "help"
+[11:04:32] [Server thread/INFO]: Timings Reset
+[11:04:32] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] Checking for Updates ...
+[11:04:32] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] No new version available
+[11:04:40] [User Authenticator #1/INFO]: UUID of player JappaCheese is 963aa26a-8e00-4d1f-9162-ca68c018eb5c
+[11:04:40] [Server thread/INFO]: JappaCheese joined the game
+[11:04:40] [Server thread/INFO]: JappaCheese[/103.85.36.170:27125] logged in with entity id 71 at ([Spawn]52.9592731542252, 155.0, -40.09439473909112)
+[11:04:44] [Server thread/INFO]: JappaCheese issued server command: /pl
+[11:04:51] [Server thread/INFO]: JappaCheese issued server command: /condump
+[11:04:51] [Craft Scheduler Thread - 8 - ConDump/INFO]: [ConDump] Latest log file is at /ssd/var/stipedata/servers/playnice mct 2/stipe_user_1290277/./logs/latest.log
