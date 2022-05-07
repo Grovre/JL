@@ -1,0 +1,1905 @@
+[08:22:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:22:44] [Worker-Main-1/INFO]: Loaded 7 recipes
+[08:22:45] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[08:22:45] [Server thread/INFO]: Loading properties
+[08:22:45] [Server thread/INFO]: This server is running Purpur version git-Purpur-1586 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: 67f934e on HEAD)
+[08:22:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:22:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:22:45] [Server thread/WARN]: [Pufferfish] SIMD operations are available for your server, but are not configured!
+[08:22:45] [Server thread/WARN]: [Pufferfish] To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[08:22:45] [Server thread/INFO]: Default game type: SURVIVAL
+[08:22:45] [Server thread/INFO]: Generating keypair
+[08:22:45] [Server thread/INFO]: Starting Minecraft server on 119.252.189.57:27456
+[08:22:45] [Server thread/INFO]: Using epoll channel type
+[08:22:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[08:22:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[08:22:45] [Server thread/ERROR]: Could not load 'plugins/dungeonsxl-dist-0.18-PRE-02.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ItemsXL]. Please download and install these plugins to run 'DungeonsXL'.
+at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:291) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.craftbukkit.v1_18_R2.CraftServer.loadPlugins(CraftServer.java:417) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:323) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1181) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:322) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[08:22:46] [Server thread/INFO]: [CrazyCrates] Loading 1 libraries... please wait
+[08:22:46] [Server thread/INFO]: [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 2/stipe_user_1290277/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.6.10/kotlin-stdlib-1.6.10.jar
+[08:22:46] [Server thread/INFO]: [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 2/stipe_user_1290277/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[08:22:46] [Server thread/INFO]: [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 2/stipe_user_1290277/libraries/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.10/kotlin-stdlib-common-1.6.10.jar
+[08:22:46] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.9
+[08:22:46] [Server thread/INFO]: [VoidGen] Loading VoidGen v2.2.1
+[08:22:46] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.1
+[08:22:46] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v3.0.0-SNAPSHOT-b206
+[08:22:46] [Server thread/INFO]: [BuycraftX] Loading BuycraftX v12.0.8
+[08:22:46] [Server thread/INFO]: [Votifier] Loading Votifier v2.7.3
+[08:22:46] [Server thread/INFO]: [VoteParty] Loading VoteParty v2.31
+[08:22:46] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.8.0
+[08:22:47] [Server thread/INFO]: [TrackPlaytime] Loading TrackPlaytime v1.0-SNAPSHOT
+[08:22:47] [Server thread/INFO]: [ConDump] Loading ConDump v1.3
+[08:22:47] [Server thread/INFO]: [VoidEscape] Loading VoidEscape v1.0
+[08:22:47] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[08:22:47] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.10-SNAPSHOT+6120-f50a81f
+[08:22:47] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@325b6cab]
+[08:22:47] [Server thread/INFO]: [CrazyCrates] Loading CrazyCrates v1.10.3
+[08:22:47] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.0-dev+5-d891268
+[08:22:47] [Server thread/INFO]: [Rankup] Loading Rankup v3.13.3
+[08:22:47] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.7+216b061
+[08:22:47] [Server thread/INFO]: [Spartan] Loading Spartan vBuild 462
+[08:22:47] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.29-SNAPSHOT (build 2506)
+[08:22:47] [Server thread/INFO]: [TabList] Loading TabList v5.6.2
+[08:22:47] [Server thread/INFO]: [Quests] Loading Quests v4.4.0-b325
+[08:22:47] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.20.0-dev+5-d891268
+[08:22:47] [Server thread/INFO]: [PlayerVaults] Loading PlayerVaults v4.2.6
+[08:22:47] [Server thread/INFO]: [GSit] Loading GSit v1.0.7
+[08:22:47] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.0-dev+5-d891268
+[08:22:47] [Server thread/INFO]: [AureliumSkills] Loading AureliumSkills vBeta 1.2.11
+[08:22:47] [Server thread/INFO]: [ProCosmetics] Loading ProCosmetics v13.3
+[08:22:47] [Server thread/INFO]: [SimpleScore] Loading SimpleScore v3.11.1
+[08:22:47] [Server thread/INFO]: [EssentialsDiscord] Loading EssentialsDiscord v2.20.0-dev+5-d891268
+[08:22:47] [Server thread/INFO]: [AdvancedEnchantments] Loading AdvancedEnchantments v8.9.10
+[08:22:47] [Server thread/INFO]: [InteractiveChat] Loading InteractiveChat v4.1.4.5
+[08:22:47] [Server thread/INFO]: [IridiumSkyblock] Loading IridiumSkyblock v3.2.8
+[08:22:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:22:48] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.9
+[08:22:48] [Server thread/INFO]:         __
+[08:22:48] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.9
+[08:22:48] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[08:22:48] [Server thread/INFO]:
+[08:22:48] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[08:22:49] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[08:22:49] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[08:22:49] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[08:22:49] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1281ms)
+[08:22:49] [Server thread/INFO]: [VoidGen] Enabling VoidGen v2.2.1
+[08:22:49] [Server thread/INFO]: [VoidGen] Using VoidChunkGen: VERSION_UNKNOWN
+[08:22:49] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.8.0
+[08:22:49] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[08:22:49] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[08:22:49] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.20.0-dev+5-d891268 which is not a depend or softdepend of this plugin.
+[08:22:49] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[08:22:49] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[08:22:49] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[08:22:49] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[08:22:49] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.10-SNAPSHOT+6120-f50a81f
+[08:22:49] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[08:22:49] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[08:22:49] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
+[08:22:50] [Server thread/INFO]: Preparing level "Spawn"
+[08:22:50] [Server thread/INFO]: [VoidGen] Generator settings have not been set. Using default values:
+[08:22:50] [Server thread/INFO]: [VoidGen] {"caves":false,"decoration":false,"mobs":false,"structures":false,"noise":false,"surface":false,"bedrock":false}
+[08:22:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:22:55] [Server thread/INFO]: Time elapsed: 238 ms
+[08:22:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:22:55] [Server thread/INFO]: Time elapsed: 66 ms
+[08:22:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:22:55] [Server thread/INFO]: Time elapsed: 60 ms
+[08:22:55] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.1
+[08:22:56] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[08:22:56] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v3.0.0-SNAPSHOT-b206
+[08:22:56] [Server thread/INFO]: [BuycraftX] Enabling BuycraftX v12.0.8
+[08:22:56] [Server thread/INFO]: [BuycraftX] Looks like this is a fresh setup. Get started by using 'tebex secret <key>' in the console.
+[08:22:57] [Server thread/INFO]: [Votifier] Enabling Votifier v2.7.3
+[08:22:57] [Server thread/INFO]: [Votifier] Loaded token for website: default
+[08:22:57] [Server thread/INFO]: [Votifier] Using epoll transport to accept votes.
+[08:22:57] [Server thread/INFO]: [Votifier] Method none selected for vote forwarding: Votes will not be received from a forwarder.
+[08:22:57] [Server thread/INFO]: [VoteParty] Enabling VoteParty v2.31
+[08:22:57] [Votifier epoll boss/INFO]: [Votifier] Votifier enabled on socket /119.252.189.57:8192.
+[08:22:58] [Server thread/INFO]: [VoteParty] [ACF] Enabled Asynchronous Tab Completion Support!
+[08:22:58] [Server thread/INFO]:
+[08:22:58] [Server thread/INFO]:  _  _  ____
+[08:22:58] [Server thread/INFO]: / )( \(  _ \
+[08:22:58] [Server thread/INFO]: \ \/ / ) __/ VoteParty v2.31
+[08:22:58] [Server thread/INFO]:  \__/ (__)   Server Version: git-Purpur-1586 (MC: 1.18.2)
+[08:22:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: voteparty [2.0]
+[08:22:58] [Server thread/INFO]: [TrackPlaytime] Enabling TrackPlaytime v1.0-SNAPSHOT
+[08:22:58] [Server thread/INFO]: [ConDump] Enabling ConDump v1.3
+[08:22:58] [Server thread/INFO]: [VoidEscape] Enabling VoidEscape v1.0
+[08:22:58] [Server thread/INFO]: [VoidEscape] Yes! It's a HashSet!!
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Enabling CrazyCrates v1.10.3
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Galactic.yml.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Classic.yml.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Crazy.yml.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[08:22:58] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R2! Trying to find NMS support
+[08:22:58] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R2' loaded!
+[08:22:58] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[08:22:58] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[08:22:58] [Server thread/INFO]: [CrazyCrates] Utilizing Paper Functions...
+[08:22:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: crazycrates [1.10.3]
+[08:22:59] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.0-dev+5-d891268
+[08:22:59] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[08:22:59] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[08:22:59] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[08:22:59] [Server thread/INFO]: [Essentials] Using locale en
+[08:22:59] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[08:22:59] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[08:22:59] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[08:22:59] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[08:22:59] [Server thread/INFO]: [Rankup] Enabling Rankup v3.13.3
+[08:22:59] [Thread-11/INFO]: [NBTAPI] [NBTAPI] The NBT-API seems to be up-to-date!
+[08:23:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: rankup [3.13.3]
+[08:23:00] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.7+216b061
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn) TNT ignition is PERMITTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn) Lighters are PERMITTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn) Lava fire is PERMITTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn) Fire spread is UNRESTRICTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Spawn'
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn_nether) TNT ignition is PERMITTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn_nether) Lighters are PERMITTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn_nether) Lava fire is PERMITTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn_nether) Fire spread is UNRESTRICTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Spawn_nether'
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) TNT ignition is PERMITTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) Lighters are PERMITTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) Lava fire is PERMITTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] (Spawn_the_end) Fire spread is UNRESTRICTED.
+[08:23:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Spawn_the_end'
+[08:23:00] [Server thread/INFO]: [WorldGuard] Loading region data...
+[08:23:00] [Server thread/INFO]: [Spartan] Enabling Spartan vBuild 462
+[08:23:02] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.29-SNAPSHOT (build 2506)
+[08:23:03] [Server thread/INFO]: [TabList] Enabling TabList v5.6.2
+[08:23:03] [Server thread/INFO]: [TabList] Hooked PlaceholderAPI version: 2.11.1
+[08:23:03] [Server thread/INFO]: [TabList] > Enabled v5.6.2 (40ms)
+[08:23:03] [Server thread/INFO]: [Quests] Enabling Quests v4.4.0-b325
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/WARN]: [Quests] There are new language phrases in /lang/en-US/strings_new.yml for the current version! You must transfer them to, or regenerate, strings.yml to remove this warning!
+[08:23:03] [Server thread/INFO]: [Quests] Loaded language en-US. Translations via Crowdin
+[08:23:03] [Server thread/INFO]: [Quests] Successfully linked Quests with Citizens 2.0.29-SNAPSHOT (build 2506)
+[08:23:03] [Server thread/INFO]: [Quests] Loading storage implementation: YAML
+[08:23:03] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.0-dev+5-d891268
+[08:23:03] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[08:23:03] [Server thread/INFO]: [PlayerVaults] Enabling PlayerVaults v4.2.6
+[08:23:04] [Server thread/INFO]: [PlayerVaults] Added PUMPKIN to list of blocked materials.
+[08:23:04] [Server thread/INFO]: [PlayerVaults] Added DIAMOND_BLOCK to list of blocked materials.
+[08:23:04] [Server thread/INFO]: [PlayerVaults] Loaded! Took 146ms
+[08:23:04] [Server thread/INFO]: [GSit] Enabling GSit v1.0.7
+[08:23:04] [Server thread/INFO]: [GSit] The Plugin was successfully enabled.
+[08:23:04] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
+[08:23:04] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.0-dev+5-d891268
+[08:23:04] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[08:23:04] [Server thread/INFO]: [AureliumSkills] Enabling AureliumSkills vBeta 1.2.11
+[08:23:04] [Server thread/INFO]: [AureliumSkills] WorldGuard Support Enabled!
+[08:23:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: aureliumskills [Beta 1.2.11]
+[08:23:04] [Server thread/INFO]: [AureliumSkills] PlaceholderAPI Support Enabled!
+[08:23:04] [Server thread/INFO]: [AureliumSkills] Vault Support Enabled!
+[08:23:04] [Server thread/INFO]: [AureliumSkills] Loaded 184 config options in 0 ms
+[08:23:04] [Server thread/INFO]: [AureliumSkills] Loaded 284 sources and 10 tags in 10ms
+[08:23:04] [Server thread/INFO]: [AureliumSkills] HolographicDisplays Support Enabled!
+[08:23:04] [Server thread/INFO]: [AureliumSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[08:23:04] [Server thread/INFO]: [AureliumSkills] Loading languages...
+[08:23:05] [Server thread/INFO]: [AureliumSkills] Loaded 14 languages in 845ms
+[08:23:05] [Server thread/INFO]: [AureliumSkills] Loaded 30 pattern rewards and 0 level rewards
+[08:23:05] [Server thread/INFO]: [AureliumSkills] Loaded 3 menus, 9 items, and 5 templates in 26 ms
+[08:23:05] [Server thread/INFO]: [AureliumSkills] Loaded 78 Ability Options in 2ms
+[08:23:05] [Server thread/INFO]: [AureliumSkills] Loaded 32 loot entries in 4 pools and 2 tables
+[08:23:05] [Server thread/INFO]: [AureliumSkills] Loaded 3 blocked worlds.
+[08:23:05] [Server thread/INFO]: [AureliumSkills] Aurelium Skills has been enabled
+[08:23:05] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R2! Trying to find NMS support
+[08:23:05] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R2' loaded!
+[08:23:05] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[08:23:05] [Server thread/INFO]: [ProCosmetics] Enabling ProCosmetics v13.3
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing configs...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing menus...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing cosmetics...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing arrow effects...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing balloons...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing banners...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing death effects...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing emotes...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing gadgets...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing miniatures...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing morphs...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing mounts...
+[08:23:06] [Server thread/INFO]: [ProCosmetics] Initializing music...
+[08:23:06] [pool-50-thread-1/INFO]: [Spartan Notification] Done loading 1136 rows of data to the Search Engine.
+[08:23:07] [Server thread/INFO]: [ProCosmetics] Initializing particle effects...
+[08:23:07] [Server thread/INFO]: [ProCosmetics] Initializing pets...
+[08:23:07] [Server thread/INFO]: [ProCosmetics] Initializing statuses...
+[08:23:07] [Server thread/INFO]: [ProCosmetics] Initializing treasures...
+[08:23:07] [Server thread/INFO]: [ProCosmetics] Hooking into PlaceholderAPI...
+[08:23:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: procosmetics [1.0.0]
+[08:23:07] [Server thread/INFO]: [ProCosmetics] Connecting to the database...
+[08:23:07] [Server thread/INFO]: [ProCosmetics] Successfully connected to the database!
+[08:23:07] [Server thread/INFO]: [ProCosmetics] Hooking into Essentials...
+[08:23:08] [Server thread/INFO]: [ProCosmetics] Initialized! Took 1448ms.
+[08:23:08] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.11.1
+[08:23:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: SimpleScore [3.11.1]
+[08:23:08] [Server thread/INFO]: [EssentialsDiscord] Enabling EssentialsDiscord v2.20.0-dev+5-d891268
+[08:23:08] [Server thread/INFO]: [EssentialsDiscord] Starting Metrics. Opt-out using the global bStats config.
+[08:23:08] [Server thread/INFO]: [EssentialsDiscord] Attempting to login to Discord...
+[08:23:08] [Server thread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.api.JDA] Login Successful!
+[08:23:09] [JDA MainWS-ReadThread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.internal.requests.WebSocketClient] Connected to WebSocket
+[08:23:09] [JDA MainWS-ReadThread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.api.JDA] Finished Loading!
+[08:23:09] [Server thread/INFO]: [EssentialsDiscord] Successfully logged in as JappaSkies Chat#4331
+[08:23:09] [Server thread/INFO]: [AdvancedEnchantments] Enabling AdvancedEnchantments v8.9.10
+[08:23:10] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_18_R2.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[08:23:13] [Server thread/INFO]: [AdvancedEnchantments] Successfully hooked into WorldGuard.
+[08:23:13] [Server thread/INFO]: [AdvancedEnchantments] Successfully hooked into AureliumSkills.
+[08:23:13] [Server thread/INFO]: [AdvancedEnchantments] Successfully hooked into PlaceholderAPI.
+[08:23:13] [Server thread/INFO]: [AdvancedEnchantments] Successfully hooked into ProtocolLib.
+[08:23:13] [Server thread/INFO]: [AdvancedEnchantments] Successfully hooked into Essentials.
+[08:23:13] [Server thread/INFO]: [AdvancedEnchantments] Loaded 7 armor sets.
+[08:23:13] [Server thread/INFO]: [AdvancedEnchantments] Loaded 5 weapons.
+[08:23:13] [Server thread/INFO]: [AdvancedEnchantments] Spartan support has been enabled.
+[08:23:13] [Server thread/INFO]: [AdvancedEnchantments] Successfully hooked into economy plugin (Vault)
+[08:23:13] [Server thread/INFO]: [InteractiveChat] Enabling InteractiveChat v4.1.4.5
+[08:23:15] [Server thread/INFO]: [InteractiveChat] Opened Sqlite database successfully
+[08:23:15] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into Essentials!
+[08:23:15] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into EssentialsDiscord!
+[08:23:15] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into LuckPerms!
+[08:23:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: interactivechat [1.0.0]
+[08:23:15] [Server thread/INFO]: [InteractiveChat] InteractiveChat has been Enabled!
+[08:23:15] [Server thread/INFO]: [IridiumSkyblock] Enabling IridiumSkyblock v3.2.8
+[08:23:19] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock
+[08:23:19] [Server thread/INFO]: Preparing spawn area: 0%
+[08:23:19] [Server thread/INFO]: Time elapsed: 189 ms
+[08:23:19] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) TNT ignition is PERMITTED.
+[08:23:19] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lighters are PERMITTED.
+[08:23:19] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lava fire is PERMITTED.
+[08:23:19] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Fire spread is UNRESTRICTED.
+[08:23:19] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock'
+[08:23:20] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_nether
+[08:23:20] [Server thread/INFO]: Preparing spawn area: 0%
+[08:23:20] [Server thread/INFO]: Time elapsed: 425 ms
+[08:23:20] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) TNT ignition is PERMITTED.
+[08:23:20] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lighters are PERMITTED.
+[08:23:20] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lava fire is PERMITTED.
+[08:23:20] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Fire spread is UNRESTRICTED.
+[08:23:20] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_nether'
+[08:23:20] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_the_end
+[08:23:21] [Server thread/INFO]: Preparing spawn area: 0%
+[08:23:21] [Server thread/INFO]: Time elapsed: 471 ms
+[08:23:21] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) TNT ignition is PERMITTED.
+[08:23:21] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lighters are PERMITTED.
+[08:23:21] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lava fire is PERMITTED.
+[08:23:21] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Fire spread is UNRESTRICTED.
+[08:23:21] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_the_end'
+[08:23:21] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: iridiumskyblock [3.2.8]
+[08:23:21] [Server thread/INFO]: [IridiumSkyblock] Successfully registered 837 placeholders with PlaceholderAPI.
+[08:23:21] [Server thread/INFO]: [IridiumSkyblock] ----------------------------------------
+[08:23:21] [Server thread/INFO]: [IridiumSkyblock]
+[08:23:21] [Server thread/INFO]: [IridiumSkyblock] IridiumSkyblock Enabled!
+[08:23:21] [Server thread/INFO]: [IridiumSkyblock] Version: 3.2.8
+[08:23:21] [Server thread/INFO]: [IridiumSkyblock]
+[08:23:21] [Server thread/INFO]: [IridiumSkyblock] ----------------------------------------
+[08:23:21] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[08:23:21] [Server thread/INFO]: Running delayed init tasks
+[08:23:21] [Craft Scheduler Thread - 10 - Essentials/INFO]: [Essentials] Fetching version information...
+[08:23:21] [Craft Scheduler Thread - 7 - InteractiveChat/INFO]: [InteractiveChat] Loading languages...
+[08:23:21] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[08:23:21] [Craft Scheduler Thread - 27 - Vault/INFO]: [Vault] Checking for Updates ...
+[08:23:21] [Craft Scheduler Thread - 27 - Vault/INFO]: [Vault] No new version available
+[08:23:22] [Server thread/INFO]: [Citizens] Loaded 46 NPCs.
+[08:23:22] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.luckperms.api.LuckPerms from LuckPerms v5.4.9 which is not a depend or softdepend of this plugin.
+[08:23:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: luckperms [5.1-R2]
+[08:23:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server [2.6.0]
+[08:23:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player [2.0.2]
+[08:23:22] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b131 which is not a depend or softdepend of this plugin.
+[08:23:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault [1.7.0]
+[08:23:22] [Server thread/INFO]: 4 placeholder hook(s) registered! 1 placeholder hook(s) have an update available.
+[08:23:22] [Server thread/INFO]: Done (37.156s)! For help, type "help"
+[08:23:22] [Server thread/INFO]: Timings Reset
+[08:23:22] [Craft Scheduler Thread - 30 - InteractiveChat/INFO]: [InteractiveChat] Loaded all 1 languages!
+[08:23:22] [Server thread/INFO]: [Quests] Loaded 4 Quest(s), 7 Action(s), 1 Condition(s) and 827 Phrase(s)
+[08:23:23] [Craft Scheduler Thread - 6 - VoteParty/INFO]: [VoteParty] Version is up to date
+[08:23:23] [Server thread/INFO]: [IridiumSkyblock] You are using the latest version of IridiumSkyblock.
+[11:15:29] [User Authenticator #1/INFO]: UUID of player JappaCheese is 963aa26a-8e00-4d1f-9162-ca68c018eb5c
+[11:15:29] [Server thread/INFO]: JappaCheese[/103.85.36.170:27007] logged in with entity id 11380 at ([Spawn]58.23682493994001, 127.5, 11.996853167336267)
+[11:15:29] [Server thread/INFO]: [Lv.1 King] Jappa just appeared in the sky!
+[11:15:30] [pool-52-thread-1/INFO]: (JappaCheese) [Spartan Notification] You are using an outdated version of Spartan.
+[11:15:58] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_18_R2! Trying to find NMS support
+[11:15:58] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R2' loaded!
+[11:15:58] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[11:15:58] [Thread-48/INFO]: [NBTAPI] [NBTAPI] The NBT-API seems to be up-to-date!
+[11:20:20] [Server thread/INFO]: JappaCheese issued server command: /survival
+[11:20:23] [Server thread/INFO]: JappaCheese issued server command: /kill
+[11:20:25] [Server thread/INFO]: JappaCheese issued server command: /suicide
+[11:20:25] [Server thread/INFO]: JappaCheese died
+[11:20:55] [Server thread/INFO]: JappaCheese issued server command: /lp user JappaCheese parent settrack ranks default
+[11:20:55] [luckperms-command-executor/INFO]: [LP] LOG > (JappaCheese) [U] (jappacheese)
+[11:20:55] [luckperms-command-executor/INFO]: [LP] LOG > parent settrack ranks default
+[11:20:56] [Async Chat Thread - #0/INFO]: [Lv.1 Newcomer] Jappa > .
+[11:21:20] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[11:21:23] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[11:21:23] [luckperms-command-executor/INFO]: https://luckperms.net/editor/MkawyAcSyy
+[11:21:28] [ForkJoinPool-1-worker-16/INFO]: [LP] Editor window connected successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Changes have been received from the connected web editor session.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 11 (11) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (1 addition and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.10 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 12 (12) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (1 addition and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.11 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 13 (13) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (1 addition and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.12 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 14 (14) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (1 addition and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.13 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 15 (15) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (1 addition and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.14 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 16 (16) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (1 addition and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.15 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 17 (17) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (1 addition and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.16 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 18 (18) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (1 addition and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.17 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 19 (19) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (1 addition and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.18 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 20 (20) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (1 addition and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.19 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 21 (21) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.20 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.21 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.21 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 22 (22) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.21 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.22 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.22 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 23 (23) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.23 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.22 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.23 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 24 (24) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.24 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.24 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.23 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 25 (25) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.24 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.25 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.25 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 26 (26) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.25 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.26 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.26 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 27 (27) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.27 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.27 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.26 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 28 (28) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.28 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.27 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.28 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 29 (29) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.29 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.29 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.28 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 30 (30) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.29 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.30 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.30 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 31 (31) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.31 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.30 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.31 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 32 (32) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.31 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.32 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.32 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 33 (33) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.33 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.32 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.33 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 34 (34) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.33 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.34 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.34 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 35 (35) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.34 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.35 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.35 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 36 (36) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.35 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.36 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.36 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 37 (37) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.37 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.37 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.36 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 38 (38) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.38 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.38 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.37 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 39 (39) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.38 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.39 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.39 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to group 40 (40) successfully.
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: [LP] (3 additions and 0 deletions)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  group.39 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  displayname.40 (true)
+[11:32:11] [ForkJoinPool-1-worker-16/INFO]: +  prefix.0.&7&lLv\.40 (true)
+[11:32:40] [ForkJoinPool-1-worker-16/INFO]: [LP] Changes have been received from the connected web editor session.
+[11:32:40] [ForkJoinPool-1-worker-16/INFO]: [LP] Web editor data was applied to track levels successfully.
+[11:32:40] [ForkJoinPool-1-worker-16/INFO]: [LP] (20 additions and 0 deletions)
+[11:32:40] [ForkJoinPool-1-worker-16/INFO]: -  1 ---> 2 ---> 3 ---> 4 ---> 5 ---> 6 ---> 7 ---> 8 ---> 9 ---> 10 ---> 11 ---> 12 ---> 13 ---> 14 ---> 15 ---> 16 ---> 17 ---> 18 ---> 19 ---> 20
+[11:32:40] [ForkJoinPool-1-worker-16/INFO]: +  1 ---> 2 ---> 3 ---> 4 ---> 5 ---> 6 ---> 7 ---> 8 ---> 9 ---> 10 ---> 11 ---> 12 ---> 13 ---> 14 ---> 15 ---> 16 ---> 17 ---> 18 ---> 19 ---> 20 ---> 21 ---> 22 ---> 23 ---> 24 ---> 25 ---> 26 ---> 27 ---> 28 ---> 29 ---> 30 ---> 31 ---> 32 ---> 33 ---> 34 ---> 35 ---> 36 ---> 37 ---> 38 ---> 39 ---> 40
+[11:33:13] [Server thread/INFO]: JappaCheese issued server command: /discord
+[11:33:28] [Server thread/INFO]: JappaCheese issued server command: /vote
+[11:33:31] [Server thread/INFO]: JappaCheese issued server command: /pl
+[11:33:37] [Server thread/INFO]: JappaCheese issued server command: /enchant
+[11:33:39] [Server thread/INFO]: JappaCheese issued server command: /enchanter
+[11:34:01] [Server thread/INFO]: Nothing changed. The player already is an operator
+[11:34:11] [Server thread/INFO]: JappaCheese issued server command: /lp user JappaCheese parent settrack ranks owner
+[11:34:11] [luckperms-command-executor/INFO]: [LP] LOG > (JappaCheese) [U] (jappacheese)
+[11:34:11] [luckperms-command-executor/INFO]: [LP] LOG > parent settrack ranks owner
+[11:34:11] [Async Chat Thread - #1/INFO]: [Lv.1 King] Jappa > .
+[11:34:14] [Server thread/INFO]: JappaCheese issued server command: /creative
+[11:34:46] [Server thread/INFO]: JappaCheese issued server command: /cc set Basic
+[11:36:54] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Galactic.yml.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Classic.yml.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Crazy.yml.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Medium.yml.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Large.yml.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:36:54] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:36:54] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:37:13] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Medium.yml.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Large.yml.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Medium.yml.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Large.yml.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:37:13] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:37:13] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:37:22] [Server thread/INFO]: JappaCheese issued server command: /cc set Medium
+[11:37:27] [Server thread/INFO]: JappaCheese issued server command: /cc set Large
+[11:38:41] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Medium.yml.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Large.yml.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Medium.yml.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Large.yml.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:38:41] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:38:41] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:39:38] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Medium.yml.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Large.yml.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Medium.yml.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Large.yml.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:39:38] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:39:38] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:39:44] [Server thread/INFO]: JappaCheese issued server command: /cc give physical Basic 16
+[11:39:48] [Server thread/INFO]: JappaCheese issued server command: /cc give physical Large 16
+[11:39:52] [Server thread/INFO]: JappaCheese issued server command: /cc give physical Medium 16
+[11:39:54] [Server thread/INFO]: [CrazyCrates]: JappaCheese is opening a Basic Shipment.
+[11:39:59] [Server thread/INFO]: CONSOLE issued server command: /eco give JappaCheese 1000
+[11:39:59] [Server thread/INFO]: $1,000 added to [Lv.1 King] Jappa account. New balance: $52,742
+[11:40:02] [Server thread/INFO]: [CrazyCrates]: JappaCheese is opening a Rare Shipment.
+[11:40:02] [Server thread/INFO]: CONSOLE issued server command: /eco give JappaCheese 100000
+[11:40:02] [Server thread/INFO]: $100,000 added to [Lv.1 King] Jappa account. New balance: $152,742
+[11:40:03] [Server thread/INFO]: [CrazyCrates]: JappaCheese is opening a Rare Shipment.
+[11:40:09] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[11:40:09] [Server thread/INFO]: [CrazyCrates]: JappaCheese is opening a Legendary Shipment.
+[11:40:16] [Server thread/INFO]: JappaCheese has made the advancement [Cover Me with Diamonds]
+[11:41:45] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Medium.yml.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Large.yml.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:41:45] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Loaded 1 physical crate locations.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:41:45] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:41:52] [Server thread/INFO]: CONSOLE issued server command: /broadcast JappaCheese has just won some Basic Grass.
+[11:41:56] [Server thread/INFO]: CONSOLE issued server command: /broadcast JappaCheese has just won some Basic Grass.
+[11:41:57] [Server thread/INFO]: CONSOLE issued server command: /broadcast JappaCheese has just won some Basic Grass.
+[11:41:59] [Server thread/INFO]: CONSOLE issued server command: /broadcast JappaCheese has just won some Basic Grass.
+[11:41:59] [Server thread/INFO]: CONSOLE issued server command: /broadcast JappaCheese has just won some Basic Grass.
+[11:41:59] [Server thread/INFO]: CONSOLE issued server command: /eco give JappaCheese 1000
+[11:41:59] [Server thread/INFO]: $1,000 added to [Lv.1 King] Jappa account. New balance: $153,742
+[11:42:01] [Server thread/INFO]: JappaCheese issued server command: /clear
+[11:42:30] [Server thread/INFO]: JappaCheese issued server command: /cc set Rare
+[11:42:35] [Server thread/INFO]: JappaCheese issued server command: /cc set Legendary
+[11:42:52] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:42:52] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:42:52] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:42:54] [Server thread/INFO]: JappaCheese issued server command: /cc give physical Basic 16
+[11:42:55] [Server thread/INFO]: [CrazyCrates]: JappaCheese is opening a Basic Shipment.
+[11:42:59] [Server thread/INFO]: CONSOLE issued server command: /broadcast JappaCheese has just won some Basic Grass.
+[11:43:16] [Server thread/INFO]: JappaCheese issued server command: /cc give physical Basic 16
+[11:43:17] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:43:17] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:43:17] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:43:18] [Server thread/INFO]: [CrazyCrates]: JappaCheese is opening a Basic Shipment.
+[11:43:50] [Server thread/INFO]: JappaCheese issued server command: /crates
+[11:44:55] [Server thread/INFO]: JappaCheese issued server command: /lp editor
+[11:48:53] [ForkJoinPool-1-worker-36/INFO]: [LP] LOG > (JappaCheese) [G] (default)
+[11:48:53] [ForkJoinPool-1-worker-36/INFO]: [LP] LOG > webeditor add crazycrates.menu false
+[11:48:53] [ForkJoinPool-1-worker-36/INFO]: [LP] LOG > (JappaCheese) [G] (mod)
+[11:48:53] [ForkJoinPool-1-worker-36/INFO]: [LP] LOG > webeditor add crazycrates.menu true
+[11:48:54] [Server thread/INFO]: JappaCheese issued server command: /deop JappaCheese
+[11:48:54] [Server thread/INFO]: [JappaCheese: Made JappaCheese no longer a server operator]
+[11:49:08] [Server thread/INFO]: JappaCheese issued server command: /lp user JappaCheese parent settrack ranks default
+[11:49:08] [luckperms-command-executor/INFO]: [LP] LOG > (JappaCheese) [U] (jappacheese)
+[11:49:08] [luckperms-command-executor/INFO]: [LP] LOG > parent settrack ranks default
+[11:49:08] [Async Chat Thread - #2/INFO]: [Lv.1 Newcomer] Jappa > .
+[11:49:10] [Server thread/INFO]: JappaCheese issued server command: /cc
+[11:49:12] [Server thread/INFO]: [CrazyCrates]: JappaCheese is opening a Basic Shipment.
+[11:49:30] [Server thread/INFO]: [CrazyCrates]: JappaCheese is opening a Basic Shipment.
+[11:50:11] [Async Chat Thread - #3/INFO]: [Lv.1 King] Jappa > .
+[11:50:17] [Server thread/INFO]: JappaCheese issued server command: /region select
+[11:50:19] [Server thread/INFO]: JappaCheese issued server command: /region flags
+[11:50:28] [Server thread/INFO]: JappaCheese issued server command: /rg flag -w "Spawn" -h 1 spawn chest-access ALLOW
+[11:50:30] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'Spawn' have been background saved
+[11:50:55] [Server thread/INFO]: JappaCheese issued server command: /ajhgskdj]
+[12:14:07] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:14:07] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:14:07] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:14:21] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:14:21] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:14:21] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:14:34] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:14:34] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:14:34] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:15:08] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:15:08] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:15:08] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:15:19] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:15:19] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:15:19] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:15:36] [Server thread/INFO]: JappaCheese issued server command: /holo list
+[12:15:39] [Server thread/INFO]: JappaCheese issued server command: /holo select crate
+[12:15:47] [Server thread/INFO]: JappaCheese issued server command: /holo movehere crates
+[12:15:49] [Server thread/INFO]: JappaCheese issued server command: /holo movehere crates
+[12:18:44] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:18:44] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:18:44] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:18:52] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:18:52] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:18:52] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:19:03] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:19:03] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:19:03] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:20:10] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:20:10] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:20:10] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:20:45] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:20:45] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:20:45] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:20:51] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:20:51] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:20:51] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:22:20] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:22:20] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:22:20] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:24:00] [Server thread/INFO]: JappaCheese issued server command: /holo edit crates
+[12:24:23] [Server thread/INFO]: JappaCheese issued server command: /holo addLine crates &8R-Click to Preview - L-Click to Open
+[12:24:44] [Server thread/INFO]: JappaCheese issued server command: /holo setLine crates 2 &8Use your Shipment Keys to collect your supplies!
+[12:25:45] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:25:45] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:25:45] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:26:38] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:26:38] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:26:38] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:26:53] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:26:53] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:26:53] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:27:08] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:27:08] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:27:08] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:27:25] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:27:25] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:27:25] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:33:45] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:33:45] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:33:45] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:34:51] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:34:51] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:34:51] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:35:08] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:35:08] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:35:08] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:36:11] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:36:11] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:36:11] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:39:40] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:39:40] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:39:40] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:40:14] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:40:14] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:40:14] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:40:21] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:40:21] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:40:21] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:40:38] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:40:38] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:40:38] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:40:44] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:40:44] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:40:44] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:40:57] [Server thread/INFO]: JappaCheese issued server command: /cc reload
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Legendary.yml.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Basic.yml.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the Rare.yml.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Legendary.yml.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Basic.yml.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/Rare.yml.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[12:40:57] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Loaded 3 physical crate locations.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Failed to load 2 physical crate locations.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[12:40:57] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[12:41:56] [Server thread/INFO]: JappaCheese issued server command: /skills
+[12:44:42] [Server thread/INFO]: JappaCheese issued server command: /skills reload
+[12:44:42] [Server thread/INFO]: [AureliumSkills] Loaded 184 config options in 0 ms
+[12:44:42] [Server thread/INFO]: [AureliumSkills] Loaded 284 sources and 10 tags in 5ms
+[12:44:42] [Server thread/INFO]: [AureliumSkills] Loaded 30 pattern rewards and 0 level rewards
+[12:44:42] [Server thread/INFO]: [AureliumSkills] Loading languages...
+[12:44:42] [Server thread/INFO]: [AureliumSkills] Loaded 14 languages in 398ms
+[12:44:42] [Server thread/INFO]: [AureliumSkills] Loaded 3 menus, 9 items, and 5 templates in 1 ms
+[12:44:42] [Server thread/INFO]: [AureliumSkills] Loaded 78 Ability Options in 1ms
+[12:44:42] [Server thread/INFO]: [AureliumSkills] Loaded 32 loot entries in 4 pools and 2 tables
+[12:44:42] [Server thread/INFO]: [AureliumSkills] Loaded 3 blocked worlds.
+[12:44:42] [Server thread/INFO]: [AureliumSkills] WorldGuard Support Enabled!
+[12:44:43] [Server thread/INFO]: JappaCheese issued server command: /skills
+[12:50:12] [Async Chat Thread - #4/INFO]: [Lv.1 King] Jappa > I'm not AFK
+[12:50:17] [Async Chat Thread - #4/INFO]: [Lv.1 King] Jappa > Smh
+[13:37:07] [User Authenticator #2/INFO]: UUID of player Vulpes_Pulpes is 2f3da582-a56c-4683-a572-dc74cb66faee
+[13:37:07] [Server thread/INFO]: Vulpes_Pulpes[/203.40.128.50:62101] logged in with entity id 20761 at ([Spawn]68.69999998807907, 141.0, 14.092518412467863)
+[13:37:07] [Server thread/INFO]: [Lv.20 Voyager] Vulpes_Pulpes just appeared in the sky!
+[13:37:51] [Server thread/INFO]: JappaCheese lost connection: Disconnected
+[13:37:51] [Server thread/INFO]: [Lv.1 King] Jappa just left the sky!
+[13:38:25] [Server thread/INFO]: Vulpes_Pulpes issued server command: /ranks
+[13:38:31] [Server thread/INFO]: Vulpes_Pulpes issued server command: /home
+[13:39:09] [Server thread/INFO]: Vulpes_Pulpes issued server command: /alchemy
+[13:39:19] [Server thread/INFO]: Vulpes_Pulpes issued server command: /skill
+[13:40:01] [Server thread/INFO]: Vulpes_Pulpes issued server command: /is visit fizzlet
+[13:40:01] [Server thread/WARN]: Vulpes_Pulpes moved too quickly! -199.98117417231362,-138.0,-543.9743632451042
+[13:40:25] [Server thread/INFO]: Vulpes_Pulpes issued server command: /home
+[13:40:25] [Server thread/WARN]: Vulpes_Pulpes moved too quickly! 200.87537578224573,141.5,541.5737840692799
+[13:41:10] [Server thread/INFO]: Vulpes_Pulpes has made the advancement [Fishy Business]
+[13:41:24] [Async Chat Thread - #5/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > hey
+[13:42:08] [Async Chat Thread - #5/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > what the hell just happened with my skills
+[13:42:23] [Async Chat Thread - #5/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > i leveled fishing once and it leveled up to V
+[13:42:32] [Server thread/INFO]: Vulpes_Pulpes issued server command: /fishing
+[13:42:51] [Async Chat Thread - #5/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > ohh i see now
+[13:42:56] [Async Chat Thread - #5/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > i fished some rare
+[13:43:05] [Async Chat Thread - #5/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > so i got boat loads of exp for it
+[13:44:20] [Async Chat Thread - #6/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > wait is mothers day soon?
+[13:44:33] [Async Chat Thread - #6/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > oops
+[13:45:41] [Server thread/INFO]: Vulpes_Pulpes issued server command: /is rewards
+[13:45:53] [Async Chat Thread - #7/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > need more max health
+[13:46:13] [Async Chat Thread - #7/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > you got anything planned for the level system by the way
+[13:46:16] [Async Chat Thread - #7/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > huh?
+[13:46:34] [Server thread/INFO]: Vulpes_Pulpes issued server command: /fishing
+[13:54:29] [Server thread/INFO]: Vulpes_Pulpes issued server command: /fishing
+[13:54:32] [Server thread/INFO]: Vulpes_Pulpes issued server command: /fishing
+[13:55:03] [Async Chat Thread - #8/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > that's be cool
+[13:55:30] [Server thread/INFO]: Vulpes_Pulpes issued server command: /ranks
+[13:55:50] [Async Chat Thread - #8/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > isn't the total currently 20?
+[13:56:09] [Async Chat Thread - #8/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > can't seem to rank up above level 20
+[13:56:20] [Server thread/INFO]: Vulpes_Pulpes issued server command: /rankup
+[13:56:54] [Async Chat Thread - #8/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > all i can say is it should probably be a flat number, so either 20/30
+[13:57:31] [Async Chat Thread - #8/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > already got 15 hearts from skills too
+[13:57:59] [Async Chat Thread - #8/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > then what's the point?
+[13:58:21] [Server thread/INFO]: Vulpes_Pulpes issued server command: /spawn
+[13:58:25] [Server thread/INFO]: Vulpes_Pulpes issued server command: /home
+[13:59:07] [Async Chat Thread - #9/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > assuming you can tie enough rewards to leveling
+[13:59:22] [Async Chat Thread - #9/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > have to make it worth while else people just won't do it
+[13:59:25] [Server thread/INFO]: Vulpes_Pulpes issued server command: /spawn
+[13:59:29] [Server thread/INFO]: Vulpes_Pulpes issued server command: /home
+[13:59:37] [Server thread/INFO]: Vulpes_Pulpes issued server command: /spawn
+[13:59:40] [Server thread/INFO]: Vulpes_Pulpes issued server command: /home
+[14:02:46] [Async Chat Thread - #10/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > really need to find a balance between things
+[14:03:01] [Async Chat Thread - #10/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > if you can set it all up, i can try to break it for you
+[14:03:46] [Async Chat Thread - #10/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > need some people to test the balance, make sure things don't get left behind and what not
+[14:05:57] [User Authenticator #3/INFO]: UUID of player JappaCheese is 963aa26a-8e00-4d1f-9162-ca68c018eb5c
+[14:05:57] [Server thread/INFO]: JappaCheese[/103.85.36.170:27021] logged in with entity id 24178 at ([Spawn]8.435669525648574, 134.5, 9.136666807190926)
+[14:05:57] [Server thread/INFO]: [Lv.1 King] Jappa just appeared in the sky!
+[14:05:58] [pool-52-thread-1/INFO]: (JappaCheese) [Spartan Notification] You are using an outdated version of Spartan.
+[14:06:13] [Async Chat Thread - #11/INFO]: [Lv.1 King] Jappa > PC doesn't like having genshin and mc open at the same time
+[14:06:21] [Server thread/INFO]: JappaCheese issued server command: /rankup3 reload
+[14:06:23] [Server thread/INFO]: JappaCheese issued server command: /ranks
+[14:06:23] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ranks' in plugin Rankup v3.13.3
+at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.craftbukkit.v1_18_R2.CraftServer.dispatchCommand(CraftServer.java:905) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2380) ~[?:?]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2191) ~[?:?]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2172) ~[?:?]
+at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[?:?]
+at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[?:?]
+at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[?:?]
+at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1428) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:189) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1405) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1398) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1376) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:322) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 56 out of bounds for length 54
+at java.util.Arrays$ArrayList.set(Arrays.java:4170) ~[?:?]
+at net.minecraft.core.NonNullList.set(NonNullList.java:54) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at org.bukkit.craftbukkit.v1_18_R2.inventory.CraftInventoryCustom$MinecraftInventory.a(CraftInventoryCustom.java:167) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at org.bukkit.craftbukkit.v1_18_R2.inventory.CraftInventory.setItem(CraftInventory.java:99) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at sh.okx.rankup.ranksgui.RanksGui.open(RanksGui.java:67) ~[Rankup-3.13.3.jar:?]
+at sh.okx.rankup.ranksgui.RanksGuiListener.open(RanksGuiListener.java:45) ~[Rankup-3.13.3.jar:?]
+at sh.okx.rankup.ranksgui.RanksGuiCommand.onCommand(RanksGuiCommand.java:23) ~[Rankup-3.13.3.jar:?]
+at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+... 21 more
+[14:06:24] [Server thread/INFO]: JappaCheese issued server command: /ranks
+[14:06:24] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ranks' in plugin Rankup v3.13.3
+at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.craftbukkit.v1_18_R2.CraftServer.dispatchCommand(CraftServer.java:905) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2380) ~[?:?]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2191) ~[?:?]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2172) ~[?:?]
+at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[?:?]
+at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[?:?]
+at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[?:?]
+at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1428) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:189) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1405) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1398) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[?:?]
+at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1533) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1248) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:322) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 56 out of bounds for length 54
+at java.util.Arrays$ArrayList.set(Arrays.java:4170) ~[?:?]
+at net.minecraft.core.NonNullList.set(NonNullList.java:54) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at org.bukkit.craftbukkit.v1_18_R2.inventory.CraftInventoryCustom$MinecraftInventory.a(CraftInventoryCustom.java:167) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at org.bukkit.craftbukkit.v1_18_R2.inventory.CraftInventory.setItem(CraftInventory.java:99) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at sh.okx.rankup.ranksgui.RanksGui.open(RanksGui.java:67) ~[Rankup-3.13.3.jar:?]
+at sh.okx.rankup.ranksgui.RanksGuiListener.open(RanksGuiListener.java:45) ~[Rankup-3.13.3.jar:?]
+at sh.okx.rankup.ranksgui.RanksGuiCommand.onCommand(RanksGuiCommand.java:23) ~[Rankup-3.13.3.jar:?]
+at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+... 21 more
+[14:06:25] [Server thread/INFO]: JappaCheese issued server command: /ranku
+[14:06:27] [Server thread/INFO]: JappaCheese issued server command: /rankup
+[14:06:30] [Async Chat Thread - #11/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > for instance i'm not sure if i would even bother farming if there wasn't a health bonus strapped to it
+[14:06:38] [Async Chat Thread - #11/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > genshin...
+[14:06:39] [Async Chat Thread - #11/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > ew
+[14:06:46] [Async Chat Thread - #11/INFO]: [Lv.1 King] Jappa > I just reinstalled it
+[14:06:49] [Async Chat Thread - #11/INFO]: [Lv.1 King] Jappa > Can you try ranking up
+[14:06:58] [Server thread/INFO]: Vulpes_Pulpes issued server command: /rankup
+[14:07:07] [Async Chat Thread - #11/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > uh need money
+[14:07:11] [Server thread/INFO]: Vulpes_Pulpes issued server command: /ranks
+[14:07:11] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ranks' in plugin Rankup v3.13.3
+at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.craftbukkit.v1_18_R2.CraftServer.dispatchCommand(CraftServer.java:905) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2380) ~[?:?]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2191) ~[?:?]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2172) ~[?:?]
+at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[?:?]
+at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[?:?]
+at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[?:?]
+at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1428) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:189) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1405) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1398) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1376) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:322) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException
+[14:07:14] [Server thread/INFO]: JappaCheese issued server command: /eco give Vulpes_Pulpes 1000
+[14:07:16] [Server thread/INFO]: JappaCheese issued server command: /eco give Vulpes_Pulpes 10000
+[14:07:26] [Async Chat Thread - #11/INFO]: [Lv.20 Voyager] Vulpes_Pulpes > ./ranks is busted from the looks of it too
+[14:07:29] [Server thread/INFO]: Vulpes_Pulpes issued server command: /rankup
+[14:07:29] [Async Chat Thread - #11/INFO]: [Lv.1 King] Jappa > Yup
+[14:07:32] [Async Chat Thread - #11/INFO]: [Lv.1 King] Jappa > Gotta sort that out
+[14:07:35] [Async Chat Thread - #11/INFO]: [Lv.21 Voyager] Vulpes_Pulpes > yep, 21
+[14:07:40] [Async Chat Thread - #11/INFO]: [Lv.1 King] Jappa > Alright, so its the ranks gui
+[14:07:43] [Async Chat Thread - #11/INFO]: [Lv.1 King] Jappa > That needs a fix
+[14:08:05] [Async Chat Thread - #11/INFO]: [Lv.1 King] Jappa > I think
+[14:08:10] [Async Chat Thread - #11/INFO]: [Lv.1 King] Jappa > Its cause I put in too many levels
+[14:08:52] [Server thread/INFO]: JappaCheese issued server command: /rankup3 reload
+[14:08:52] [Server thread/INFO]: JappaCheese issued server command: /ranks
+[14:08:52] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ranks' in plugin Rankup v3.13.3
+at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.craftbukkit.v1_18_R2.CraftServer.dispatchCommand(CraftServer.java:905) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2380) ~[?:?]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2191) ~[?:?]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2172) ~[?:?]
+at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[?:?]
+at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[?:?]
+at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[?:?]
+at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1428) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:189) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1405) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1398) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[?:?]
+at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1533) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1248) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:322) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException
+[14:08:56] [Server thread/INFO]: JappaCheese issued server command: /rankup
+[14:09:05] [Server thread/INFO]: JappaCheese issued server command: /ranks gui
+[14:09:05] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ranks' in plugin Rankup v3.13.3
+at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[purpur-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+at org.bukkit.craftbukkit.v1_18_R2.CraftServer.dispatchCommand(CraftServer.java:905) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2380) ~[?:?]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2191) ~[?:?]
+at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2172) ~[?:?]
+at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[?:?]
+at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[?:?]
+at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:51) ~[?:?]
+at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[?:?]
+at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1428) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:189) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1405) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1398) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1376) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:322) ~[purpur-1.18.2.jar:git-Purpur-1586]
+at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException
+[14:09:28] [Server thread/INFO]: JappaCheese issued server command: /xondump
+[14:09:29] [Server thread/INFO]: JappaCheese issued server command: /condump
+[14:09:29] [Craft Scheduler Thread - 398 - ConDump/INFO]: [ConDump] Latest log file is at /ssd/var/stipedata/servers/playnice mct 2/stipe_user_1290277/./logs/latest.log
