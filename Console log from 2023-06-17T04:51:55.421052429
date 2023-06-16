@@ -1,0 +1,22 @@
+[02:32:09] [Craft Scheduler Thread - 282 - Vault/INFO]: [Vault] Checking for Updates ... 
+[02:32:09] [Craft Scheduler Thread - 282 - Vault/INFO]: [Vault] No new version available
+[04:16:04] [Server thread/INFO]: [Towny] Time until a New Day: 7 hours, 43 minutes, 56 seconds
+[04:50:13] [Craft Scheduler Thread - 371 - ConDump/INFO]: [ConDump] Latest log file is at /ssd/var/stipedata/servers/playnice mct 5/stipe_user_5756506/./logs/latest.log
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/INFO]: [ConDump] Failed to commit to repo.
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: org.kohsuke.github.HttpException: {"message":"is at a595532a31b51ea7bb2f186f4a368c8545ec8971 but expected 310fee38108fd145028e328f3daf03e3eb6dfa57","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at ConDump-1.3.2-1.19.3.jar//org.kohsuke.github.GitHubConnectorResponseErrorHandler$1.onError(GitHubConnectorResponseErrorHandler.java:56)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at ConDump-1.3.2-1.19.3.jar//org.kohsuke.github.GitHubClient.detectKnownErrors(GitHubClient.java:424)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at ConDump-1.3.2-1.19.3.jar//org.kohsuke.github.GitHubClient.sendRequest(GitHubClient.java:386)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at ConDump-1.3.2-1.19.3.jar//org.kohsuke.github.GitHubClient.sendRequest(GitHubClient.java:355)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at ConDump-1.3.2-1.19.3.jar//org.kohsuke.github.Requester.fetch(Requester.java:76)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at ConDump-1.3.2-1.19.3.jar//org.kohsuke.github.GHContentBuilder.commit(GHContentBuilder.java:107)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at ConDump-1.3.2-1.19.3.jar//me.grovre.condump.Ghub.commitToLogRepo(Ghub.java:32)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at ConDump-1.3.2-1.19.3.jar//me.grovre.condump.commands.ConDumpCommand.lambda$onCommand$0(ConDumpCommand.java:42)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[04:50:15] [Craft Scheduler Thread - 371 - ConDump/INFO]: [ConDump] Please make a GitHub issue here: https://github.com/Grovre/condump/issues
+[04:51:55] [Craft Scheduler Thread - 370 - ConDump/INFO]: [ConDump] Latest log file is at /ssd/var/stipedata/servers/playnice mct 5/stipe_user_5756506/./logs/latest.log
