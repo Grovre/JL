@@ -1,0 +1,827 @@
+[09:27:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:27:52] [ServerMain/INFO]: Loaded 7 recipes
+[09:27:52] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[09:27:52] [Server thread/INFO]: Loading properties
+[09:27:52] [Server thread/INFO]: This server is running Purpur version git-Purpur-2016 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 96ebdc8 on HEAD)
+[09:27:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:27:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:27:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[09:27:53] [Server thread/INFO]: [Pufferfish] Max SIMD vector size on this system is 256 bits (int)
+[09:27:53] [Server thread/INFO]: [Pufferfish] Max SIMD vector size on this system is 256 bits (float)
+[09:27:53] [Server thread/INFO]: [Pufferfish] SIMD operations detected as functional. Will replace some operations with faster versions.
+[09:27:53] [Server thread/INFO]: Default game type: SURVIVAL
+[09:27:53] [Server thread/INFO]: Generating keypair
+[09:27:53] [Server thread/INFO]: Starting Minecraft server on 119.252.189.36:25575
+[09:27:53] [Server thread/INFO]: Using epoll channel type
+[09:27:53] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[09:27:53] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[09:27:54] [Server thread/INFO]: [AngelChest] Hooked into WorldGuard 7.0.9-beta1+2249-223b80c
+[09:27:54] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.88
+[09:27:55] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[09:27:55] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.15+6463-5ca4dff
+[09:27:55] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3a18c3bf]
+[09:27:55] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9-beta1+2249-223b80c
+[09:27:55] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.3
+[09:27:55] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.0.0
+[09:27:55] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.20.1) has not yet been tested! Proceed with caution.
+[09:27:56] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.1-b861
+[09:27:56] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1-dev+37-b2ae28b
+[09:27:56] [Server thread/INFO]: [mcMMO] Loading server plugin mcMMO v2.1.221
+[09:27:56] [Server thread/INFO]: [mcMMO] Registered WG flags successfully!
+[09:27:56] [Server thread/INFO]: [Citizens] Loading server plugin Citizens v2.0.32-SNAPSHOT (build 3135)
+[09:27:56] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.3.0.3
+[09:27:56] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.26.2
+[09:27:56] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1-dev+37-b2ae28b
+[09:27:56] [Server thread/INFO]: [Votifier] Loading server plugin Votifier v2.7.3
+[09:27:56] [Server thread/INFO]: [Towny] Loading server plugin Towny v0.99.5.0
+[09:27:56] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.0.0
+[09:27:56] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.43
+[09:27:56] [Server thread/INFO]: [AuctionHouse] Loading server plugin AuctionHouse v3.5
+[09:27:56] [Server thread/INFO]: [TAB] Loading server plugin TAB v4.0.2
+[09:27:56] [Server thread/INFO]: [InteractiveChat] Loading server plugin InteractiveChat v4.2.7.1
+[09:27:56] [Server thread/INFO]: [PlayerVaults] Loading server plugin PlayerVaults v4.2.14
+[09:27:56] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.92
+[09:27:56] [Server thread/INFO]: [VoteParty] Loading server plugin VoteParty v2.37
+[09:27:56] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1-dev+37-b2ae28b
+[09:27:56] [Server thread/INFO]: [EasyShearing] Loading server plugin EasyShearing v1.3.1
+[09:27:56] [Server thread/INFO]: [EconomyShopGUI-Premium] Loading server plugin EconomyShopGUI-Premium v4.11.8
+[09:27:56] [Server thread/INFO]: [BetterRTP] Loading server plugin BetterRTP v3.6.10
+[09:27:56] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v9.15.0
+[09:27:56] [Server thread/INFO]: [AngelChest] Successfully registered WorldGuard flags.
+[09:27:56] [Server thread/INFO]: [Vulcan] Loading server plugin Vulcan v2.7.4
+[09:27:57] [Server thread/INFO]: [HeartEarner] Loading server plugin HeartEarner v1.1-1.19.3
+[09:27:57] [Server thread/INFO]: [ConDump] Loading server plugin ConDump v1.3.2-1.19.3
+[09:27:57] [Server thread/INFO]: [Plan] Loading server plugin Plan v5.5 build 2391
+[09:27:57] [Server thread/INFO]: [CrazyCrates] Loading server plugin CrazyCrates v1.11.16
+[09:27:57] [Server thread/INFO]: [Rankup] Loading server plugin Rankup v3.14.2
+[09:27:57] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.6.0
+[09:27:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:27:57] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.88
+[09:27:57] [Server thread/INFO]:         __
+[09:27:57] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.88
+[09:27:57] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[09:27:57] [Server thread/INFO]:
+[09:27:57] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[09:27:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[09:27:59] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[09:27:59] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[09:27:59] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2350ms)
+[09:27:59] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[09:27:59] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[09:27:59] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[09:27:59] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[09:27:59] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[09:27:59] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.15+6463-5ca4dff
+[09:27:59] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[09:27:59] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[09:27:59] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
+[09:28:00] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.0.0
+[09:28:00] [Server thread/INFO]: Preparing level "world"
+[09:28:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:28:01] [Server thread/INFO]: Time elapsed: 182 ms
+[09:28:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[09:28:01] [Server thread/INFO]: Time elapsed: 27 ms
+[09:28:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[09:28:01] [Server thread/INFO]: Time elapsed: 26 ms
+[09:28:01] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9-beta1+2249-223b80c
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[09:28:01] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[09:28:01] [Server thread/INFO]: [WorldGuard] Loading region data...
+[09:28:01] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.3
+[09:28:01] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[09:28:01] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[09:28:01] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[09:28:01] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[09:28:02] [Server thread/INFO]: Could not set generator for world 'world': Plugin 'TerraformGenerator' does not exist
+[09:28:02] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[09:28:02] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[09:28:02] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[09:28:02] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1-dev+37-b2ae28b
+[09:28:02] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[09:28:02] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[09:28:02] [Server thread/INFO]: [Essentials] Loaded 38132 items from items.json.
+[09:28:02] [Server thread/INFO]: [Essentials] Using locale en_GB
+[09:28:02] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[09:28:02] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[09:28:02] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[09:28:02] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[09:28:02] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.221
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: config.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: config.yml to defaults/config.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: config.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: config.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [Debug] No errors found in config.yml!
+[09:28:03] [Server thread/INFO]: [mcMMO] Loading locale from plugins/mcMMO/locales/locale_override.properties
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: advanced.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: advanced.yml to defaults/advanced.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: advanced.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: advanced.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [Debug] No errors found in advanced.yml!
+[09:28:03] [Server thread/INFO]: [mcMMO] Platform String: 1.20.1-R0.1-SNAPSHOT
+[09:28:03] [Server thread/INFO]: [mcMMO] Minecraft version determined to be - 1.20.1
+[09:28:03] [Server thread/INFO]: [mcMMO] Loading compatibility layers...
+[09:28:03] [Server thread/INFO]: [mcMMO] Finished loading compatibility layers.
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: persistent_data.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: persistent_data.yml to defaults/persistent_data.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: persistent_data.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: persistent_data.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [Debug] No errors found in persistent_data.yml!
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: upgrades_overhaul.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: upgrades_overhaul.yml to defaults/upgrades_overhaul.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: upgrades_overhaul.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: upgrades_overhaul.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: treasures.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: treasures.yml to defaults/treasures.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: treasures.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: treasures.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: fishing_treasures.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: fishing_treasures.yml to defaults/fishing_treasures.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: fishing_treasures.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: fishing_treasures.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] Registering enchantments for Fishing Book...
+[09:28:03] [Server thread/INFO]: [mcMMO] Loading mcMMO potions.yml File...
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: coreskills.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: coreskills.yml to defaults/coreskills.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: coreskills.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: coreskills.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: sounds.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: sounds.yml to defaults/sounds.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: sounds.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: sounds.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: skillranks.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: skillranks.yml to defaults/skillranks.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: skillranks.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: skillranks.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: child.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: child.yml to defaults/child.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: child.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: child.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: repair.vanilla.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: repair.vanilla.yml to defaults/repair.vanilla.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: repair.vanilla.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: repair.vanilla.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: salvage.vanilla.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: salvage.vanilla.yml to defaults/salvage.vanilla.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: salvage.vanilla.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: salvage.vanilla.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] (plugins/mcMMO/flatfile/mcmmo.users) Validating database file..
+[09:28:03] [Server thread/INFO]: [mcMMO] Enabling Acrobatics Skills
+[09:28:03] [Server thread/INFO]: [mcMMO] Registered subskill: Roll
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: experience.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: experience.yml to defaults/experience.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: experience.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: experience.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] 0 entries in mcMMO World Blacklist
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Initializing config: chat.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: chat.yml to defaults/chat.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: chat.yml
+[09:28:03] [Server thread/INFO]: [mcMMO] [config] Config initialized: chat.yml
+[09:28:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: mcmmo [1.0,0]
+[09:28:03] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.32-SNAPSHOT (build 3135)
+[09:28:04] [Server thread/INFO]: [Citizens] Loading external libraries
+[09:28:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: citizensplaceholder [1.0.0]
+[09:28:05] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[09:28:05] [Server thread/INFO]: [CMILib] Enabling CMILib v1.3.0.3
+[09:28:05] [Server thread/INFO]: Server version: v1_20_R1 - 1.20.1 - paper
+[09:28:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: cmil [1.3.0.3]
+[09:28:05] [Server thread/INFO]: PlaceholderAPI hooked.
+[09:28:05] [Server thread/INFO]: Updated (EN) language file. Took 40ms
+[09:28:05] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.26.2
+[09:28:06] [Server thread/WARN]: [DiscordSRV] You're attempting to use a higher config version than the plugin. Things probably won't work correctly.
+[09:28:06] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1-dev+37-b2ae28b
+[09:28:06] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[09:28:06] [Server thread/INFO]: [Votifier] Enabling Votifier v2.7.3
+[09:28:06] [Server thread/INFO]: [Votifier] Loaded token for website: default
+[09:28:06] [Server thread/INFO]: [Votifier] Using epoll transport to accept votes.
+[09:28:06] [Server thread/INFO]: [Votifier] Method none selected for vote forwarding: Votes will not be received from a forwarder.
+[09:28:06] [Votifier epoll boss/INFO]: [Votifier] Votifier enabled on socket /119.252.189.36:46575.
+[09:28:06] [Server thread/INFO]: [Towny] Enabling Towny v0.99.5.0
+[09:28:06] [Server thread/INFO]: ====================      Towny      ========================
+[09:28:06] [Server thread/INFO]: [Towny] Successfully loaded translations for 42 languages.
+[09:28:06] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[09:28:06] [Server thread/INFO]: [Towny] Config: Loaded 9 townblock types: shop, inn, arena, jail, default, bank, wilds, farm, embassy.
+[09:28:06] [Server thread/INFO]: [Towny] Database: [Load] flatfile [Save] flatfile
+[09:28:06] [Server thread/INFO]: [Towny] Database: Loaded in 41ms.
+[09:28:06] [Server thread/INFO]: [Towny] Database: 100% of residents have stored UUIDs.
+[09:28:06] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Cleaning up old backups...
+[09:28:06] [Server thread/INFO]: [Towny] Searching for third-party plugins...
+[09:28:06] [Server thread/INFO]: [Towny] Plugins found:
+[09:28:06] [Server thread/INFO]: [Towny]   Permissions: TownyPerms, LuckPerms v5.4.88 via Vault
+[09:28:06] [Server thread/INFO]: [Towny]   Chat: LuckPerms v5.4.88 via Vault
+[09:28:06] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Successfully cleaned backups.
+[09:28:06] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Making backup...
+[09:28:06] [Server thread/INFO]: [Towny]   Economy: EssentialsX Economy via Vault
+[09:28:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: townyadvanced [0.99.5.0]
+[09:28:06] [Server thread/INFO]: [Towny]   Add-ons: PlaceholderAPI v2.11.3
+[09:28:06] [Server thread/WARN]: [Towny]   Warning: EssentialsX Economy has been known to reset
+town and nation bank accounts on rare occasions.
+[09:28:06] [Folia Async Scheduler Thread #1/INFO]: [Towny] Time until a New Day: 2 hours, 31 minutes, 54 seconds
+[09:28:06] [Folia Async Scheduler Thread #2/INFO]: [Towny] Checking for updates...
+[09:28:07] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[09:28:07] [ForkJoinPool.commonPool-worker-1/INFO]: [Towny] Towny flatfiles and settings successfully backed up.
+[09:28:07] [Server thread/INFO]: =============================================================
+[09:28:07] [Server thread/INFO]: [Towny] Version: 0.99.5.0 - Plugin Enabled
+[09:28:07] [Server thread/INFO]: =============================================================
+[09:28:07] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.0.0
+[09:28:07] [Server thread/INFO]: ------------- Jobs -------------
+[09:28:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: jobsr [5.2.0.0]
+[09:28:07] [Server thread/INFO]: PlaceholderAPI hooked.
+[09:28:07] [Server thread/INFO]: Connected to database (SqLite)
+[09:28:07] [Server thread/INFO]: Loaded 8 titles
+[09:28:07] [Server thread/INFO]: Loaded 69 protected blocks timers
+[09:28:07] [Server thread/INFO]: Loaded 1403 custom item names
+[09:28:07] [Server thread/INFO]: Loaded 81 custom entity names
+[09:28:07] [Server thread/INFO]: Loaded 2 custom MythicMobs names
+[09:28:07] [Server thread/INFO]: Loaded 38 custom enchant names
+[09:28:07] [Server thread/INFO]: Loaded 21 custom enchant names
+[09:28:07] [Server thread/INFO]: Loaded 16 custom color names
+[09:28:07] [Server thread/INFO]: Loaded 4 shop items
+[09:28:07] [Server thread/INFO]: Loaded 1 quests for Farmer
+[09:28:07] [Server thread/INFO]: Loaded 1 quests for Hunter
+[09:28:07] [Server thread/INFO]: Loaded 1 quests for Excavator
+[09:28:07] [Server thread/INFO]: Loaded 1 quests for Lumberjack
+[09:28:07] [Server thread/INFO]: Loaded 1 quests for Miner
+[09:28:07] [Server thread/INFO]: Loaded 5 jobs
+[09:28:07] [Server thread/INFO]: Loaded 0 boosted items
+[09:28:07] [Server thread/INFO]: Loaded 1 furnace for reassigning.
+[09:28:07] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[09:28:07] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[09:28:07] [Server thread/INFO]: Preloaded 20 players data in 0.01
+[09:28:07] [Server thread/INFO]: WorldGuard detected.
+[09:28:07] [Server thread/INFO]: mcMMO2.1.221 was found - Enabling capabilities.
+[09:28:07] [pool-45-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (767828469573c2f0fa3ed5a44feb0b2f15f2c02d)
+[09:28:07] [Server thread/INFO]: Registered McMMO 2.x listener
+[09:28:07] [Folia Async Scheduler Thread #2/INFO]: [Towny] New update available: 0.99.5.8 | Current version: 0.99.5.0
+[09:28:07] [Folia Async Scheduler Thread #2/INFO]: [Towny] Download it here: https://github.com/TownyAdvanced/Towny/releases/tag/0.99.5.8
+[09:28:07] [Server thread/INFO]: Plugin has been enabled successfully.
+[09:28:07] [Server thread/INFO]: ------------------------------------
+[09:28:07] [Server thread/INFO]: [spark] Enabling spark v1.10.43
+[09:28:07] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[09:28:07] [Server thread/INFO]: [spark] Starting background profiler...
+[09:28:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: spark [1.10.43]
+[09:28:07] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[09:28:07] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v3.5
+[09:28:07] [Server thread/INFO]: [AuctionHouse] Found locale file en_us.json
+[09:28:07] [Server thread/WARN]: [AuctionHouse] A backup of the database has been saved with .backup extension.
+[09:28:07] [Server thread/INFO]: [AuctionHouse] Using NMS version v1_20_R1
+[09:28:07] [Server thread/INFO]: [AuctionHouse] Enabled DiscordSRV support
+[09:28:07] [Server thread/INFO]: [AuctionHouse] Using en_us locale
+[09:28:07] [Server thread/INFO]: [AuctionHouse] Loaded 0 listings
+[09:28:07] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[09:28:07] [Server thread/INFO]: [TAB] Enabling TAB v4.0.2
+[09:28:07] [Server thread/INFO]: [TAB] Server version: 1.20.1 (v1_20_R1)
+[09:28:08] [Server thread/INFO]: [TAB] Loaded NMS hook in 33ms
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:JappaLand (2023)(953122540400820235)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:welcome(953124609098653727)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:announcements(953124713239019621)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:levelups(953159249150767205)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(953124899411619891)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:off-topic(953124829341581332)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:memes(953124881141219348)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:lessons(953966731175559258)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:open-development(1038932246591180850)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ingame(1055455890284744755)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-text(953125706278273025)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:server-console(1077096183626993695)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:plugins(1119414423916920944)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:youtube(953143488130711572)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:twitch(953143512545763348)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:server-console(1077096183626993695)
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling Essentials hook
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling LuckPerms hook
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling PlaceholderAPI hook
+[09:28:08] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling voice module
+[09:28:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: tab [4.0.2]
+[09:28:08] [Server thread/INFO]: [TAB] Enabled in 111ms
+[09:28:08] [Server thread/INFO]: [InteractiveChat] Enabling InteractiveChat v4.2.7.1
+[09:28:08] [Server thread/INFO]: [InteractiveChat] Opened Sqlite database successfully
+[09:28:08] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into Essentials!
+[09:28:08] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into DiscordSRV!
+[09:28:08] [Server thread/INFO]: [DiscordSRV] API listener com.loohp.interactivechat.hooks.discordsrv.DiscordSRVEvents subscribed (2 methods)
+[09:28:08] [Server thread/INFO]: [InteractiveChat] InteractiveChat has hooked into LuckPerms!
+[09:28:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: interactivechat [4.2.7.1]
+[09:28:08] [Server thread/INFO]: [InteractiveChat] InteractiveChat has been Enabled!
+[09:28:08] [Server thread/INFO]: [PlayerVaults] Enabling PlayerVaults v4.2.14
+[09:28:09] [Server thread/INFO]: [PlayerVaults] Added PUMPKIN to list of blocked materials.
+[09:28:09] [Server thread/INFO]: [PlayerVaults] Added DIAMOND_BLOCK to list of blocked materials.
+[09:28:09] [Server thread/INFO]: [PlayerVaults] Loaded! Took 223ms
+[09:28:09] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.92
+[09:28:09] [Server thread/INFO]: [VoteParty] Enabling VoteParty v2.37
+[09:28:10] [Server thread/INFO]: [VoteParty] [ACF] Enabled Asynchronous Tab Completion Support!
+[09:28:10] [Server thread/INFO]:
+[09:28:10] [Server thread/INFO]:  _  _  ____
+[09:28:10] [Server thread/INFO]: / )( \(  _ \
+[09:28:10] [Server thread/INFO]: \ \/ / ) __/ VoteParty v2.37
+[09:28:10] [Server thread/INFO]:  \__/ (__)   Server Version: git-Purpur-2016 (MC: 1.20.1)
+[09:28:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: voteparty [2.0]
+[09:28:10] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1-dev+37-b2ae28b
+[09:28:10] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[09:28:10] [Server thread/INFO]: [EasyShearing] Enabling EasyShearing v1.3.1
+[09:28:10] [Server thread/INFO]: [EconomyShopGUI-Premium] Enabling EconomyShopGUI-Premium v4.11.8
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Using lang-en.yml as language file.
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Shops.yml has been found!
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Sections.yml has been found!
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Using minecraft version 1.20.1...
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Successfully hooked into Vault
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Completed loading '1' economy provider(s) for all 18 shop sections.
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Spawner provider set to DEFAULT in config
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Using plugin default spawners...
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Enabled PlaceholderAPI hook...
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Debug mode is enabled.
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Updating Shop settings...
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Loading item stock...
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Loading limited selling provider...
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Loading all items...
+[09:28:11] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Initialized - Took 205ms to complete
+[09:28:11] [Server thread/INFO]: [BetterRTP] Enabling BetterRTP v3.6.10
+[09:28:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: betterrtp [3.6.10]
+[09:28:11] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.15.0
+[09:28:12] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[09:28:12] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[09:28:12] [Server thread/INFO]: [AngelChest] No graveyards.yml found, disabling Graveyards feature
+[09:28:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: angelchest [GENERIC]
+[09:28:12] [Server thread/INFO]: [AngelChest] Successfully hooked into Vault and the EconomyProvider, enabling economy functions.
+[09:28:12] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[09:28:12] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest Plus v9.15.0/(506107) (Premium: true)
+[09:28:12] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.7.4
+[09:28:12] [Server thread/INFO]: [Vulcan] Server Version: 1.20 detected!
+[09:28:12] [Server thread/INFO]: [Vulcan] mcMMO found. Enabling hook!
+[09:28:12] [Server thread/INFO]: [Vulcan] BStats enabled!
+[09:28:12] [Server thread/INFO]: [Vulcan] Registered mcMMO listener!
+[09:28:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: Vulcan [2.7.4]
+[09:28:12] [Server thread/INFO]: [Vulcan] PlaceholderAPI found. Enabling hook!
+[09:28:12] [Server thread/INFO]: [HeartEarner] Enabling HeartEarner v1.1-1.19.3
+[09:28:12] [Server thread/INFO]: [ConDump] Enabling ConDump v1.3.2-1.19.3
+[09:28:12] [Server thread/INFO]: [Plan] Enabling Plan v5.5 build 2391
+[09:28:13] [Server thread/INFO]: [Plan]
+[09:28:13] [Server thread/INFO]: [Plan]            ██▌
+[09:28:13] [Server thread/INFO]: [Plan]      ██▌   ██▌
+[09:28:13] [Server thread/INFO]: [Plan]   ██▌██▌██▌██▌  Player Analytics
+[09:28:13] [Server thread/INFO]: [Plan]   ██▌██▌██▌██▌  v5.5 build 2391
+[09:28:13] [Server thread/INFO]: [Plan]
+[09:28:13] [Server thread/INFO]: [Plan] Locale: 'English' by AuroraLS3
+[09:28:13] [Server thread/INFO]: [Plan] Downloading SQLite Driver, this may take a while...
+[09:28:13] [Plan SQLiteDB-transaction-thread-1/INFO]: [Plan] Database: Making sure schema is up to date..
+[09:28:13] [Server thread/INFO]: [Plan] SQLite-database connection established.
+[09:28:13] [Plan SQLiteDB-transaction-thread-1/INFO]: [Plan] All database patches applied successfully.
+[09:28:13] [Server thread/INFO]: [Plan] WebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks
+[09:28:13] [Server thread/INFO]: [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+[09:28:13] [Server thread/INFO]: [Plan] WebServer: User Authorization Disabled! (Not secure over HTTP)
+[09:28:13] [Server thread/INFO]: [Plan] Webserver running on PORT 8804 ( http://119.252.189.36:8804 )
+[09:28:13] [Server thread/INFO]: [Plan] Loading server identifying information
+[09:28:13] [Server thread/INFO]: [Plan] Server identifier loaded: 7dab56d6-4c15-4f42-89a7-d39c490bc347
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: DiscordSRV
+[09:28:13] [Server thread/INFO]: [DiscordSRV] API listener net.playeranalytics.extension.discordsrv.DiscordSRVListener subscribed (2 methods)
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: Essentials
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: EssentialsEco
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: Jobs
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: LuckPerms
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: mcMMO
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: nuVotifier
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: PlaceholderAPI
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: Towny
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: Economy (Vault)
+[09:28:13] [Server thread/INFO]: [Plan] Registered extension: Permission Groups (Vault)
+[09:28:13] [Server thread/INFO]: [Plan] Player Analytics Enabled.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Enabling CrazyCrates v1.11.16
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loading the events.log
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Successfully loaded events.log
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/QuadCrateExample.yml.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CrateExample.yml.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/VoteCrate.yml.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/QuickCrateExample.yml.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/RareCrate.yml.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/FabledCrate.yml.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CosmicCrateExample.yml.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Metrics has been enabled.
+[09:28:13] [Server thread/WARN]: [CrazyCrates] No holograms plugin were found. If using CMI, make sure holograms module is enabled.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[09:28:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[09:28:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[09:28:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[09:28:13] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[09:28:13] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[09:28:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: crazycrates [1.11.16]
+[09:28:13] [Server thread/INFO]: [CrazyCrates] §6§lHOLOGRAPHIC_DISPLAYS §c§lNOT FOUND
+[09:28:13] [Server thread/INFO]: [CrazyCrates] §6§lFANCY_HOLOGRAMS §c§lNOT FOUND
+[09:28:13] [Server thread/INFO]: [CrazyCrates] §6§lDECENT_HOLOGRAMS §c§lNOT FOUND
+[09:28:13] [Server thread/INFO]: [CrazyCrates] §6§lCMI §c§lNOT FOUND
+[09:28:13] [Server thread/INFO]: [CrazyCrates] §6§lPLACEHOLDERAPI §a§lFOUND
+[09:28:13] [Server thread/INFO]: [CrazyCrates] §6§lITEMS_ADDER §c§lNOT FOUND
+[09:28:13] [Server thread/INFO]: [Rankup] Enabling Rankup v3.14.2
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: rankup [3.14.2]
+[09:28:14] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[09:28:14] [Server thread/INFO]: Running delayed init tasks
+[09:28:14] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[09:28:14] [Craft Scheduler Thread - 5 - InteractiveChat/INFO]: [InteractiveChat] Loading languages...
+[09:28:14] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[09:28:14] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (EssentialsX Economy)
+[09:28:14] [Server thread/INFO]: [AuctionHouse] Registered Service Provider Essentials for Vault's Economy API
+[09:28:14] [Server thread/INFO]: [AuctionHouse] Registered Service Provider LuckPerms for Vault's Chat API
+[09:28:14] [Craft Scheduler Thread - 9 - Vault/INFO]: [Vault] Checking for Updates ...
+[09:28:14] [Craft Scheduler Thread - 0 - CMILib/INFO]: New version of CMILib was detected. Please update it
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: discordsrv [1.26.2]
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: plan [5.5 build 2391]
+[09:28:14] [Craft Scheduler Thread - 9 - Vault/INFO]: [Vault] No new version available
+[09:28:14] [Server thread/INFO]: [Citizens] Loaded 18 NPCs.
+[09:28:14] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[09:28:14] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] You're 8 EssentialsX dev build(s) out of date!
+[09:28:14] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[09:28:14] [Server thread/INFO]: [AuctionHouse] Found PlaceholderAPI plugin
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: auctionhouse [3.5]
+[09:28:14] [Server thread/INFO]: [AuctionHouse] Registered PlaceholderAPI placeholders
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: essentials [1.5.2]
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player [2.0.5]
+[09:28:14] [Server thread/WARN]: [PlaceholderAPI] Failed to load expansion mcmmo. Identifier is already in use.
+[09:28:14] [Server thread/WARN]: [PlaceholderAPI] Failed to load expansion mcmmo. Identifier is already in use.
+[09:28:14] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion mcmmo due to an unknown issue.
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: luckperms [5.4-R2]
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic [2.0.1]
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault [1.8.1]
+[09:28:14] [Craft Scheduler Thread - 8 - Plan/INFO]: [Plan] ----------------------------------------
+[09:28:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server [2.6.2]
+[09:28:14] [Craft Scheduler Thread - 8 - Plan/INFO]: [Plan] New Release (5.5.2461) is available https://github.com/plan-player-analytics/Plan/releases
+[09:28:14] [Craft Scheduler Thread - 8 - Plan/INFO]: [Plan] ----------------------------------------
+[09:28:14] [Server thread/INFO]: 6 placeholder hook(s) registered!
+[09:28:14] [Server thread/INFO]: Done (22.164s)! For help, type "help"
+[09:28:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@7e01b014[id=<null>,name=TheClapinator,properties={},legacy=false] (/68.112.202.68:59702) lost connection: Disconnected
+[09:28:15] [Craft Scheduler Thread - 7 - VoteParty/INFO]: [VoteParty] Version is up to date
+[09:28:15] [Craft Scheduler Thread - 13 - CrazyCrates/INFO]: [CrazyCrates] Plugin is up to date! - v1.14
+[09:28:15] [Craft Scheduler Thread - 15 - InteractiveChat/INFO]: [InteractiveChat] Loaded all 1 languages!
+[09:28:15] [User Authenticator #0/INFO]: UUID of player xdMcfishy is a8b7d7a5-2655-47b5-a42b-27e8ad2dc67c
+[09:28:15] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:28:15] [Server thread/INFO]: [HeartEarner] Setting max health of xdMcfishy to 10.0
+[09:28:15] [Server thread/INFO]: xdMcfishy[/129.222.187.197:2852] logged in with entity id 380 at ([world]-3264.588843106927, 9.086399974155427, -1601.671141640763)
+[09:28:15] [User Authenticator #0/INFO]: UUID of player Jairus_ is 6ae49d84-fbcd-4029-99f1-649b824f9d97
+[09:28:15] [Server thread/INFO]: [+] xdMcfishy
+[09:28:16] [Server thread/INFO]: [HeartEarner] Setting max health of Jairus_ to 10.0
+[09:28:16] [Server thread/INFO]: Jairus_[/125.168.253.5:53871] logged in with entity id 461 at ([world]-1619.0795548168237, 70.83999997377396, 2509.5982766885413)
+[09:28:16] [Server thread/INFO]: [+] Jairus_
+[09:28:16] [User Authenticator #0/INFO]: UUID of player JappaMC is 9d66e60e-2827-4abb-9c6d-fea3c2459ee7
+[09:28:16] [Server thread/INFO]: [HeartEarner] Setting max health of JappaMC to 10.0
+[09:28:16] [Server thread/INFO]: JappaMC[/103.85.36.160:31425] logged in with entity id 662 at ([world]-874.0085482757298, 64.83999997377396, -268.80220675304406)
+[09:28:16] [Server thread/INFO]: [+] Jappa
+[09:28:18] [Plan Non critical-pool-3/WARN]: [Plan] Ran into DataExtensionMethodCallException - logged to plugins/Plan/logs/DataExtensionMethodCallException-012a2fdf7a.txt
+[09:28:18] [Plan Non critical-pool-3/WARN]: [Plan] (INCLUDE CONTENTS OF THE FILE IN ANY REPORTS)
+[09:28:18] [Plan Non critical-pool-3/WARN]: [Plan] What to do: Report and/or disable mcMMO extension in the Plan config.
+[09:28:21] [Server thread/INFO]: [AngelChest] Trying to hook into WorldGuard...
+[09:28:21] [Server thread/INFO]: [AngelChest] Successfully hooked into WorldGuard.
+[09:28:21] [Server thread/INFO]: xdMcfishy was slain by Zombie
+[09:28:28] [User Authenticator #0/INFO]: UUID of player JuciFruit12 is ddf995f7-67f7-4fd1-91e6-266bcd3452f9
+[09:28:29] [Server thread/INFO]: [HeartEarner] Setting max health of JuciFruit12 to 10.0
+[09:28:29] [Server thread/INFO]: JuciFruit12[/23.157.208.225:54995] logged in with entity id 5102 at ([world]-2561.482706725407, -15.0, 282.29684463032584)
+[09:28:29] [Server thread/INFO]: [+] JuciFruit12
+[09:28:35] [User Authenticator #0/INFO]: UUID of player TheClapinator is a016b297-8ea1-45b2-8de5-753beb9e44d0
+[09:28:35] [Server thread/INFO]: [HeartEarner] Setting max health of TheClapinator to 10.0
+[09:28:35] [Server thread/INFO]: TheClapinator[/68.112.202.68:59716] logged in with entity id 6933 at ([world]-3254.7718640638113, -30.0, -1572.5620279752104)
+[09:28:35] [Server thread/INFO]: [+] TheClapinator
+[09:28:39] [User Authenticator #0/INFO]: UUID of player Quidify is 3f37b95b-8526-4395-b593-7b24e772d881
+[09:28:40] [Server thread/INFO]: [HeartEarner] Setting max health of Quidify to 10.0
+[09:28:40] [Server thread/INFO]: Quidify[/68.54.172.123:57831] logged in with entity id 8016 at ([world]-2089.5, 64.0, -1273.5)
+[09:28:40] [Server thread/INFO]: [+] Quidify
+[09:28:45] [Server thread/INFO]: TheClapinator hit the ground too hard
+[09:28:57] [Server thread/INFO]: Quidify was shot by Skeleton
+[09:29:00] [Server thread/INFO]: JappaMC issued server command: /creative
+[09:29:13] [Server thread/INFO]: JappaMC issued server command: /npc select
+[09:29:14] [Server thread/INFO]: JappaMC issued server command: /npc text
+[09:29:16] [Server thread/INFO]: JappaMC issued server command: /npc text remove 0
+[09:29:32] [Server thread/INFO]: TheClapinator issued server command: /sethome
+[09:29:33] [User Authenticator #0/INFO]: UUID of player Noightmare is 809f0742-5d1c-4c79-9851-9bf4fd9114d9
+[09:29:33] [Server thread/INFO]: [HeartEarner] Setting max health of Noightmare to 10.0
+[09:29:33] [Server thread/INFO]: Noightmare[/134.16.117.96:60113] logged in with entity id 21580 at ([world]-3267.8153759748293, 11.330882542764282, -1606.222780288104)
+[09:29:33] [Server thread/INFO]: [+] Noightmare
+[09:29:39] [Server thread/INFO]: xdMcfishy issued server command: /tpa Noightmare
+[09:29:43] [Server thread/INFO]: Noightmare issued server command: /tpaccept
+[09:29:55] [Server thread/INFO]: Jairus_ issued server command: /sethome
+[09:29:55] [Server thread/INFO]: Quidify issued server command: /tpa TheClapinator
+[09:29:57] [Server thread/INFO]: TheClapinator issued server command: /tpaccept
+[09:30:00] [Server thread/INFO]: JuciFruit12 issued server command: /market
+[09:30:01] [Server thread/INFO]: [mcMMO] [config] Initializing config: itemweights.yml
+[09:30:01] [Server thread/INFO]: [mcMMO] [config] Copying default config to disk: itemweights.yml to defaults/itemweights.yml
+[09:30:01] [Server thread/INFO]: [mcMMO] [config] Loading config from disk: itemweights.yml
+[09:30:01] [Server thread/INFO]: [mcMMO] [config] Config initialized: itemweights.yml
+[09:30:14] [User Authenticator #0/INFO]: UUID of player UltimateDinosaur is d0466e9b-0ebc-408e-8e51-afc13f6dc0a7
+[09:30:14] [Server thread/INFO]: [HeartEarner] Setting max health of UltimateDinosaur to 10.0
+[09:30:14] [Server thread/INFO]: UltimateDinosaur[/24.240.119.7:51745] logged in with entity id 34578 at ([world]-1771.0925611376488, 66.0, -1277.258362843688)
+[09:30:14] [Server thread/INFO]: [+] UltimateDinosaur
+[09:30:16] [Server thread/INFO]: Noightmare issued server command: /tpa TheClapinator
+[09:30:17] [Server thread/INFO]: xdMcfishy issued server command: /tpa TheClapinator
+[09:30:24] [Server thread/INFO]: UltimateDinosaur issued server command: /tpa theclapinator
+[09:30:45] [Server thread/INFO]: JuciFruit12 issued server command: /market
+[09:30:50] [Server thread/INFO]: TheClapinator issued server command: /tpaccept
+[09:30:51] [Server thread/INFO]: TheClapinator issued server command: /tpaccept
+[09:30:57] [User Authenticator #0/INFO]: UUID of player jaquobia is 63e18af6-80a4-4970-9a29-f64c8fc2c70f
+[09:30:57] [Server thread/INFO]: [HeartEarner] Setting max health of jaquobia to 10.0
+[09:30:57] [Server thread/INFO]: [HeartEarner] Player does not have contained heart count. Setting it to config default (10.0)
+[09:30:57] [Server thread/INFO]: jaquobia[/74.99.94.5:55676] logged in with entity id 56442 at ([world]-843.5, 64.0, -268.5)
+[09:30:57] [Server thread/INFO]: [+] jaquobia
+[09:31:00] [Craft Scheduler Thread - 19 - mcMMO/INFO]: [mcMMO] Creating new data for player: jaquobia
+[09:31:06] [Craft Scheduler Thread - 21 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | hey, I got 20 mins :D
+[09:31:08] [Server thread/INFO]: JappaMC issued server command: /npc text
+[09:31:09] [Craft Scheduler Thread - 21 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Heyo jaqu!
+[09:31:12] [Server thread/INFO]: Noightmare fell from a high place
+[09:31:14] [Craft Scheduler Thread - 6 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Good to see you!
+[09:31:17] [Server thread/INFO]: Noightmare issued server command: /tpa xdMcfishy
+[09:31:19] [Server thread/INFO]: Quidify has made the advancement [Sneak 100]
+[09:31:38] [Server thread/INFO]: JuciFruit12 issued server command: /market
+[09:31:45] [Craft Scheduler Thread - 13 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | my shaders are making the signs blurry lol
+[09:31:46] [Server thread/INFO]: TheClapinator issued server command: /sethome
+[09:31:53] [Craft Scheduler Thread - 2 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Oh shit lol
+[09:31:57] [Craft Scheduler Thread - 15 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Didn't think about shaders
+[09:32:04] [Craft Scheduler Thread - 2 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Might have to turn them off just to read the signs lol
+[09:32:12] [Server thread/INFO]: JappaMC lost connection: Disconnected
+[09:32:12] [Server thread/INFO]: [-] Jappa
+[09:32:20] [Server thread/INFO]: Jairus_ issued server command: /sethome
+[09:32:20] [Server thread/INFO]: TheClapinator issued server command: /tpa noightmare
+[09:32:23] [Server thread/INFO]: JuciFruit12 has made the advancement [Suit Up]
+[09:32:25] [Server thread/INFO]: Noightmare was shot by Skeleton
+[09:32:26] [Server thread/INFO]: UltimateDinosaur has made the advancement [Suit Up]
+[09:32:26] [Server thread/INFO]: jaquobia issued server command: /ah
+[09:32:34] [Server thread/INFO]: Noightmare fell from a high place
+[09:32:38] [Server thread/INFO]: Noightmare fell from a high place
+[09:32:41] [User Authenticator #1/INFO]: UUID of player JappaMC is 9d66e60e-2827-4abb-9c6d-fea3c2459ee7
+[09:32:41] [Server thread/INFO]: [HeartEarner] Setting max health of JappaMC to 10.0
+[09:32:41] [Server thread/INFO]: JappaMC[/103.85.36.160:31259] logged in with entity id 81017 at ([world]-832.9584362597614, 44.0625, -219.1456180888665)
+[09:32:41] [Server thread/INFO]: [+] Jappa
+[09:33:01] [Craft Scheduler Thread - 20 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | "More content" I love this info
+[09:33:04] [Server thread/INFO]: UltimateDinosaur has made the advancement [Sneak 100]
+[09:33:06] [Craft Scheduler Thread - 15 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Lol
+[09:33:19] [Server thread/INFO]: Noightmare issued server command: /sethome
+[09:33:20] [Server thread/INFO]: TheClapinator issued server command: /sethome
+[09:33:29] [Server thread/INFO]: Noightmare issued server command: /sethome
+[09:33:35] [Craft Scheduler Thread - 20 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | what counts as an unfair mod
+[09:33:42] [Server thread/INFO]: TheClapinator issued server command: /tpa noightmare
+[09:33:43] [Server thread/INFO]: Noightmare issued server command: /tpaccept
+[09:33:47] [Craft Scheduler Thread - 2 - InteractiveChat/INFO]: [Not Secure] [Newcomer] Jairus_ | free cam
+[09:33:59] [Server thread/INFO]: [AngelChest] TheClapinator opened the AngelChest of TheClapinator at Location{world=CraftWorld{name=world},x=-3295.0,y=4.0,z=-1463.0,pitch=0.0,yaw=0.0}
+[09:34:00] [Server thread/INFO]: [AngelChest] Noightmare opened the AngelChest of TheClapinator at Location{world=CraftWorld{name=world},x=-3295.0,y=4.0,z=-1463.0,pitch=0.0,yaw=0.0}
+[09:34:13] [Server thread/INFO]: [AngelChest] TheClapinator opened the AngelChest of TheClapinator at Location{world=CraftWorld{name=world},x=-3295.0,y=4.0,z=-1463.0,pitch=0.0,yaw=0.0}
+[09:34:17] [Server thread/INFO]: Quidify has made the advancement [Suit Up]
+[09:34:21] [Server thread/INFO]: UltimateDinosaur issued server command: /sethome
+[09:34:25] [Server thread/INFO]: [AngelChest] TheClapinator opened the AngelChest of TheClapinator at Location{world=CraftWorld{name=world},x=-3295.0,y=4.0,z=-1463.0,pitch=0.0,yaw=0.0}
+[09:34:26] [Server thread/INFO]: JuciFruit12 issued server command: /sethome
+[09:34:30] [Server thread/INFO]: jaquobia issued server command: /shop
+[09:34:31] [Server thread/INFO]: JuciFruit12 issued server command: /repair
+[09:34:39] [Server thread/INFO]: TheClapinator was blown up by Creeper
+[09:34:46] [Server thread/INFO]: Quidify issued server command: /home
+[09:34:47] [Server thread/INFO]: JuciFruit12 issued server command: /repair ?
+[09:34:50] [Server thread/INFO]: Noightmare has made the advancement [Cover Me with Diamonds]
+[09:35:01] [Server thread/INFO]: JuciFruit12 issued server command: /market
+[09:35:03] [Server thread/INFO]: [Essentials] Created a User for CIT-ddd31ad0e1d6 (ddd31ad0-e1d6-243d-b0eb-e2962a0770c9) for non Bukkit type: net.citizensnpcs.nms.v1_20_R1.entity.EntityHumanNPC$PlayerNPC
+[09:35:04] [Server thread/INFO]: Shop >> JuciFruit12 sold 25 x Gold Ingot(Ores.5) for $20.00 with the quick sell screen.
+[09:35:12] [Server thread/INFO]: jaquobia issued server command: /jobs
+[09:35:12] [Server thread/INFO]: Noightmare issued server command: /tpaccept
+[09:35:15] [Server thread/INFO]: Quidify was shot by Skeleton
+[09:35:28] [Server thread/INFO]: TheClapinator issued server command: /tpa noightmare
+[09:35:30] [Server thread/INFO]: Noightmare issued server command: /tpaccept
+[09:35:43] [Craft Scheduler Thread - 25 - InteractiveChat/INFO]: [Not Secure] [Veteran] Quidify | its so laggy
+[09:35:47] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:35:50] [Craft Scheduler Thread - 25 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | your ping is 2k
+[09:36:00] [Server thread/INFO]: jaquobia issued server command: /enchanter
+[09:36:01] [Server thread/INFO]: Villager EntityVillager['Villager'/162321, uuid='e2e8248c-c51d-468f-bd3a-c848a4251296', l='ServerLevel[world]', x=-2062.30, y=65.00, z=-1224.30, cpos=[-129, -77], tl=106005, v=true] died, message: 'Villager was slain by Zombie'
+[09:36:01] [Server thread/INFO]: jaquobia issued server command: /enchanter
+[09:36:02] [Server thread/INFO]: jaquobia issued server command: /enchanter
+[09:36:07] [Server thread/INFO]: jaquobia issued server command: /enchanter
+[09:36:08] [Craft Scheduler Thread - 24 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | You downloading something questionable?
+[09:36:09] [Server thread/INFO]: [AngelChest] TheClapinator opened the AngelChest of TheClapinator at Location{world=CraftWorld{name=world},x=-3295.0,y=5.0,z=-1462.0,pitch=0.0,yaw=0.0}
+[09:36:11] [Craft Scheduler Thread - 27 - InteractiveChat/INFO]: [Not Secure] [Veteran] Quidify | I had to look at someone elses screen to see that I died
+[09:36:11] [Server thread/INFO]: UltimateDinosaur was obliterated by a sonically-charged shriek
+[09:36:25] [Server thread/INFO]: [AngelChest] TheClapinator opened the AngelChest of TheClapinator at Location{world=CraftWorld{name=world},x=-3295.0,y=5.0,z=-1462.0,pitch=0.0,yaw=0.0}
+[09:36:29] [Server thread/INFO]: JappaMC issued server command: /baltop
+[09:36:34] [Server thread/INFO]: [AngelChest] TheClapinator opened the AngelChest of TheClapinator at Location{world=CraftWorld{name=world},x=-3295.0,y=5.0,z=-1462.0,pitch=0.0,yaw=0.0}
+[09:36:40] [Server thread/INFO]: [AngelChest] TheClapinator opened the AngelChest of TheClapinator at Location{world=CraftWorld{name=world},x=-3295.0,y=5.0,z=-1462.0,pitch=0.0,yaw=0.0}
+[09:36:51] [Server thread/INFO]: UltimateDinosaur issued server command: /sethome
+[09:36:54] [Server thread/INFO]: Named entity EntityZombie['Zombie'/178796, uuid='079c5358-b73d-4280-b3ba-2a4b3aff1585', l='ServerLevel[world]', x=-2566.74, y=-28.00, z=275.74, cpos=[-161, 17], tl=384, v=true] died: Zombie was shot by Skeleton
+[09:36:54] [Server thread/INFO]: [AngelChest] TheClapinator opened the AngelChest of TheClapinator at Location{world=CraftWorld{name=world},x=-3295.0,y=5.0,z=-1462.0,pitch=0.0,yaw=0.0}
+[09:37:22] [Server thread/INFO]: JappaMC issued server command: /vp reload
+[09:37:27] [Server thread/INFO]: Noightmare issued server command: /sethome
+[09:37:34] [Server thread/INFO]: Noightmare issued server command: /sethome
+[09:37:36] [Server thread/INFO]: Jairus_ issued server command: /vote
+[09:37:37] [Server thread/INFO]: JuciFruit12 issued server command: /sethome
+[09:37:44] [Server thread/INFO]: JuciFruit12 was shot by Skeleton
+[09:37:58] [Server thread/INFO]: JappaMC issued server command: /vote
+[09:38:08] [Server thread/INFO]: Jairus_ issued server command: /job
+[09:38:15] [Server thread/INFO]: Jairus_ issued server command: /jobs browse
+[09:38:15] [Server thread/INFO]: Noightmare issued server command: /sethome
+[09:38:18] [Server thread/INFO]: JappaMC issued server command: /msg Jairus_ /jobs browse
+[09:38:34] [Server thread/INFO]: JuciFruit12 issued server command: /market
+[09:38:37] [Server thread/INFO]: Shop >> JuciFruit12 sold 128 x Copper Ingot(Ores.3) for $51.20 with the quick sell screen.
+[09:38:51] [Server thread/INFO]: JappaMC issued server command: /jobs browse
+[09:38:55] [Server thread/INFO]: TheClapinator issued server command: /sethome
+[09:39:07] [Server thread/INFO]: UltimateDinosaur issued server command: /sethome
+[09:39:10] [Server thread/INFO]: xdMcfishy was obliterated by a sonically-charged shriek
+[09:39:16] [Server thread/INFO]: TheClapinator issued server command: /tpa Quidify
+[09:39:20] [Craft Scheduler Thread - 24 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | what is a sonically charged shreik
+[09:39:26] [Server thread/INFO]: Noightmare issued server command: /tpa Quidify
+[09:39:27] [Server thread/INFO]: Jairus_ issued server command: /jobs browse
+[09:39:28] [Server thread/INFO]: Quidify issued server command: /tpaccept
+[09:39:29] [Server thread/INFO]: JuciFruit12 was shot by Skeleton
+[09:39:30] [Server thread/INFO]: Quidify issued server command: /tpaccept
+[09:39:48] [Server thread/INFO]: JuciFruit12 was blown up by Creeper
+[09:40:00] [Server thread/INFO]: TheClapinator issued server command: /tpa UltimateDinosaur
+[09:40:04] [Server thread/INFO]: UltimateDinosaur issued server command: /tpaccept
+[09:40:07] [Server thread/INFO]: Noightmare issued server command: /tpa TheClapinator
+[09:40:19] [Server thread/INFO]: Noightmare issued server command: /tpa UltimateDinosaur
+[09:40:22] [Server thread/INFO]: UltimateDinosaur issued server command: /tpaccept
+[09:40:44] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:40:50] [Server thread/INFO]: Noightmare issued server command: /tpa UltimateDinosaur
+[09:40:52] [Server thread/INFO]: UltimateDinosaur issued server command: /tpaccept
+[09:41:01] [Server thread/INFO]: UltimateDinosaur was obliterated by a sonically-charged shriek
+[09:41:02] [Server thread/INFO]: TheClapinator issued server command: /tpa Quidify
+[09:41:05] [Server thread/INFO]: Quidify issued server command: /tpaccept
+[09:41:07] [Server thread/INFO]: UltimateDinosaur issued server command: /tpa noightmare
+[09:41:11] [Server thread/INFO]: Noightmare issued server command: /tpaccept
+[09:41:24] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:41:28] [Server thread/INFO]: Noightmare issued server command: /tpa UltimateDinosaur
+[09:41:45] [Server thread/INFO]: UltimateDinosaur issued server command: /sethome
+[09:41:46] [Server thread/INFO]: JuciFruit12 was slain by Zombie
+[09:41:52] [Server thread/INFO]: UltimateDinosaur issued server command: /tpaccept
+[09:41:52] [Server thread/INFO]: UltimateDinosaur was obliterated by a sonically-charged shriek
+[09:41:54] [Server thread/INFO]: Noightmare has made the advancement [Suit Up]
+[09:41:56] [Server thread/INFO]: [AngelChest] JuciFruit12 opened the AngelChest of JuciFruit12 at Location{world=CraftWorld{name=world},x=-2552.0,y=-48.0,z=272.0,pitch=0.0,yaw=0.0}
+[09:41:57] [Craft Scheduler Thread - 34 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Jesus
+[09:41:57] [Craft Scheduler Thread - 29 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | spawn looking quite nice
+[09:42:01] [Craft Scheduler Thread - 29 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Haha thanks
+[09:42:03] [Server thread/INFO]: [AngelChest] Noightmare opened the AngelChest of Noightmare at Location{world=CraftWorld{name=world},x=-3222.0,y=-36.0,z=-1572.0,pitch=0.0,yaw=0.0}
+[09:42:06] [Craft Scheduler Thread - 31 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Built a lot of it myself
+[09:42:08] [Server thread/INFO]: [AngelChest] Noightmare opened the AngelChest of Noightmare at Location{world=CraftWorld{name=world},x=-3222.0,y=-36.0,z=-1572.0,pitch=0.0,yaw=0.0}
+[09:42:11] [Server thread/INFO]: JuciFruit12 was slain by Zombie
+[09:42:13] [Craft Scheduler Thread - 32 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Credit to the builders of the ships tho
+[09:42:17] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:42:19] [Craft Scheduler Thread - 35 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | I didn't have any patience to do it myself
+[09:42:20] [Server thread/INFO]: UltimateDinosaur was slain by Warden
+[09:42:33] [Craft Scheduler Thread - 29 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | is the shreik the warden?
+[09:42:35] [Server thread/INFO]: UltimateDinosaur has made the advancement [Stone Age]
+[09:42:37] [Craft Scheduler Thread - 32 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Yes
+[09:42:39] [Craft Scheduler Thread - 35 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | shriek*
+[09:42:44] [Craft Scheduler Thread - 35 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | And he's one bad motherf*cker
+[09:42:48] [Server thread/INFO]: (mcMMO) JuciFruit12 has reached a Power level of 200!
+[09:42:54] [Craft Scheduler Thread - 33 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | I havent played enough to fight one yet, so Ive never seen the message before
+[09:43:07] [Craft Scheduler Thread - 31 - InteractiveChat/INFO]: [Not Secure] [Veteran] Quidify | he was 1v1g a warden with his fists
+[09:43:09] [Craft Scheduler Thread - 29 - InteractiveChat/INFO]: [Not Secure] [Veteran] Quidify | dw about him
+[09:43:17] [Server thread/INFO]: jaquobia issued server command: /jobs list
+[09:43:21] [Server thread/INFO]: jaquobia issued server command: /jobs browse
+[09:43:22] [Server thread/INFO]: Noightmare issued server command: /tpa UltimateDinosaur
+[09:43:25] [Server thread/INFO]: UltimateDinosaur issued server command: /tpaccept
+[09:43:29] [Server thread/INFO]: [AngelChest] Noightmare opened the AngelChest of Noightmare at Location{world=CraftWorld{name=world},x=-3221.0,y=-36.0,z=-1573.0,pitch=0.0,yaw=0.0}
+[09:43:31] [Server thread/INFO]: [AngelChest] Noightmare opened the AngelChest of Noightmare at Location{world=CraftWorld{name=world},x=-3221.0,y=-36.0,z=-1573.0,pitch=0.0,yaw=0.0}
+[09:43:37] [Server thread/INFO]: UltimateDinosaur has made the advancement [Isn't It Iron Pick]
+[09:43:37] [Server thread/INFO]: UltimateDinosaur has made the advancement [Diamonds!]
+[09:43:43] [Server thread/INFO]: jaquobia issued server command: /jobs info
+[09:43:45] [Server thread/INFO]: UltimateDinosaur was obliterated by a sonically-charged shriek
+[09:43:46] [Server thread/INFO]: Noightmare issued server command: /sethome
+[09:43:47] [Server thread/INFO]: [AngelChest] Noightmare opened the AngelChest of UltimateDinosaur at Location{world=CraftWorld{name=world},x=-3221.0,y=-36.0,z=-1573.0,pitch=0.0,yaw=0.0}
+[09:43:52] [Server thread/INFO]: JuciFruit12 was shot by Skeleton
+[09:43:53] [Server thread/INFO]: jaquobia issued server command: /jobs log
+[09:43:56] [Server thread/INFO]: jaquobia issued server command: /jobs limit
+[09:44:01] [Server thread/INFO]: Noightmare was blown up by UltimateDinosaur
+[09:44:01] [Server thread/INFO]: UltimateDinosaur was blown up by UltimateDinosaur
+[09:44:06] [Server thread/INFO]: jaquobia issued server command: /mcstats
+[09:44:07] [Server thread/INFO]: Noightmare issued server command: /sethome
+[09:44:09] [Server thread/INFO]: Noightmare issued server command: /tpa UltimateDinosaur
+[09:44:14] [Server thread/INFO]: jaquobia issued server command: /tpa Quidify
+[09:44:18] [Server thread/INFO]: JuciFruit12 has made the advancement [Not Today, Thank You]
+[09:44:19] [Server thread/INFO]: UltimateDinosaur issued server command: /tpaccept
+[09:44:23] [Server thread/INFO]: Quidify issued server command: /tpaccept
+[09:44:27] [Server thread/INFO]: UltimateDinosaur issued server command: /sethome
+[09:44:28] [Server thread/INFO]: Named entity EntitySpider['Spider'/272082, uuid='92de3022-4dd6-409f-acd9-17441bfa0843', l='ServerLevel[world]', x=-2529.54, y=-48.00, z=254.30, cpos=[-159, 15], tl=656, v=true] died: Spider was shot by Skeleton
+[09:44:37] [Server thread/INFO]: JappaMC issued server command: /ess reload
+[09:44:37] [Server thread/INFO]: [Essentials] Loaded 38135 items from items.json.
+[09:44:37] [Server thread/INFO]: [Essentials] Using locale en_GB
+[09:44:37] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[09:44:39] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/272083, uuid='e5968932-f804-4652-ae06-6a0010a41b48', l='ServerLevel[world]', x=-2535.30, y=-49.00, z=252.59, cpos=[-159, 15], tl=874, v=true] died: Skeleton was slain by Zombie
+[09:44:42] [Server thread/INFO]: JappaMC issued server command: /betterrtp reload
+[09:44:48] [Server thread/INFO]: UltimateDinosaur suffocated in a wall
+[09:44:49] [Server thread/INFO]: JappaMC issued server command: /eco give ** 20
+[09:44:52] [Server thread/INFO]: TheClapinator issued server command: /tpa Quidify
+[09:44:55] [Server thread/INFO]: Quidify issued server command: /tpaccept
+[09:44:57] [Server thread/INFO]: Noightmare suffocated in a wall
+[09:45:02] [Server thread/INFO]: Noightmare issued server command: /tpa UltimateDinosaur
+[09:45:06] [Server thread/INFO]: UltimateDinosaur issued server command: /home
+[09:45:10] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Flight (Type B) (2/30)
+[09:45:10] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Flight (Type B) (4/30)
+[09:45:10] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Flight (Type B) (6/30)
+[09:45:14] [Server thread/INFO]: UltimateDinosaur issued server command: /tpaccept
+[09:45:16] [Server thread/INFO]: Noightmare issued server command: /sethome
+[09:45:16] [Server thread/INFO]: UltimateDinosaur has made the advancement [Cover Me with Diamonds]
+[09:45:17] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:45:36] [Server thread/INFO]: JuciFruit12 was shot by Skeleton
+[09:45:42] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:45:54] [Server thread/INFO]: JappaMC issued server command: /afk
+[09:45:57] [Server thread/INFO]: UltimateDinosaur issued server command: /sethome
+[09:45:59] [Server thread/INFO]: UltimateDinosaur was obliterated by a sonically-charged shriek
+[09:46:05] [Server thread/INFO]: UltimateDinosaur issued server command: /home
+[09:46:10] [Server thread/INFO]: Jairus_ issued server command: /sethome
+[09:46:15] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:46:22] [Server thread/INFO]: JuciFruit12 was blown up by Creeper
+[09:47:00] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:47:20] [Server thread/INFO]: JuciFruit12 was shot by Skeleton
+[09:47:30] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:47:47] [Server thread/INFO]: UltimateDinosaur was obliterated by a sonically-charged shriek
+[09:47:52] [Server thread/INFO]: JuciFruit12 issued server command: /tpa Quidify
+[09:47:56] [Server thread/INFO]: Quidify issued server command: /tpaccept
+[09:48:41] [Server thread/INFO]: Jairus_ has made the advancement [Acquire Hardware]
+[09:48:48] [Server thread/INFO]: Jairus_ has made the advancement [Isn't It Iron Pick]
+[09:48:49] [Server thread/INFO]: jaquobia has made the advancement [Stone Age]
+[09:48:53] [Server thread/INFO]: Jairus_ has made the advancement [Monster Hunter]
+[09:48:59] [Server thread/INFO]: Quidify has made the advancement [Acquire Hardware]
+[09:49:12] [Server thread/INFO]: JuciFruit12 issued server command: /rtp
+[09:49:13] [Server thread/INFO]: jaquobia has made the advancement [Getting an Upgrade]
+[09:49:18] [Server thread/INFO]: UltimateDinosaur was obliterated by a sonically-charged shriek
+[09:49:20] [Server thread/INFO]: [AngelChest] Noightmare opened the AngelChest of UltimateDinosaur at Location{world=CraftWorld{name=world},x=-3221.0,y=-36.0,z=-1583.0,pitch=0.0,yaw=0.0}
+[09:49:34] [Server thread/INFO]: Villager EntityVillager['Farmer'/162320, uuid='1072556f-2615-4a25-8e73-d318fccb7141', l='ServerLevel[world]', x=-2066.79, y=64.00, z=-1237.50, cpos=[-130, -78], tl=121958, v=true] died, message: 'Farmer was slain by Zombie'
+[09:49:45] [Server thread/INFO]: UltimateDinosaur was obliterated by a sonically-charged shriek
+[09:50:00] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Jump (Type A) (1/25)
+[09:50:00] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Jump (Type A) (2/25)
+[09:50:00] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Speed (Type B) (2/20)
+[09:50:00] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Speed (Type D) (2/20)
+[09:50:00] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Step (Type B) (1/15)
+[09:50:00] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Speed (Type B) (3/20)
+[09:50:00] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Speed (Type D) (3/20)
+[09:50:00] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Jump (Type A) (3/25)
+[09:50:00] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Step (Type B) (2/15)
+[09:50:00] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Step (Type B) (3/15)
+[09:50:01] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Step (Type B) (4/15)
+[09:50:01] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Step (Type B) (5/15)
+[09:50:02] [Server thread/INFO]: Jairus_ issued server command: /baltop
+[09:51:56] [Server thread/INFO]: Villager EntityVillager['Villager'/322386, uuid='67564f55-ccb4-42c5-bf48-b63ab42a96a6', l='ServerLevel[world]', x=-2065.05, y=68.00, z=-1951.05, cpos=[-130, -122], tl=3333, v=true] died, message: 'Villager was slain by Wolf'
+[09:52:04] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:52:21] [Server thread/INFO]: jaquobia was shot by Skeleton
+[09:52:27] [Craft Scheduler Thread - 35 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | lol
+[09:52:29] [Server thread/INFO]: jaquobia issued server command: /tpa Quidify
+[09:52:32] [Server thread/INFO]: JuciFruit12 has made the advancement [Diamonds!]
+[09:52:32] [Craft Scheduler Thread - 27 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Lol 2 shot you?
+[09:52:35] [Craft Scheduler Thread - 34 - InteractiveChat/INFO]: [Not Secure] [Veteran] jaquobia | yeah
+[09:52:37] [Server thread/INFO]: Quidify issued server command: /tpaccept
+[09:52:45] [Server thread/INFO]: UltimateDinosaur fell from a high place
+[09:52:50] [Server thread/INFO]: Quidify lost connection: Disconnected
+[09:52:50] [Server thread/INFO]: [-] Quidify
+[09:53:07] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Jump (Type A) (1/25)
+[09:53:07] [pool-59-thread-1/INFO]: [Vulcan] UltimateDinosaur failed Jump (Type A) (2/25)
+[09:53:21] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:53:25] [Server thread/INFO]: Villager EntityVillager['Farmer'/322556, uuid='3793f53e-ecad-4f94-b2bf-0d3ecf31ff08', l='ServerLevel[world]', x=-2067.51, y=68.00, z=-1962.69, cpos=[-130, -123], tl=5736, v=true] died, message: 'Farmer was slain by Wolf'
+[09:53:50] [Server thread/INFO]: Noightmare was slain by Warden
+[09:53:55] [Server thread/INFO]: jaquobia has made the advancement [Sweet Dreams]
+[09:54:12] [Server thread/INFO]: JappaMC issued server command: /vote
+[09:54:14] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:54:42] [Server thread/INFO]: Noightmare was slain by Warden
+[09:55:36] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:55:48] [Server thread/INFO]: jaquobia lost connection: Disconnected
+[09:55:48] [Server thread/INFO]: [-] jaquobia
+[09:55:51] [Server thread/INFO]: UltimateDinosaur was obliterated by a sonically-charged shriek
+[09:55:51] [Server thread/INFO]: Jairus_ has made the advancement [Ice Bucket Challenge]
+[09:55:51] [Server thread/INFO]: Noightmare fell from a high place
+[09:56:20] [Server thread/INFO]: UltimateDinosaur was obliterated by a sonically-charged shriek
+[09:57:10] [Server thread/INFO]: Noightmare was obliterated by a sonically-charged shriek
+[09:57:50] [Server thread/INFO]: Noightmare fell from a high place
+[09:58:28] [User Authenticator #2/INFO]: UUID of player Quidify is 3f37b95b-8526-4395-b593-7b24e772d881
+[09:58:28] [Server thread/INFO]: [HeartEarner] Setting max health of Quidify to 10.0
+[09:58:28] [Server thread/INFO]: Quidify[/68.54.172.123:58531] logged in with entity id 571195 at ([world]-2057.7107151984933, 63.0, -1284.6471805116705)
+[09:58:28] [Server thread/INFO]: [+] Quidify
+[09:58:35] [Server thread/INFO]: UltimateDinosaur was slain by Warden
+[09:58:46] [Server thread/INFO]: UltimateDinosaur fell from a high place
+[09:58:49] [User Authenticator #2/INFO]: UUID of player PoptartFromPluto is ef05d615-fda3-4b5f-8da4-a5ba165d8e87
+[09:58:49] [Server thread/INFO]: [HeartEarner] Setting max health of PoptartFromPluto to 10.0
+[09:58:49] [Server thread/INFO]: [HeartEarner] Player does not have contained heart count. Setting it to config default (10.0)
+[09:58:49] [Server thread/INFO]: PoptartFromPluto[/68.97.191.79:55417] logged in with entity id 579618 at ([world]-847.5, 64.0, -272.5)
+[09:58:49] [Server thread/INFO]: [+] PoptartFromPluto
+[09:58:52] [Craft Scheduler Thread - 40 - mcMMO/INFO]: [mcMMO] Creating new data for player: PoptartFromPluto
+[09:58:53] [Server thread/INFO]: TheClapinator has made the advancement [Diamonds!]
+[09:58:55] [Craft Scheduler Thread - 53 - InteractiveChat/INFO]: [Not Secure] [Founder] Jappa | Look who it is
+[09:58:59] [Server thread/INFO]: UltimateDinosaur fell from a high place
+[09:59:01] [Server thread/INFO]: PoptartFromPluto issued server command: /condump
+[09:59:01] [Craft Scheduler Thread - 40 - ConDump/INFO]: [ConDump] Latest log file is at /ssd/var/stipedata/servers/playnice mct 5/stipe_user_5756506/./logs/latest.log
