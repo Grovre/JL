@@ -1,0 +1,562 @@
+[00:00:01] [pool-52-thread-1/INFO]: [VotingPlugin] Detected day changed, processing...
+[00:00:01] [pool-52-thread-1/INFO]: [VotingPlugin] Time change event: DAY, Fake: false
+[00:00:11] [pool-52-thread-1/INFO]: [VotingPlugin] Finished processing day change, took 10 seconds
+[00:00:11] [pool-52-thread-1/INFO]: [VotingPlugin] Created zip file at /ssd/var/stipedata/servers/playnice mct 5/stipe_user_5756506/plugins/VotingPlugin/Backups/Backup-2023_AUGUST_16.zip
+[00:00:11] [pool-52-thread-1/INFO]: [VotingPlugin] Finished processing day changes
+[00:00:30] [Server thread/INFO]: [Towny] Time until a New Day: 11 hours, 59 minutes, 30 seconds
+[00:10:18] [Craft Scheduler Thread - 1892 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[00:10:22] [Craft Scheduler Thread - 1892 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3526ms to save DyanmicPricing
+[00:40:18] [Craft Scheduler Thread - 1893 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[00:40:22] [Craft Scheduler Thread - 1893 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3746ms to save DyanmicPricing
+[01:10:18] [Craft Scheduler Thread - 1906 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[01:10:22] [Craft Scheduler Thread - 1906 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3536ms to save DyanmicPricing
+[01:40:18] [Craft Scheduler Thread - 1939 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[01:40:22] [Craft Scheduler Thread - 1939 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3458ms to save DyanmicPricing
+[02:04:24] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.1.0 (Running 5.0.0). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[02:10:18] [Craft Scheduler Thread - 1947 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[02:10:22] [Craft Scheduler Thread - 1947 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3471ms to save DyanmicPricing
+[02:40:18] [Craft Scheduler Thread - 1945 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[02:40:18] [Craft Scheduler Thread - 1956 - Vault/INFO]: [Vault] Checking for Updates ...
+[02:40:18] [Craft Scheduler Thread - 1956 - Vault/INFO]: [Vault] No new version available
+[02:40:22] [Craft Scheduler Thread - 1945 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3486ms to save DyanmicPricing
+[03:10:18] [Craft Scheduler Thread - 1955 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[03:10:22] [Craft Scheduler Thread - 1955 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3560ms to save DyanmicPricing
+[03:40:18] [Craft Scheduler Thread - 1984 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[03:40:22] [Craft Scheduler Thread - 1984 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3554ms to save DyanmicPricing
+[04:10:18] [Craft Scheduler Thread - 1989 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[04:10:22] [Craft Scheduler Thread - 1989 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3521ms to save DyanmicPricing
+[04:40:18] [Craft Scheduler Thread - 2013 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[04:40:22] [Craft Scheduler Thread - 2013 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3513ms to save DyanmicPricing
+[04:44:45] [User Authenticator #27/INFO]: UUID of player NotBigPotato is 52140bd9-8ddd-460a-913a-9fe108654d1d
+[04:44:45] [Server thread/INFO]: [HeartEarner] Setting max health of NotBigPotato to 10.0
+[04:44:45] [Server thread/INFO]: [HeartEarner] Player does not have contained heart count. Setting it to config default (10.0)
+[04:44:45] [Server thread/INFO]: NotBigPotato[/97.127.3.164:56752] logged in with entity id 963459 at ([world]-849.5, 75.0, -279.5)
+[04:44:45] [Server thread/INFO]:  + | NotBigPotato
+[04:44:48] [Craft Scheduler Thread - 1988 - mcMMO/INFO]: [mcMMO] Creating new data for player: NotBigPotato
+[04:45:08] [Server thread/INFO]: NotBigPotato issued server command: /pl
+[04:45:24] [Server thread/INFO]: NotBigPotato issued server command: /gmc
+[04:45:24] [Server thread/INFO]: [Essentials] NotBigPotato was denied access to command.
+[04:45:26] [Server thread/INFO]: NotBigPotato issued server command: /op
+[04:45:28] [Server thread/INFO]: NotBigPotato issued server command: /deop
+[04:45:30] [Server thread/INFO]: NotBigPotato issued server command: /help
+[04:50:32] [Server thread/INFO]: [Essentials] Created a User for Nadia (cc078dce-7f21-20f0-9f6b-0fd4c4c69382) for non Bukkit type: net.citizensnpcs.nms.v1_20_R1.entity.EntityHumanNPC$PlayerNPC
+[04:50:53] [Server thread/INFO]: NotBigPotato lost connection: Disconnected
+[04:50:53] [Server thread/INFO]:  - | NotBigPotato
+[05:10:18] [Craft Scheduler Thread - 2029 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[05:10:22] [Craft Scheduler Thread - 2029 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3603ms to save DyanmicPricing
+[05:40:18] [Craft Scheduler Thread - 2046 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[05:40:22] [Craft Scheduler Thread - 2046 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3785ms to save DyanmicPricing
+[05:48:18] [User Authenticator #28/INFO]: UUID of player DeucesMamaGooses is 8d03441e-39b7-4579-afd7-3e35cc14c369
+[05:48:18] [Server thread/INFO]: [HeartEarner] Setting max health of DeucesMamaGooses to 10.0
+[05:48:18] [Server thread/INFO]: DeucesMamaGooses[/67.80.115.9:58492] logged in with entity id 1187254 at ([world]-1982.0292384749507, 64.0, -1327.3140922180858)
+[05:48:18] [Server thread/INFO]:  + | DeucesMamaGooses
+[05:48:34] [Server thread/INFO]: DeucesMamaGooses issued server command: /t list
+[05:48:38] [Server thread/INFO]: DeucesMamaGooses issued server command: /spawn
+[05:48:42] [Server thread/INFO]: DeucesMamaGooses issued server command: /ah
+[05:48:47] [Server thread/INFO]: DeucesMamaGooses issued server command: /baltop
+[05:48:54] [Server thread/INFO]: DeucesMamaGooses issued server command: /t Eltaria
+[05:49:02] [Server thread/INFO]: DeucesMamaGooses issued server command: /home
+[05:49:23] [Server thread/INFO]: DeucesMamaGooses lost connection: Disconnected
+[05:49:23] [Server thread/INFO]:  - | DeucesMamaGooses
+[05:54:59] [User Authenticator #29/INFO]: UUID of player DeucesMamaGooses is 8d03441e-39b7-4579-afd7-3e35cc14c369
+[05:54:59] [Server thread/INFO]: [HeartEarner] Setting max health of DeucesMamaGooses to 10.0
+[05:54:59] [Server thread/INFO]: DeucesMamaGooses[/67.80.115.9:53797] logged in with entity id 1194564 at ([world]1304.1984304960142, 45.0, -1479.272626506732)
+[05:54:59] [Server thread/INFO]:  + | DeucesMamaGooses
+[05:55:03] [Server thread/INFO]: DeucesMamaGooses issued server command: /warp
+[05:55:04] [Server thread/INFO]: DeucesMamaGooses issued server command: /warps
+[05:55:07] [Server thread/INFO]: DeucesMamaGooses issued server command: /spawn
+[05:55:33] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give DeucesMamaGooses 100
+[05:55:33] [Server thread/INFO]: $100 added to DeucesMamaGooses account. New balance: $2,441.11
+[05:55:33] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[05:55:33] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give DeucesMamaGooses 50
+[05:55:33] [Server thread/INFO]: $50 added to DeucesMamaGooses account. New balance: $2,491.11
+[05:55:33] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[05:55:34] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /xp give DeucesMamaGooses 150
+[05:55:34] [Server thread/INFO]: DeucesMamaGooses now has 683 exp.
+[05:55:34] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[05:55:42] [Server thread/INFO]: DeucesMamaGooses issued server command: /vote
+[05:55:47] [Server thread/INFO]: DeucesMamaGooses issued server command: /home
+[05:55:55] [Server thread/INFO]: DeucesMamaGooses issued server command: /ah
+[05:56:07] [Server thread/INFO]: DeucesMamaGooses issued server command: /spawn
+[05:56:13] [Server thread/INFO]: DeucesMamaGooses issued server command: /vote
+[05:56:26] [Server thread/INFO]: DeucesMamaGooses issued server command: /vote
+[05:56:28] [Server thread/INFO]: DeucesMamaGooses issued server command: /voteall
+[05:56:49] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v2 vote record from /50.28.37.175:60556 -> Vote (from:PlanetMinecraft.com username:DeucesMamaGooses address:67.80.115.9 timeStamp:1692129408 additionalData:null)
+[05:56:49] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'PlanetMinecraft.com' by player 'DeucesMamaGooses'!
+[05:56:49] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting DeucesMamaGooses!
+[05:56:49] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given DeucesMamaGooses 1 Keys.
+[05:56:49] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[05:57:00] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /66.175.210.190:56438 -> Vote (from:MinecraftServers.org username:DeucesMamaGooses address:67.80.115.9 timeStamp:1692129419000 additionalData:null)
+[05:57:00] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'MinecraftServers.org' by player 'DeucesMamaGooses'!
+[05:57:00] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting DeucesMamaGooses!
+[05:57:00] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given DeucesMamaGooses 1 Keys.
+[05:57:00] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[05:57:05] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /162.243.41.44:48688 -> Vote (from:TopMinecraftServers username:DeucesMamaGooses address:67.80.115.9 timeStamp:1692129371 additionalData:null)
+[05:57:05] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'TopMinecraftServers' by player 'DeucesMamaGooses'!
+[05:57:05] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting DeucesMamaGooses!
+[05:57:05] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given DeucesMamaGooses 1 Keys.
+[05:57:05] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[05:57:18] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /157.245.217.96:54760 -> Vote (from:Minecraft.Buzz username:de address:67.80.115.9 timeStamp:1692129437 additionalData:null)
+[05:57:18] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'Minecraft.Buzz' by player 'de'!
+[05:57:18] [pool-58-thread-1/WARN]: [VotingPlugin] Player de has not joined before, disregarding vote, set AllowUnjoined to true to prevent this
+[05:57:19] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /45.33.29.47:59062 -> Vote (from:MCSL username:DeucesMamaGooses address:67.80.115.9 timeStamp:1692129439 additionalData:null)
+[05:57:19] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'MCSL' by player 'DeucesMamaGooses'!
+[05:57:19] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting DeucesMamaGooses!
+[05:57:19] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given DeucesMamaGooses 1 Keys.
+[05:57:19] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[05:57:33] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /54.37.31.166:56936 -> Vote (from:Minecraft-MP.com username:DeucesMamaGooses address:67.80.115.9 timeStamp:1692129453 additionalData:null)
+[05:57:33] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'Minecraft-MP.com' by player 'DeucesMamaGooses'!
+[05:57:33] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting DeucesMamaGooses!
+[05:57:33] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given DeucesMamaGooses 1 Keys.
+[05:57:33] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[05:57:45] [Server thread/INFO]: DeucesMamaGooses issued server command: /jobs gtop
+[05:57:56] [Server thread/INFO]: DeucesMamaGooses issued server command: /shop
+[05:58:02] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[05:58:22] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give DeucesMamaGooses 250
+[05:58:22] [Server thread/INFO]: $250 added to DeucesMamaGooses account. New balance: $2,741.11
+[05:58:22] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[05:58:23] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[05:58:28] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give DeucesMamaGooses 100
+[05:58:28] [Server thread/INFO]: $100 added to DeucesMamaGooses account. New balance: $2,841.11
+[05:58:28] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[05:58:29] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /xp give DeucesMamaGooses 150
+[05:58:29] [Server thread/INFO]: DeucesMamaGooses now has 833 exp.
+[05:58:29] [Server thread/INFO]: [CrazyCrates] Player: DeucesMamaGooses | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[05:58:41] [Server thread/INFO]: DeucesMamaGooses lost connection: Disconnected
+[05:58:41] [Server thread/INFO]:  - | DeucesMamaGooses
+[06:00:15] [Server thread/INFO]: [Towny] Time until a New Day: 5 hours, 59 minutes, 45 seconds
+[06:05:52] [User Authenticator #30/INFO]: UUID of player DeucesMamaGooses is 8d03441e-39b7-4579-afd7-3e35cc14c369
+[06:05:52] [Server thread/INFO]: [HeartEarner] Setting max health of DeucesMamaGooses to 10.0
+[06:05:52] [Server thread/INFO]: DeucesMamaGooses[/67.80.115.9:65529] logged in with entity id 1247070 at ([world]-810.2516715464468, 76.0, -233.73377929963385)
+[06:05:52] [Server thread/INFO]:  + | DeucesMamaGooses
+[06:06:52] [Server thread/INFO]: DeucesMamaGooses issued server command: /silk
+[06:06:54] [Server thread/INFO]: DeucesMamaGooses issued server command: /home
+[06:07:14] [Server thread/INFO]: DeucesMamaGooses issued server command: /rtp
+[06:07:15] [Server thread/INFO]: Villager EntityVillager['Villager'/1288650, uuid='23bd3b5e-9bd2-4289-86fd-a9823d916288', l='ServerLevel[world]', x=1344.70, y=65.56, z=-1525.54, cpos=[84, -96], tl=87019, v=true] died, message: 'Villager was slain by Zombie'
+[06:07:26] [Server thread/INFO]: DeucesMamaGooses issued server command: /rtp
+[06:08:50] [Server thread/INFO]: DeucesMamaGooses issued server command: /jobs browse
+[06:10:18] [Craft Scheduler Thread - 2062 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[06:10:22] [Craft Scheduler Thread - 2062 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3556ms to save DyanmicPricing
+[06:15:22] [Server thread/INFO]: DeucesMamaGooses issued server command: /rtp
+[06:16:09] [Server thread/INFO]: DeucesMamaGooses issued server command: /rtp
+[06:18:10] [Server thread/INFO]: DeucesMamaGooses issued server command: /sellgui
+[06:18:13] [Server thread/INFO]: Shop >> DeucesMamaGooses sold 234x Sugar Cane(Farming.20) for $699.48 with the sell gui.
+[06:18:24] [Server thread/INFO]: DeucesMamaGooses issued server command: /rules
+[06:18:56] [Server thread/INFO]: DeucesMamaGooses issued server command: /sellgui
+[06:18:57] [Server thread/INFO]: Shop >> DeucesMamaGooses sold 64x Bamboo(Farming.11) for $32.00 with the sell gui.
+[06:18:59] [Server thread/INFO]: DeucesMamaGooses issued server command: /sellgui
+[06:19:02] [Server thread/INFO]: Shop >> DeucesMamaGooses sold 170x Bamboo(Farming.11), 77x Sugar Cane(Farming.20) for $314.24 with the sell gui.
+[06:19:27] [Server thread/INFO]: DeucesMamaGooses issued server command: /sellgui
+[06:19:30] [Server thread/INFO]: Shop >> DeucesMamaGooses sold 205x Potato(Farming.9), 230x Carrot(Farming.8) for $1,302.66 with the sell gui.
+[06:20:57] [Server thread/INFO]: DeucesMamaGooses has made the advancement [A Seedy Place]
+[06:21:53] [Server thread/INFO]: DeucesMamaGooses issued server command: /sellgui
+[06:21:56] [Server thread/INFO]: Shop >> DeucesMamaGooses sold 201x Wheat Seeds(Farming.2), 4x Sugar Cane(Farming.20), 107x Wheat(Farming.7) for $734.51 with the sell gui.
+[06:23:43] [Server thread/INFO]: DeucesMamaGooses issued server command: /baltop
+[06:24:31] [Server thread/INFO]: DeucesMamaGooses issued server command: /t list
+[06:26:31] [Server thread/INFO]: DeucesMamaGooses issued server command: /mctop
+[06:26:53] [Server thread/INFO]: DeucesMamaGooses issued server command: /sellgui
+[06:26:58] [Server thread/INFO]: Shop >> DeucesMamaGooses sold 14x Potato(Farming.9), 112x Sugar Cane(Farming.20), 68x Wheat(Farming.7) for $644.55 with the sell gui.
+[06:29:59] [Server thread/INFO]: DeucesMamaGooses issued server command: /t list
+[06:30:55] [Server thread/INFO]: DeucesMamaGooses issued server command: /home
+[06:33:25] [Server thread/INFO]: DeucesMamaGooses issued server command: /sellgui
+[06:33:26] [Server thread/INFO]: Shop >> DeucesMamaGooses sold 97x Copper Ingot(Ores.3) for $38.79 with the sell gui.
+[06:38:10] [Server thread/INFO]: Named entity EntitySkeleton['Skeleton'/1301033, uuid='a7a15d19-1855-43af-90e7-3653c36fe7d6', l='ServerLevel[world]', x=1207.19, y=7.00, z=-1440.70, cpos=[75, -91], tl=3231, v=true] died: Skeleton was slain by Zombie
+[06:38:43] [User Authenticator #31/INFO]: UUID of player BrotherGoals is f6a75529-d592-4048-9d64-b98957362552
+[06:38:43] [Server thread/INFO]: [HeartEarner] Setting max health of BrotherGoals to 10.0
+[06:38:43] [Server thread/INFO]: BrotherGoals[/67.80.115.9:53415] logged in with entity id 1301533 at ([world]-1984.6426815664138, 64.0, -1324.266528476044)
+[06:38:43] [Server thread/INFO]:  + | BrotherGoals
+[06:38:49] [Server thread/INFO]: BrotherGoals issued server command: /home
+[06:38:55] [Server thread/INFO]: BrotherGoals issued server command: /tpa DeucesMamaGooses
+[06:38:59] [Server thread/INFO]: DeucesMamaGooses issued server command: /tpaccept
+[06:39:14] [Server thread/INFO]: DeucesMamaGooses issued server command: /home
+[06:39:31] [Server thread/INFO]: DeucesMamaGooses issued server command: /spawn
+[06:39:57] [Server thread/INFO]: DeucesMamaGooses issued server command: /tpa BrotherGoals
+[06:40:00] [Server thread/INFO]: BrotherGoals issued server command: /tpaccept
+[06:40:05] [Server thread/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Player DeucesMamaGooses tried to mine a spawner with a not allowed spawner-break-tool: ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SILK_TOUCH=1}, Damage=177}}
+[06:40:18] [Craft Scheduler Thread - 2073 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[06:40:22] [Craft Scheduler Thread - 2073 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3535ms to save DyanmicPricing
+[06:41:37] [Server thread/INFO]: DeucesMamaGooses issued server command: /tpa BrotherGoals
+[06:41:40] [Server thread/INFO]: DeucesMamaGooses issued server command: /spawn
+[06:41:54] [Server thread/INFO]: DeucesMamaGooses lost connection: Disconnected
+[06:41:54] [Server thread/INFO]:  - | DeucesMamaGooses
+[06:41:57] [Server thread/INFO]: BrotherGoals lost connection: Disconnected
+[06:41:57] [Server thread/INFO]:  - | BrotherGoals
+[07:10:18] [Craft Scheduler Thread - 2089 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[07:10:22] [Craft Scheduler Thread - 2089 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3729ms to save DyanmicPricing
+[07:40:18] [Craft Scheduler Thread - 2091 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[07:40:22] [Craft Scheduler Thread - 2091 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3704ms to save DyanmicPricing
+[08:08:51] [User Authenticator #32/INFO]: UUID of player JappaMC is 9d66e60e-2827-4abb-9c6d-fea3c2459ee7
+[08:08:51] [Server thread/INFO]: [HeartEarner] Setting max health of JappaMC to 10.0
+[08:08:51] [Server thread/INFO]: JappaMC[/103.85.36.160:31298] logged in with entity id 1323829 at ([Spawn]42.48934386615028, 37.0, 4.477729826842806)
+[08:08:51] [Server thread/INFO]:  + | Jappa
+[08:08:55] [Server thread/INFO]: JappaMC issued server command: /vote
+[08:08:58] [Server thread/INFO]: JappaMC issued server command: /vote
+[08:08:59] [Server thread/INFO]: JappaMC issued server command: /vote
+[08:09:01] [Server thread/INFO]: JappaMC issued server command: /vote
+[08:09:03] [Server thread/INFO]: JappaMC issued server command: /vote
+[08:09:04] [Server thread/INFO]: JappaMC issued server command: /vote
+[08:09:47] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /54.37.31.166:41314 -> Vote (from:Minecraft-MP.com username:JappaMC address:103.85.36.160 timeStamp:1692137386 additionalData:null)
+[08:09:47] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'Minecraft-MP.com' by player 'JappaMC'!
+[08:09:47] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting Jappa!
+[08:09:47] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given JappaMC 1 Keys.
+[08:09:47] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[08:09:50] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /45.33.29.47:47368 -> Vote (from:MCSL username:JappaMC address:103.85.36.160 timeStamp:1692137390 additionalData:null)
+[08:09:50] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'MCSL' by player 'JappaMC'!
+[08:09:50] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting Jappa!
+[08:09:51] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given JappaMC 1 Keys.
+[08:09:51] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[08:09:54] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /157.245.217.96:46002 -> Vote (from:Minecraft.Buzz username:JappaMC address:103.85.36.160 timeStamp:1692137394 additionalData:null)
+[08:09:54] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'Minecraft.Buzz' by player 'JappaMC'!
+[08:09:54] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting Jappa!
+[08:09:54] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given JappaMC 1 Keys.
+[08:09:54] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[08:09:57] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /162.243.41.44:37077 -> Vote (from:TopMinecraftServers username:JappaMC address:103.85.36.160 timeStamp:1692137343 additionalData:null)
+[08:09:57] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'TopMinecraftServers' by player 'JappaMC'!
+[08:09:57] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting Jappa!
+[08:09:57] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given JappaMC 1 Keys.
+[08:09:57] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[08:10:01] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /66.175.210.190:42786 -> Vote (from:MinecraftServers.org username:JappaMC address:103.85.36.160 timeStamp:1692137400000 additionalData:null)
+[08:10:01] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'MinecraftServers.org' by player 'JappaMC'!
+[08:10:01] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting Jappa!
+[08:10:01] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given JappaMC 1 Keys.
+[08:10:01] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[08:10:04] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v2 vote record from /50.28.37.175:42176 -> Vote (from:PlanetMinecraft.com username:JappaMC address:103.85.36.160 timeStamp:1692137403 additionalData:null)
+[08:10:04] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'PlanetMinecraft.com' by player 'JappaMC'!
+[08:10:04] [pool-58-thread-1/INFO]: Vᴏᴛᴇꜱ | Thanks for voting Jappa!
+[08:10:04] [Server thread/INFO]: Cʀᴀᴛᴇꜱ | You have given JappaMC 1 Keys.
+[08:10:04] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Sender: CONSOLE | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key
+[08:10:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give JappaMC 50
+[08:10:12] [Server thread/INFO]: $50 added to Jappa account. New balance: $1,151.12
+[08:10:12] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[08:10:13] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /xp give JappaMC 100
+[08:10:13] [Server thread/INFO]: Jappa now has 978 exp.
+[08:10:13] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[08:10:13] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /xp give JappaMC 100
+[08:10:13] [Server thread/INFO]: Jappa now has 1,078 exp.
+[08:10:13] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[08:10:13] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give JappaMC 50
+[08:10:13] [Server thread/INFO]: $50 added to Jappa account. New balance: $1,201.12
+[08:10:13] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[08:10:13] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give JappaMC 50
+[08:10:13] [Server thread/INFO]: $50 added to Jappa account. New balance: $1,251.12
+[08:10:13] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[08:10:14] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[08:10:18] [Craft Scheduler Thread - 2119 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[08:10:19] [Server thread/INFO]: JappaMC issued server command: /pv 1
+[08:10:22] [Craft Scheduler Thread - 2119 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3734ms to save DyanmicPricing
+[08:10:23] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give JappaMC 100
+[08:10:23] [Server thread/INFO]: $100 added to Jappa account. New balance: $1,351.12
+[08:10:23] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[08:10:24] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /xp give JappaMC 150
+[08:10:24] [Server thread/INFO]: Jappa now has 1,228 exp.
+[08:10:24] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: VoteCrate | Crate Type: QuickCrate | Key Name: §x§1§B§B§E§0§0§lV§x§1§C§C§5§0§0§lᴏ§x§1§D§C§C§0§0§lᴛ§x§1§E§D§3§0§0§lᴇ §x§1§F§D§9§0§0§lK§x§2§0§E§0§0§0§lᴇ§x§2§1§E§7§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[08:10:25] [Server thread/INFO]: JappaMC issued server command: /pv 1
+[08:19:27] [Server thread/INFO]: JappaMC lost connection: Disconnected
+[08:19:27] [Server thread/INFO]:  - | Jappa
+[08:35:23] [User Authenticator #33/INFO]: UUID of player JappaMC is 9d66e60e-2827-4abb-9c6d-fea3c2459ee7
+[08:35:23] [Server thread/INFO]: [HeartEarner] Setting max health of JappaMC to 10.0
+[08:35:23] [Server thread/INFO]: JappaMC[/103.85.36.160:31480] logged in with entity id 1324223 at ([Spawn]41.448819549080575, 36.0, 1.4946080852791344)
+[08:35:23] [Server thread/INFO]:  + | Jappa
+[08:35:27] [Craft Scheduler Thread - 2132 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | Kɴɪɢʜᴛꜱ Lᴏɴɢꜱᴡᴏʀᴅ
+[08:40:18] [Craft Scheduler Thread - 2133 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[08:40:18] [Craft Scheduler Thread - 2118 - Vault/INFO]: [Vault] Checking for Updates ...
+[08:40:18] [Craft Scheduler Thread - 2118 - Vault/INFO]: [Vault] No new version available
+[08:40:22] [Craft Scheduler Thread - 2133 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3650ms to save DyanmicPricing
+[08:47:27] [Craft Scheduler Thread - 2143 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | Wᴀʀʟᴏʀᴅꜱ Gʀᴇᴀᴛꜱᴡᴏʀᴅ
+[09:00:07] [Server thread/INFO]: [Towny] Time until a New Day: 2 hours, 59 minutes, 53 seconds
+[09:08:17] [Craft Scheduler Thread - 2150 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | Tᴇᴍᴘᴇꜱᴛ Jᴀᴠᴇʟɪɴ
+[09:10:18] [Craft Scheduler Thread - 2153 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[09:10:22] [Craft Scheduler Thread - 2153 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3511ms to save DyanmicPricing
+[09:19:39] [Craft Scheduler Thread - 2155 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | Mᴀꜱᴀᴍᴜɴᴇ
+[09:24:12] [Craft Scheduler Thread - 2161 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | Böʟᴠᴇʀᴋ
+[09:35:50] [Craft Scheduler Thread - 2153 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | Tʜᴇ Bᴏᴡ ᴏꜰ Eᴜʀʏᴛᴜꜱ
+[09:40:18] [Craft Scheduler Thread - 2172 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[09:40:22] [Craft Scheduler Thread - 2172 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3558ms to save DyanmicPricing
+[09:42:54] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: ᴅɪꜱᴄᴏʀᴅ | ꜱᴇɴᴛɪɴᴇʟ Jairus | Nerd
+[09:42:57] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: ᴅɪꜱᴄᴏʀᴅ | ꜱᴇɴᴛɪɴᴇʟ Jairus | Go to work
+[09:43:03] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: ᴅɪꜱᴄᴏʀᴅ | ꜰᴏᴜɴᴅᴇʀ _jappa | WFH today
+[09:43:20] [Craft Scheduler Thread - 2177 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | U should be thanking me for sorting out crates
+[09:43:21] [Craft Scheduler Thread - 2173 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | :3
+[09:43:32] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: ᴅɪꜱᴄᴏʀᴅ | ꜱᴇɴᴛɪɴᴇʟ Jairus | Are they all finished
+[09:43:37] [Craft Scheduler Thread - 2178 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | No
+[09:43:46] [Craft Scheduler Thread - 2176 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | Custom armour and items takes forever
+[09:44:06] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: ᴅɪꜱᴄᴏʀᴅ | ꜱᴇɴᴛɪɴᴇʟ Jairus | I’m praying my tafe teacher lets me go early so I can get to the grind
+[09:44:22] [Craft Scheduler Thread - 2176 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | xDDD
+[09:44:28] [Craft Scheduler Thread - 2176 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | Invite them to the server
+[09:44:50] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: ᴅɪꜱᴄᴏʀᴅ | ꜱᴇɴᴛɪɴᴇʟ Jairus | I’d spawn trap him
+[09:44:53] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: ᴅɪꜱᴄᴏʀᴅ | ꜱᴇɴᴛɪɴᴇʟ Jairus | Make him cry
+[09:45:04] [Craft Scheduler Thread - 2181 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | He would F you
+[09:59:38] [Craft Scheduler Thread - 2172 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | Hᴇᴀᴅʜᴜɴᴛᴇʀ
+[10:10:18] [Craft Scheduler Thread - 2185 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[10:10:22] [Craft Scheduler Thread - 2185 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3841ms to save DyanmicPricing
+[10:30:03] [Server thread/INFO]: [Towny] Time until a New Day: 1 hours, 29 minutes, 57 seconds
+[10:34:37] [Craft Scheduler Thread - 2200 - InteractiveChat/INFO]: [Not Secure] ꜰᴏᴜɴᴅᴇʀ Jappa | Tʜᴇ Cʀᴏᴡɴ
+[10:40:18] [Craft Scheduler Thread - 2204 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[10:40:22] [Craft Scheduler Thread - 2204 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3550ms to save DyanmicPricing
+[11:10:18] [Craft Scheduler Thread - 2216 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[11:10:22] [Craft Scheduler Thread - 2216 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3531ms to save DyanmicPricing
+[11:11:38] [Server thread/INFO]: JappaMC issued server command: /cc reload
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the QuadCrateExample.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the CrateExample.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the EpicCrate.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the LegendaryCrate.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the VoteCrate.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the QuickCrateExample.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the RareCrate.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the FabledCrate.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the CosmicCrateExample.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loading the events.log
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded events.log
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/QuadCrateExample.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CrateExample.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/EpicCrate.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/LegendaryCrate.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/VoteCrate.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/QuickCrateExample.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/RareCrate.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/FabledCrate.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CosmicCrateExample.yml.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] DecentHolograms support has been enabled.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:11:38] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:11:38] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:15:01] [Server thread/INFO]: [Towny] Time until a New Day: 44 minutes, 59 seconds
+[11:35:59] [Server thread/INFO]: JappaMC issued server command: /shop
+[11:37:30] [Server thread/INFO]: [Towny] Time until a New Day: 22 minutes, 30 seconds
+[11:37:54] [Server thread/INFO]: JappaMC issued server command: /cc reload
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the QuadCrateExample.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the CrateExample.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the EpicCrate.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the LegendaryCrate.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the VoteCrate.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the QuickCrateExample.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the RareCrate.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the FabledCrate.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the CosmicCrateExample.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loading the events.log
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully loaded events.log
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/QuadCrateExample.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CrateExample.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/EpicCrate.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/LegendaryCrate.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/VoteCrate.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/QuickCrateExample.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/RareCrate.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/FabledCrate.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CosmicCrateExample.yml.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] DecentHolograms support has been enabled.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:37:54] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:37:54] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:40:18] [Craft Scheduler Thread - 2229 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Saving DynamicPricing to database...
+[11:40:22] [Craft Scheduler Thread - 2229 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [DEBUG]: Took 3743ms to save DyanmicPricing
+[11:45:54] [Server thread/INFO]: JappaMC issued server command: /cc admin
+[11:45:57] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: EpicCrate | Crate Type: Cosmic | Key Name: §x§8§0§0§0§F§F§lE§x§8§C§0§0§F§B§lᴘ§x§9§8§0§0§F§7§lɪ§x§A§4§0§0§F§3§lᴄ §x§A§F§0§0§E§F§lK§x§B§B§0§0§E§B§lᴇ§x§C§7§0§0§E§7§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[11:45:59] [Server thread/WARN]: An issue occurred when the user JappaMC was using the EpicCrate crate and so they were issued a key refund.
+[11:45:59] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "com.badbones69.crazycrates.api.objects.Crate.getTiers()" because "crate" is null
+[11:45:59] [Server thread/WARN]: 	at CrazyCrates-1.11.16.jar//com.badbones69.crazycrates.cratetypes.Cosmic.pickTier(Cosmic.java:77)
+[11:45:59] [Server thread/WARN]: 	at CrazyCrates-1.11.16.jar//com.badbones69.crazycrates.cratetypes.Cosmic.startRoll(Cosmic.java:49)
+[11:45:59] [Server thread/WARN]: 	at CrazyCrates-1.11.16.jar//com.badbones69.crazycrates.cratetypes.Cosmic$1.run(Cosmic.java:209)
+[11:45:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[11:45:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[11:45:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1507)
+[11:45:59] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:487)
+[11:45:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1421)
+[11:45:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1192)
+[11:45:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323)
+[11:45:59] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[11:46:01] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: LegendaryCrate | Crate Type: Cosmic | Key Name: §x§F§F§9§9§0§0§lL§x§F§F§A§1§0§0§lᴇ§x§F§F§A§A§0§0§lɢ§x§F§F§B§2§0§0§lᴇ§x§F§F§B§A§0§0§lɴ§x§F§F§C§3§0§0§lᴅ§x§F§F§C§B§0§0§lᴀ§x§F§F§D§4§0§0§lʀ§x§F§F§D§C§0§0§lʏ §x§F§F§E§4§0§0§lK§x§F§F§E§D§0§0§lᴇ§x§F§F§F§5§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[11:46:07] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give JappaMC 1000
+[11:46:07] [Server thread/INFO]: $1,000 added to Jappa account. New balance: $2,351.12
+[11:46:08] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /broadcast &6&lJappaMC&r &7has just won some &rCosmic Grass.
+[11:46:08] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give JappaMC 1000
+[11:46:08] [Server thread/INFO]: $1,000 added to Jappa account. New balance: $3,351.12
+[11:46:13] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: EpicCrate | Crate Type: Cosmic | Key Name: §x§8§0§0§0§F§F§lE§x§8§C§0§0§F§B§lᴘ§x§9§8§0§0§F§7§lɪ§x§A§4§0§0§F§3§lᴄ §x§A§F§0§0§E§F§lK§x§B§B§0§0§E§B§lᴇ§x§C§7§0§0§E§7§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[11:46:14] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: EpicCrate | Crate Type: Cosmic | Key Name: §x§8§0§0§0§F§F§lE§x§8§C§0§0§F§B§lᴘ§x§9§8§0§0§F§7§lɪ§x§A§4§0§0§F§3§lᴄ §x§A§F§0§0§E§F§lK§x§B§B§0§0§E§B§lᴇ§x§C§7§0§0§E§7§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[11:46:15] [Server thread/WARN]: An issue occurred when the user JappaMC was using the EpicCrate crate and so they were issued a key refund.
+[11:46:15] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "com.badbones69.crazycrates.api.objects.Crate.getTiers()" because "crate" is null
+[11:46:15] [Server thread/WARN]: 	at CrazyCrates-1.11.16.jar//com.badbones69.crazycrates.cratetypes.Cosmic.pickTier(Cosmic.java:77)
+[11:46:15] [Server thread/WARN]: 	at CrazyCrates-1.11.16.jar//com.badbones69.crazycrates.cratetypes.Cosmic.startRoll(Cosmic.java:49)
+[11:46:15] [Server thread/WARN]: 	at CrazyCrates-1.11.16.jar//com.badbones69.crazycrates.cratetypes.Cosmic$1.run(Cosmic.java:209)
+[11:46:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[11:46:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[11:46:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1507)
+[11:46:15] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:487)
+[11:46:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1421)
+[11:46:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1192)
+[11:46:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323)
+[11:46:15] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[11:46:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@2841d07c[id=<null>,name=Bunger,properties={},legacy=false] (/147.28.173.143:45020) lost connection: Disconnected
+[11:47:30] [Server thread/INFO]: JappaMC issued server command: /creative
+[11:48:29] [Server thread/INFO]: JappaMC issued server command: /cc reload
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the QuadCrateExample.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the CrateExample.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the EpicCrate.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the LegendaryCrate.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the VoteCrate.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the QuickCrateExample.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the RareCrate.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the FabledCrate.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the CosmicCrateExample.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loading the events.log
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully loaded events.log
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/QuadCrateExample.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CrateExample.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/EpicCrate.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/LegendaryCrate.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/VoteCrate.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/QuickCrateExample.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/RareCrate.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/FabledCrate.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CosmicCrateExample.yml.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] DecentHolograms support has been enabled.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:48:29] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:48:29] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:48:31] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: EpicCrate | Crate Type: Cosmic | Key Name: §x§8§0§0§0§F§F§lE§x§8§C§0§0§F§B§lᴘ§x§9§8§0§0§F§7§lɪ§x§A§4§0§0§F§3§lᴄ §x§A§F§0§0§E§F§lK§x§B§B§0§0§E§B§lᴇ§x§C§7§0§0§E§7§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[11:48:32] [Server thread/WARN]: An issue occurred when the user JappaMC was using the EpicCrate crate and so they were issued a key refund.
+[11:48:32] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "com.badbones69.crazycrates.api.objects.Crate.getTiers()" because "crate" is null
+[11:48:32] [Server thread/WARN]: 	at CrazyCrates-1.11.16.jar//com.badbones69.crazycrates.cratetypes.Cosmic.pickTier(Cosmic.java:77)
+[11:48:32] [Server thread/WARN]: 	at CrazyCrates-1.11.16.jar//com.badbones69.crazycrates.cratetypes.Cosmic.startRoll(Cosmic.java:49)
+[11:48:32] [Server thread/WARN]: 	at CrazyCrates-1.11.16.jar//com.badbones69.crazycrates.cratetypes.Cosmic$1.run(Cosmic.java:209)
+[11:48:32] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[11:48:32] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[11:48:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1507)
+[11:48:32] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:487)
+[11:48:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1421)
+[11:48:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1192)
+[11:48:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323)
+[11:48:32] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[11:48:36] [Server thread/INFO]: JappaMC issued server command: /cc admiun
+[11:48:37] [Server thread/INFO]: JappaMC issued server command: /cc admin
+[11:48:41] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: LegendaryCrate | Crate Type: Cosmic | Key Name: §x§F§F§9§9§0§0§lL§x§F§F§A§1§0§0§lᴇ§x§F§F§A§A§0§0§lɢ§x§F§F§B§2§0§0§lᴇ§x§F§F§B§A§0§0§lɴ§x§F§F§C§3§0§0§lᴅ§x§F§F§C§B§0§0§lᴀ§x§F§F§D§4§0§0§lʀ§x§F§F§D§C§0§0§lʏ §x§F§F§E§4§0§0§lK§x§F§F§E§D§0§0§lᴇ§x§F§F§F§5§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[11:48:45] [Server thread/INFO]: [Towny] Time until a New Day: 11 minutes, 15 seconds
+[11:48:48] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /broadcast &6&lJappaMC&r &7has just won some &rCosmic Grass.
+[11:48:49] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give JappaMC 1000
+[11:48:49] [Server thread/INFO]: $1,000 added to Jappa account. New balance: $4,351.12
+[11:48:49] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give JappaMC 1000000
+[11:48:49] [Server thread/INFO]: $1,000,000 added to Jappa account. New balance: $1,004,351.12
+[11:48:53] [Server thread/INFO]: JappaMC issued server command: /clear
+[11:48:55] [Server thread/INFO]: JappaMC issued server command: /baltop
+[11:52:30] [Server thread/INFO]: JappaMC issued server command: /cc reload
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the QuadCrateExample.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the CrateExample.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the EpicCrate.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the LegendaryCrate.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the VoteCrate.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the QuickCrateExample.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the RareCrate.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the FabledCrate.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully reloaded the CosmicCrateExample.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loading the events.log
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully loaded events.log
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loading the messages.yml
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully loaded messages.yml
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/QuadCrateExample.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CrateExample.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/EpicCrate.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/LegendaryCrate.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/VoteCrate.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/QuickCrateExample.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/RareCrate.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/FabledCrate.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CosmicCrateExample.yml.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] DecentHolograms support has been enabled.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[11:52:30] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[11:52:30] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[11:52:36] [Server thread/INFO]: JappaMC issued server command: /cc admin
+[11:52:41] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: EpicCrate | Crate Type: Cosmic | Key Name: §x§8§0§0§0§F§F§lE§x§8§C§0§0§F§B§lᴘ§x§9§8§0§0§F§7§lɪ§x§A§4§0§0§F§3§lᴄ §x§A§F§0§0§E§F§lK§x§B§B§0§0§E§B§lᴇ§x§C§7§0§0§E§7§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[11:52:42] [Server thread/WARN]: An issue occurred when the user JappaMC was using the EpicCrate crate and so they were issued a key refund.
+[11:52:42] [Server thread/WARN]: java.lang.NullPointerException
+[11:52:45] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: LegendaryCrate | Crate Type: Cosmic | Key Name: §x§F§F§9§9§0§0§lL§x§F§F§A§1§0§0§lᴇ§x§F§F§A§A§0§0§lɢ§x§F§F§B§2§0§0§lᴇ§x§F§F§B§A§0§0§lɴ§x§F§F§C§3§0§0§lᴅ§x§F§F§C§B§0§0§lᴀ§x§F§F§D§4§0§0§lʀ§x§F§F§D§C§0§0§lʏ §x§F§F§E§4§0§0§lK§x§F§F§E§D§0§0§lᴇ§x§F§F§F§5§0§0§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[11:52:52] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give JappaMC 1000
+[11:52:52] [Server thread/INFO]: $1,000 added to Jappa account. New balance: $1,005,351.12
+[11:52:52] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /broadcast &6&lJappaMC&r &7has just won some &rCosmic Grass.
+[11:52:54] [Server thread/INFO]: [CrazyCrates] Player: JappaMC | Crate Name: EpicCrate | Crate Type: Cosmic | Key Name: §x§8§0§0§0§F§F§lE§x§8§C§0§0§F§B§lᴘ§x§9§8§0§0§F§7§lɪ§x§A§4§0§0§F§3§lᴄ §x§A§F§0§0§E§F§lK§x§B§B§0§0§E§B§lᴇ§x§C§7§0§0§E§7§lʏ§r | Key Type: Physical_Key | Key Item: TRIPWIRE_HOOK
+[11:52:55] [Server thread/WARN]: An issue occurred when the user JappaMC was using the EpicCrate crate and so they were issued a key refund.
+[11:52:55] [Server thread/WARN]: java.lang.NullPointerException
+[11:53:16] [Server thread/INFO]: JappaMC issued server command: /condump
+[11:53:16] [Craft Scheduler Thread - 2236 - ConDump/INFO]: [ConDump] Latest log file is at /ssd/var/stipedata/servers/playnice mct 5/stipe_user_5756506/./logs/latest.log
