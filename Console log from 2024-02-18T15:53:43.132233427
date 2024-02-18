@@ -1,0 +1,798 @@
+[15:47:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:47:41] [ServerMain/INFO]: Loaded 1174 recipes
+[15:47:41] [ServerMain/INFO]: Loaded 1271 advancements
+[15:47:41] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[15:47:41] [Server thread/INFO]: Loading properties
+[15:47:41] [Server thread/INFO]: This server is running Purpur version git-Purpur-2143 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d66bc35 on HEAD)
+[15:47:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:47:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:47:42] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[15:47:42] [Server thread/INFO]: [Pufferfish] Max SIMD vector size on this system is 256 bits (int)
+[15:47:42] [Server thread/INFO]: [Pufferfish] Max SIMD vector size on this system is 256 bits (float)
+[15:47:42] [Server thread/INFO]: [Pufferfish] SIMD operations detected as functional. Will replace some operations with faster versions.
+[15:47:42] [Server thread/INFO]: Default game type: ADVENTURE
+[15:47:42] [Server thread/INFO]: Generating keypair
+[15:47:42] [Server thread/INFO]: Starting Minecraft server on 119.252.189.36:27540
+[15:47:42] [Server thread/INFO]: Using epoll channel type
+[15:47:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:47:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loading 1 libraries... please wait
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/ow2/asm/asm/7.3.1/asm-7.3.1.jar
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/ow2/asm/asm-commons/7.3.1/asm-commons-7.3.1.jar
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/ow2/asm/asm-analysis/7.3.1/asm-analysis-7.3.1.jar
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/ow2/asm/asm-tree/7.3.1/asm-tree-7.3.1.jar
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/ow2/asm/asm-util/7.3.1/asm-util-7.3.1.jar
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loading 1 libraries... please wait
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[15:47:43] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[15:47:44] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.102
+[15:47:44] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[15:47:44] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.18+6616-abda4e0
+[15:47:45] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7603b5fa]
+[15:47:45] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+42-8a57856
+[15:47:45] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[15:47:45] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.5
+[15:47:45] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0-dev+42-8a57856
+[15:47:45] [Server thread/INFO]: [RoseStacker] Loading server plugin RoseStacker v1.5.17
+[15:47:45] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.1-SNAPSHOT-673
+[15:47:45] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.20.4) has not yet been tested! Proceed with caution.
+[15:47:46] [Server thread/INFO]: [IridiumSkyblock] Loading server plugin IridiumSkyblock v4.0.9
+[15:47:46] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[15:47:47] [Server thread/INFO]: [floodgate] Took 435ms to boot Floodgate
+[15:47:47] [Server thread/INFO]: [Votifier] Loading server plugin Votifier v2.7.3
+[15:47:47] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.6
+[15:47:47] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.1-b861
+[15:47:47] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.2-SNAPSHOT
+[15:47:47] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[15:47:47] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[15:47:47] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.4.5.0
+[15:47:47] [Server thread/INFO]: [VotingPlugin] Loading server plugin VotingPlugin v6.15
+[15:47:47] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.59
+[15:47:47] [Server thread/INFO]: [UnsafeEnchants] Loading server plugin UnsafeEnchants v1.0.3
+[15:47:47] [Server thread/INFO]: [Vulcan] Loading server plugin Vulcan v2.8.6
+[15:47:48] [Server thread/INFO]: [ChatColor2] Loading server plugin ChatColor2 v1.14
+[15:47:48] [Server thread/INFO]: [CrazyCrates] Loading server plugin CrazyCrates v1.17
+[15:47:48] [Server thread/INFO]: [ConDump] Loading server plugin ConDump v1.3.3.1
+[15:47:48] [Server thread/INFO]: [TAB] Loading server plugin TAB v4.1.2
+[15:47:48] [Server thread/INFO]: [WorldGuardExtraFlags] Loading server plugin WorldGuardExtraFlags v4.2.2
+[15:47:48] [Server thread/INFO]: [BuycraftX] Loading server plugin BuycraftX v12.0.8
+[15:47:48] [Server thread/INFO]: [MobArena] Loading server plugin MobArena v0.108
+[15:47:48] [Server thread/INFO]: [Citizens] Loading server plugin Citizens v2.0.33-SNAPSHOT (build 3311)
+[15:47:48] [Server thread/INFO]: [ProCosmetics] Loading server plugin ProCosmetics v13.9.4
+[15:47:48] [Server thread/INFO]: [EconomyShopGUI-Premium] Loading server plugin EconomyShopGUI-Premium v5.8.1
+[15:47:48] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+42-8a57856
+[15:47:48] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.12.3-SNAPSHOT (build 403)
+[15:47:48] [Server thread/INFO]: [ChestShop] WorldGuard version 7.0.9+5934e49 loaded.
+[15:47:48] [Server thread/INFO]: [ChatGames-Premium] Loading server plugin ChatGames-Premium v1.5.4
+[15:47:48] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.6.0
+[15:47:48] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.27.0
+[15:47:48] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.2.3
+[15:47:48] [Server thread/INFO]: [Rankup] Loading server plugin Rankup v3.14.4
+[15:47:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:47:48] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.102
+[15:47:48] [Server thread/INFO]:         __
+[15:47:48] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.102
+[15:47:48] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[15:47:48] [Server thread/INFO]:
+[15:47:48] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:47:49] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:47:49] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:47:50] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:47:50] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2209ms)
+[15:47:50] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[15:47:50] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:47:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:47:50] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[15:47:50] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[15:47:50] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.18+6616-abda4e0
+[15:47:50] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:47:50] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[15:47:50] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[15:47:51] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.1-SNAPSHOT-673
+[15:47:51] [Server thread/INFO]: Preparing level "world"
+[15:47:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:47:52] [Server thread/INFO]: Time elapsed: 283 ms
+[15:47:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:47:52] [Server thread/INFO]: Time elapsed: 31 ms
+[15:47:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:47:52] [Server thread/INFO]: Time elapsed: 29 ms
+[15:47:52] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+42-8a57856
+[15:47:52] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:47:52] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:47:52] [Server thread/INFO]: [Essentials] Loaded 39095 items from items.json.
+[15:47:52] [Server thread/INFO]: [Essentials] Using locale en_GB
+[15:47:52] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:47:53] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:47:53] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[15:47:53] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[15:47:53] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:47:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:47:53] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:47:53] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[15:47:53] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[15:47:53] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+42-8a57856
+[15:47:53] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[15:47:53] [Server thread/INFO]: [RoseStacker] Enabling RoseStacker v1.5.17
+[15:47:53] [Server thread/INFO]: [RoseStacker] Initializing using RoseGarden v1.2.4
+[15:47:54] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: rosestacker [1.5.17]
+[15:47:54] [Server thread/INFO]: [IridiumSkyblock] Enabling IridiumSkyblock v4.0.9
+[15:47:54] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock
+[15:47:54] [Server thread/INFO]: Time elapsed: 597 ms
+[15:47:54] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) TNT ignition is PERMITTED.
+[15:47:54] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lighters are PERMITTED.
+[15:47:54] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lava fire is PERMITTED.
+[15:47:54] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Fire spread is UNRESTRICTED.
+[15:47:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock'
+[15:47:54] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_nether
+[15:47:54] [Server thread/INFO]: Time elapsed: 45 ms
+[15:47:54] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) TNT ignition is PERMITTED.
+[15:47:54] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lighters are PERMITTED.
+[15:47:54] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lava fire is PERMITTED.
+[15:47:54] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Fire spread is UNRESTRICTED.
+[15:47:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_nether'
+[15:47:55] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_the_end
+[15:47:55] [Server thread/INFO]: Time elapsed: 50 ms
+[15:47:55] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) TNT ignition is PERMITTED.
+[15:47:55] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lighters are PERMITTED.
+[15:47:55] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lava fire is PERMITTED.
+[15:47:55] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Fire spread is UNRESTRICTED.
+[15:47:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_the_end'
+[15:47:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'IridiumSkyblock_the_end'
+[15:47:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'IridiumSkyblock_the_end'
+[15:47:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'IridiumSkyblock_the_end'
+[15:47:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'IridiumSkyblock_the_end' in 0.00s
+[15:47:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R3! Trying to find NMS support
+[15:47:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R3' loaded!
+[15:47:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'IridiumSkyblock' to create a bStats instance!
+[15:47:55] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_the_end
+[15:47:55] [Server thread/INFO]: Time elapsed: 17 ms
+[15:47:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: iridiumskyblock [4.0.9]
+[15:47:56] [Server thread/INFO]: [IridiumSkyblock] Successfully registered Placeholders for PlaceholderAPI.
+[15:47:56] [Server thread/INFO]: [IridiumSkyblock] -------------------------------
+[15:47:56] [Server thread/INFO]: [IridiumSkyblock]
+[15:47:56] [Server thread/INFO]: [IridiumSkyblock] IridiumSkyblock Enabled!
+[15:47:56] [Server thread/INFO]: [IridiumSkyblock]
+[15:47:56] [Server thread/INFO]: [IridiumSkyblock] -------------------------------
+[15:47:56] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b90-2886a71)
+[15:47:56] [Server thread/INFO]: [Votifier] Enabling Votifier v2.7.3
+[15:47:56] [Server thread/INFO]: [Votifier] Loaded token for website: default
+[15:47:56] [Server thread/INFO]: [Votifier] Using epoll transport to accept votes.
+[15:47:56] [Server thread/INFO]: [Votifier] Method none selected for vote forwarding: Votes will not be received from a forwarder.
+[15:47:56] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.6
+[15:47:56] [Votifier epoll boss/INFO]: [Votifier] Votifier enabled on socket /119.252.189.36:48540.
+[15:47:56] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[15:47:56] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[15:47:56] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[15:47:56] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[15:47:56] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[15:47:56] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.2-SNAPSHOT
+[15:47:56] [Server thread/INFO]: [CMILib] Enabling CMILib v1.4.5.0
+[15:47:57] [Server thread/INFO]: Server version: v1_20_R3 - 1.20.4 - purpur  git-Purpur-2143 (MC: 1.20.4)
+[15:47:57] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:47:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.4.5.0]
+[15:47:57] [Server thread/INFO]: PlaceholderAPI hooked.
+[15:47:57] [Server thread/INFO]: Updated (EN) language file. Took 22ms
+[15:47:57] [Server thread/INFO]: [VotingPlugin] Enabling VotingPlugin v6.15
+[15:47:57] [Server thread/INFO]: [VotingPlugin] Loaded LuckPerms hook!
+[15:47:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: votingplugin [1.6]
+[15:47:57] [Server thread/INFO]: [VotingPlugin] Loading PlaceholderAPI expansion
+[15:47:58] [Server thread/INFO]: [VotingPlugin] Giving VotingPlugin.Player permission by default, can be disabled in the config
+[15:47:58] [Server thread/INFO]: [VotingPlugin] Enabled VotingPlugin 6.15
+[15:47:58] [Server thread/INFO]: [spark] Enabling spark v1.10.59
+[15:47:58] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[15:47:58] [Server thread/INFO]: [spark] Starting background profiler...
+[15:47:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.59]
+[15:47:58] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[15:47:58] [Server thread/INFO]: [UnsafeEnchants] Enabling UnsafeEnchants v1.0.3
+[15:47:58] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.8.6
+[15:47:59] [Server thread/INFO]: [Vulcan] Server Version: 1.20.4 detected!
+[15:47:59] [Server thread/INFO]: [Vulcan] Floodgate 2.0 found. Enabling hook!
+[15:47:59] [Server thread/INFO]: [Vulcan] BStats enabled!
+[15:47:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: Vulcan [2.8.6]
+[15:47:59] [Server thread/INFO]: [Vulcan] PlaceholderAPI found. Enabling hook!
+[15:47:59] [Server thread/INFO]: [ChatColor2] Enabling ChatColor2 v1.14
+[15:47:59] [Server thread/INFO]: [ChatColor] ChatColor 2 Version 1.14 has been enabled.
+[15:47:59] [Server thread/INFO]: [ChatColor] Current update: Long-awaited SQL update!
+[15:47:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cc [1.14]
+[15:47:59] [Server thread/INFO]: [ChatColor] PlaceholderAPI has been hooked.
+[15:47:59] [Server thread/INFO]: [ChatColor] Metrics is enabled for this plugin. Stats sent to https://bstats.org/plugin/bukkit/ChatColor2
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Enabling CrazyCrates v1.17
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loading the events.log
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Successfully loaded events.log
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/EnchantedCrate.yml.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/EpicCrate.yml.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/LegendaryCrate.yml.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/VoteCrate.yml.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CosmeticCrate.yml.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/RareCrate.yml.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/FabledCrate.yml.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[15:47:59] [Server thread/WARN]: [CrazyCrates] Created examples because we couldn't find it.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] DecentHolograms support has been enabled.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[15:47:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R3! Trying to find NMS support
+[15:47:59] [Server thread/WARN]: [NBTAPI] [NBTAPI] This Server-Version(v1_20_R3) is not supported by this NBT-API Version(2.12.0) located in CrazyCrates. The NBT-API will try to work as good as it can! Some functions may not work!
+[15:47:59] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'CrazyCrates' to create a bStats instance!
+[15:47:59] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[15:47:59] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[15:48:00] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » DECENT_HOLOGRAMS FOUND
+[15:48:00] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » HOLOGRAPHIC_DISPLAYS NOT FOUND
+[15:48:00] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » CMI NOT FOUND
+[15:48:00] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » PLACEHOLDERAPI FOUND
+[15:48:00] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » ORAXEN NOT FOUND
+[15:48:00] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » ITEMS_ADDER NOT FOUND
+[15:48:00] [Server thread/WARN]: [CrazyCrates] CrazyCrate Update: 1.17 is one of 4 major updates.
+[15:48:00] [Server thread/WARN]: [CrazyCrates] Please submit any bugs at https://github.com/Crazy-Crew/CrazyCrates/issues
+[15:48:00] [Server thread/WARN]: [CrazyCrates]
+[15:48:00] [Server thread/WARN]: [CrazyCrates] I will wait between releasing updates for bug reports
+[15:48:00] [Server thread/WARN]: [CrazyCrates] The next version is Version 2.0 excluding version bumps for Minecraft releases or some easy features/enhancements
+[15:48:00] [Server thread/WARN]: [CrazyCrates]
+[15:48:00] [Server thread/WARN]: [CrazyCrates] 2.0 is a hard break, Legacy color codes will no longer work, Configurations will be fully migrated, Placeholders will change and so on.
+[15:48:00] [Server thread/WARN]: [CrazyCrates] We only support https://papermc.io in 2.0 and will fully migrate to Modrinth and Hangar.
+[15:48:00] [Server thread/WARN]: [CrazyCrates] After that's done, I'll be adding practically anything including light gui editors or in-game editors ( improved /cc additem ) and crate conversions.
+[15:48:00] [Server thread/INFO]: [CrazyCrates] PlaceholderAPI support is enabled!
+[15:48:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: crazycrates [1.17]
+[15:48:00] [Server thread/INFO]: [ConDump] Enabling ConDump v1.3.3.1
+[15:48:00] [Server thread/INFO]: [TAB] Enabling TAB v4.1.2
+[15:48:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tab [4.1.2]
+[15:48:00] [Server thread/INFO]: [TAB] Enabled in 133ms
+[15:48:00] [Server thread/INFO]: [WorldGuardExtraFlags] Enabling WorldGuardExtraFlags v4.2.2
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.TeleportOnEntryFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.TeleportOnExitFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.CommandOnEntryFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.CommandOnExitFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.ConsoleCommandOnEntryFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.ConsoleCommandOnExitFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.WalkSpeedFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.BlockedEffectsFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.GodmodeFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.GiveEffectsFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.FlyFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.FlySpeedFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.PlaySoundsFlagHandler
+[15:48:00] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.GlideFlagHandler
+[15:48:00] [Server thread/INFO]: [BuycraftX] Enabling BuycraftX v12.0.8
+[15:48:00] [Server thread/INFO]: [BuycraftX] Validating your server key...
+[15:48:01] [Server thread/INFO]: [BuycraftX] Fetching all server packages...
+[15:48:01] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15:48:03] [Server thread/INFO]: [MobArena] Enabling MobArena v0.108
+[15:48:03] [Server thread/INFO]: [MobArena] Vault found; economy rewards enabled.
+[15:48:03] [Server thread/INFO]: [MobArena] Loaded arena 'default'
+[15:48:03] [Server thread/INFO]: [MobArena] Loaded 3 sign templates.
+[15:48:03] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.33-SNAPSHOT (build 3311)
+[15:48:03] [Server thread/INFO]: [Citizens] Loading external libraries
+[15:48:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: citizensplaceholder [1.0.0]
+[15:48:04] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[15:48:04] [Server thread/INFO]: [ProCosmetics] Enabling ProCosmetics v13.9.4
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing configs...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing menus...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing cosmetics...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing arrow effects...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing balloons...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing banners...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing death effects...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing emotes...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing gadgets...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing miniatures...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing morphs...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing mounts...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing music...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing particle effects...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing pets...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing statuses...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Initializing treasures...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Hooking into PlaceholderAPI...
+[15:48:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: procosmetics [1.0.0]
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Connecting to the database...
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Successfully connected to the database!
+[15:48:05] [Server thread/INFO]: [ProCosmetics] Hooking into Essentials...
+[15:48:07] [Server thread/INFO]: [ProCosmetics] Initialized! Took 2294ms.
+[15:48:07] [Server thread/INFO]: [EconomyShopGUI-Premium] Enabling EconomyShopGUI-Premium v5.8.1
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Using lang-en.yml as language file.
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Completed loading 21 section configs from /sections/
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Completed loading 21 shop configs from /shops/
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Updating Shop settings...
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Using minecraft version 1.20.4...
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Successfully hooked into Vault
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Completed loading 1 economy provider(s) for all 17 shop sections.
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Spawner provider set to ROSESTACKER in config
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: RoseStacker found, integrating...
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Using RoseStacker as spawner provider.
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Enabled PlaceholderAPI hook...
+[15:48:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.0.0]
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Debug mode is enabled.
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Loading item stock provider...
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Loading limited selling provider...
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Loading all items...
+[15:48:08] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Initialized - Took 348ms to complete
+[15:48:08] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+42-8a57856
+[15:48:08] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[15:48:08] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.12.3-SNAPSHOT (build 403)
+[15:48:08] [Server thread/INFO]: [ChestShop] Found locales hu, es_mx, sv, en, ro, zh_tw, fi, tr, af, ca, da, it, ru, nl, cs, vi, pt_br, he, zh, es, ko, no, fr, el, ja, uk, de, pl, ar, sr
+[15:48:08] [Server thread/INFO]: [ChestShop] Using EssentialsX Economy as the Economy provider now.
+[15:48:08] [Server thread/INFO]: [ChestShop] Vault loaded!
+[15:48:08] [Server thread/INFO]: [ChestShop] Using Paper's BlockDestroyEvent instead of the BlockPhysicsEvent!
+[15:48:08] [Server thread/INFO]: [ChestShop] Auto-updater is disabled. If you want the plugin to automatically download new releases then set 'TURN_OFF_UPDATES' to 'false' in your config.yml!
+[15:48:08] [Server thread/INFO]: [ChatGames-Premium] Enabling ChatGames-Premium v1.5.4
+[15:48:09] [Server thread/INFO]: [ChatGames-Premium] SQLITE DATABASE IS CONNECTED
+[15:48:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chatgames [1.0.0]
+[15:48:09] [Server thread/INFO]: [ChatGames-Premium] PlaceholderAPI Hooked!
+[15:48:09] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[15:48:09] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.27.0
+[15:48:09] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.2.3
+[15:48:09] [Server thread/INFO]: ------------- Jobs -------------
+[15:48:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: jobsr [5.2.2.3]
+[15:48:09] [Server thread/INFO]: PlaceholderAPI hooked.
+[15:48:09] [Server thread/INFO]: Connected to database (SqLite)
+[15:48:09] [Server thread/INFO]: Loaded 8 titles
+[15:48:09] [Server thread/INFO]: Loaded 1403 custom item names
+[15:48:09] [Server thread/INFO]: Loaded 81 custom entity names
+[15:48:09] [Server thread/INFO]: Loaded 2 custom MythicMobs names
+[15:48:09] [Server thread/INFO]: Loaded 38 custom enchant names
+[15:48:09] [Server thread/INFO]: Loaded 43 custom enchant names
+[15:48:09] [Server thread/INFO]: Loaded 16 custom color names
+[15:48:09] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
+[15:48:09] [Server thread/INFO]: Loaded 4 shop items
+[15:48:09] [Server thread/INFO]: Loaded 1 quests for Enchanter
+[15:48:09] [Server thread/INFO]: Loaded 1 quests for Crafter
+[15:48:09] [Server thread/INFO]: Loaded 1 quests for Brewer
+[15:48:09] [Server thread/INFO]: Loaded 1 quests for Lumberjack
+[15:48:09] [Server thread/INFO]: Loaded 1 quests for Miner
+[15:48:09] [Server thread/INFO]: Loaded 1 quests for Fisherman
+[15:48:09] [Server thread/INFO]: Loaded 1 quests for Blacksmith
+[15:48:09] [Server thread/INFO]: Loaded 1 quests for Builder
+[15:48:09] [Server thread/INFO]: Loaded 1 quests for Slayer
+[15:48:09] [Server thread/INFO]: Loaded 1 quests for Farmer
+[15:48:09] [Server thread/INFO]: Loaded 10 jobs
+[15:48:09] [Server thread/INFO]: Loaded 0 boosted items
+[15:48:09] [Server thread/INFO]: Loaded 354 furnace for reassigning.
+[15:48:09] [Server thread/INFO]: Loaded 59 brewing for reassigning.
+[15:48:10] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[15:48:10] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[15:48:10] [Server thread/INFO]: Preloaded 167 players data in 0.01
+[15:48:10] [Server thread/INFO]: WorldGuard detected.
+[15:48:10] [Server thread/INFO]: Plugin has been enabled successfully.
+[15:48:10] [Server thread/INFO]: ------------------------------------
+[15:48:10] [Server thread/INFO]: [Rankup] Enabling Rankup v3.14.4
+[15:48:10] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[15:48:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: rankup [3.14.4]
+[15:48:10] [Server thread/WARN]: Could not register alias balancetop because it contains commands that do not exist: balanceall
+[15:48:10] [Server thread/WARN]: Could not register alias baltop because it contains commands that do not exist: balall
+[15:48:10] [Server thread/WARN]: Could not register alias island top because it contains illegal characters
+[15:48:10] [Server thread/WARN]: Could not register alias is top because it contains illegal characters
+[15:48:10] [Server thread/WARN]: Could not register alias island missions because it contains illegal characters
+[15:48:10] [Server thread/WARN]: Could not register alias island home because it contains illegal characters
+[15:48:10] [Server thread/WARN]: Could not register alias island members because it contains illegal characters
+[15:48:10] [Server thread/WARN]: Could not register alias island warps because it contains illegal characters
+[15:48:10] [Server thread/WARN]: Could not register alias island upgrades because it contains illegal characters
+[15:48:10] [Server thread/WARN]: Could not register alias island boosters because it contains illegal characters
+[15:48:10] [Server thread/WARN]: Could not register alias island border because it contains illegal characters
+[15:48:10] [Server thread/WARN]: Could not register alias is permissions because it contains illegal characters
+[15:48:10] [Server thread/WARN]: Could not register alias is delete because it contains illegal characters
+[15:48:10] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[15:48:10] [pool-108-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (6405e850eea61a4b9bf4f0d0cbb80fe20b3cfb90)
+[15:48:11] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[15:48:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:48:11] [Server thread/INFO]: [Geyser-Spigot]
+[15:48:11] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.2-SNAPSHOT (git-master-19a3dc3)
+[15:48:11] [Server thread/INFO]: [Geyser-Spigot]
+[15:48:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:48:11] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:🌸 Sky Blossom 🌸(1175598720696459324)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:welcome(1185462969501503558)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:announcements(1200759587284996167)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-announcements(1208208927976718346)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(1175598720696459327)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:screenshots(1185462838274314240)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:off-topic(1185463602111590420)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ingame-chat(1185462894574448710)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:frequently-asked(1185464296747049030)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:suggestion-tickets(1185464653229346926)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:support-requests(1185464100201971733)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:official-discord-announcements(1185470208278798356)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:server-console(1199630583874203648)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:vip-general(1202500763721408582)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-general(1208205287761252362)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:server-console(1199630583874203648)
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling Essentials hook
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling LuckPerms hook
+[15:48:11] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling PlaceholderAPI hook
+[15:48:14] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:27540
+[15:48:14] [Server thread/INFO]: [Geyser-Spigot] Done (2.939s)! Run /geyser help for help!
+[15:48:14] [Server thread/INFO]: Running delayed init tasks
+[15:48:14] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[15:48:14] [Craft Scheduler Thread - 10 - DecentHolograms/INFO]: [DecentHolograms] Loading holograms...
+[15:48:14] [Craft Scheduler Thread - 23 - Vault/INFO]: [Vault] Checking for Updates ...
+[15:48:14] [Craft Scheduler Thread - 23 - Vault/INFO]: [Vault] No new version available
+[15:48:14] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[15:48:14] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[15:48:14] [Craft Scheduler Thread - 13 - CMILib/INFO]: New version of CMILib was detected. Please update it
+[15:48:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: progress [2.1]
+[15:48:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: Advancements [1.7]
+[15:48:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: essentials [1.5.2]
+[15:48:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.7]
+[15:48:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[15:48:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[15:48:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.1]
+[15:48:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.6.2]
+[15:48:14] [Server thread/INFO]: 8 placeholder hook(s) registered! 2 placeholder hook(s) have an update available.
+[15:48:14] [Craft Scheduler Thread - 10 - DecentHolograms/INFO]: [DecentHolograms] Loaded 35 holograms!
+[15:48:14] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[15:48:14] [Craft Scheduler Thread - 6 - RoseStacker/INFO]: [RoseStacker] Fetched 128 translation locales.
+[15:48:14] [Craft Scheduler Thread - 11 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: There is an update available for EconomyShopGUI Premium, you are running v5.8.1 but found v5.8.2.
+[15:48:14] [Craft Scheduler Thread - 11 - EconomyShopGUI-Premium/INFO]: [EconomyShopGUI-Premium] [INFO]: Download using command /eshop update
+[15:48:14] [Server thread/INFO]: [Citizens] Loaded 26 NPCs.
+[15:48:14] [Server thread/INFO]: [IridiumSkyblock] You are using the latest version of IridiumSkyblock.
+[15:48:14] [Server thread/INFO]: Done (33.094s)! For help, type "help"
+[15:48:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: discordsrv [1.27.0]
+[15:48:14] [Server thread/INFO]: Petranes (/45.46.8.76:58509) lost connection: Disconnected
+[15:48:14] [Server thread/INFO]: horseyboy8145 (/222.155.23.14:63985) lost connection: Disconnected
+[15:48:15] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[15:48:15] [Craft Scheduler Thread - 6 - BuycraftX/INFO]: [BuycraftX] Fetching all due players...
+[15:48:15] [Craft Scheduler Thread - 6 - BuycraftX/INFO]: [BuycraftX] Fetched due players (0 found).
+[15:48:15] [User Authenticator #0/INFO]: UUID of player BanNear is f045d865-2973-4cee-850e-2d58cfb436a4
+[15:48:16] [Server thread/INFO]: BanNear[/68.1.232.46:56239] logged in with entity id 804 at ([world]168.53715865923954, 82.0, 0.405856967702008)
+[15:48:16] [Server thread/INFO]: + | Tʀᴀɪɴᴇᴇ Mᴏᴅ BanNear
+[15:48:18] [Server thread/INFO]: kehvawn (/184.147.83.68:50810) lost connection: Disconnected
+[15:48:18] [User Authenticator #0/INFO]: UUID of player Pokemondragon23 is e3205174-d500-48c3-9453-d22e7001b07b
+[15:48:18] [Server thread/INFO]: Pokemondragon23[/206.83.102.13:34060] logged in with entity id 812 at ([IridiumSkyblock]-761.8191735609092, 85.5, -1058.4804811168349)
+[15:48:18] [Server thread/INFO]: [VotingPlugin] Successfully hooked into vault economy!
+[15:48:18] [Server thread/INFO]: [VotingPlugin] Hooked into vault permissions
+[15:48:19] [Server thread/INFO]: + | Gʀᴇᴇɴʜᴏʀɴ Pokemondragon23
+[15:48:23] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] /97.98.71.220:38824 tried to connect!
+[15:48:23] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] /97.98.71.220:38824 tried to connect!
+[15:48:24] [Craft Scheduler Thread - 12 - VotingPlugin/INFO]: [VotingPlugin] VotingPlugin is up to date! Version: 6.15
+[15:48:24] [User Authenticator #0/INFO]: UUID of player Petranes is 6ab56f46-4c4c-4cb8-89ef-781b8a2249f7
+[15:48:24] [Server thread/INFO]: Petranes[/45.46.8.76:58619] logged in with entity id 825 at ([IridiumSkyblock]-760.2499840660422, -9.0, 136.07111636930614)
+[15:48:24] [Server thread/INFO]: + | Gʀᴇᴇɴʜᴏʀɴ Petranes
+[15:48:26] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username xXllP4CM4NllXx
+[15:48:26] [defaultEventLoopGroup-7-2/INFO]: [Geyser-Spigot] xXllP4CM4NllXx (logged in as: xXllP4CM4NllXx) has connected to the Java server
+[15:48:26] [Server thread/INFO]: BanNear issued server command: /home
+[15:48:27] [Server thread/INFO]: [floodgate] Floodgate player logged in as .xXllP4CM4NllXx joined (UUID: 00000000-0000-0000-0009-000007b29d30)
+[15:48:27] [Server thread/INFO]: .xXllP4CM4NllXx[/97.98.71.220:0] logged in with entity id 1071 at ([world]57.37857, 85.0625, 48.43129)
+[15:48:27] [Server thread/INFO]: + | Exᴘᴇʀᴛ .xXllP4CM4NllXx
+[15:48:27] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:48:27] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:48:27] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:48:27] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:48:27] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:48:27] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:48:29] [User Authenticator #0/INFO]: UUID of player horseyboy8145 is 3581e591-c398-4c63-8d15-d12b9a8a7daa
+[15:48:30] [Server thread/INFO]: horseyboy8145[/222.155.23.14:64040] logged in with entity id 1115 at ([world]71.6996307742964, 84.5, 27.496368264258162)
+[15:48:30] [Server thread/INFO]: + | Gʀᴇᴇɴʜᴏʀɴ horseyboy8145
+[15:48:30] [Server thread/INFO]: ImWalkingEre (/45.46.8.76:58636) lost connection: Disconnected
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[15:48:32] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[15:48:32] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[15:48:32] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[15:48:32] [Async Chat Thread - #1/INFO]: Tʀᴀɪɴᴇᴇ Mᴏᴅ BanNear | welcome back
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[15:48:33] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[15:48:33] [Server thread/INFO]: BanNear issued server command: /crates
+[15:48:41] [Async Chat Thread - #0/INFO]: Gʀᴇᴇɴʜᴏʀɴ Pokemondragon23 | uh
+[15:48:41] [Async Chat Thread - #1/INFO]: [Not Secure] Exᴘᴇʀᴛ .xXllP4CM4NllXx | ty
+[15:48:43] [Server thread/INFO]: Petranes issued server command: /is home
+[15:48:46] [Async Chat Thread - #0/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | sadge
+[15:48:48] [Async Chat Thread - #1/INFO]: Gʀᴇᴇɴʜᴏʀɴ Pokemondragon23 | i dont have the key
+[15:48:53] [Async Chat Thread - #0/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | LOL
+[15:48:59] [Async Chat Thread - #1/INFO]: [Not Secure] Exᴘᴇʀᴛ .xXllP4CM4NllXx | not yet
+[15:49:02] [Server thread/INFO]: BanNear issued server command: /pong
+[15:49:04] [Server thread/INFO]: Pokemondragon23 issued server command: /crate
+[15:49:07] [Server thread/INFO]: BanNear issued server command: /pong
+[15:49:08] [Server thread/INFO]: Petranes issued server command: /crates
+[15:49:09] [Server thread/INFO]: BanNear issued server command: /pong
+[15:49:11] [Server thread/INFO]: BanNear issued server command: /pong
+[15:49:11] [Server thread/INFO]: horseyboy8145 issued server command: /is visit horseyboy8145
+[15:49:13] [Craft Scheduler Thread - 6 - BuycraftX/INFO]: [BuycraftX] Sending 5 analytic events
+[15:49:15] [Craft Scheduler Thread - 8 - BuycraftX/INFO]: [BuycraftX] Fetching all due players...
+[15:49:15] [Craft Scheduler Thread - 8 - BuycraftX/INFO]: [BuycraftX] Fetched due players (0 found).
+[15:49:17] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: Dɪꜱᴄᴏʀᴅ > Oᴡɴᴇʀ Jappa | I will award the key once everyone is back on
+[15:49:18] [Async Chat Thread - #0/INFO]: Tʀᴀɪɴᴇᴇ Mᴏᴅ BanNear | What the heck is /pong command
+[15:49:29] [User Authenticator #0/INFO]: UUID of player kehvawn is d6125187-7a7b-4398-918e-d4f39455b5aa
+[15:49:30] [Server thread/INFO]: kehvawn[/184.147.83.68:50980] logged in with entity id 2283 at ([IridiumSkyblock]286.3365416058745, 88.0, 602.1316488489721)
+[15:49:30] [Server thread/INFO]: + | Exᴘᴇʀᴛ kehvawn
+[15:49:35] [Server thread/INFO]: kehvawn issued server command: /crates
+[15:49:38] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 272 x Egg(03Butcher.page1.items.12) for $8,160.00 with the sell screen.
+[15:49:39] [Async Chat Thread - #1/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | yeah, i seem to be missing about 37 fabled keys jappa if u wanna give me those :)
+[15:49:47] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give kehvawn 10000
+[15:49:47] [Server thread/INFO]: $10,000 added to kehvawn account. New balance: $220,591
+[15:49:47] [Server thread/INFO]: horseyboy8145 issued server command: /spawn
+[15:49:53] [luckperms-command-executor/INFO]: [LP] > User Info: ticklemeplz
+[15:49:53] [luckperms-command-executor/INFO]: [LP] - UUID: 4ea18771-6c10-4840-acf9-e5619aef315f
+[15:49:53] [luckperms-command-executor/INFO]: [LP]     (type: official)
+[15:49:53] [luckperms-command-executor/INFO]: [LP] - Status: Offline
+[15:49:53] [luckperms-command-executor/INFO]: [LP] - Parent Groups:
+[15:49:53] [luckperms-command-executor/INFO]: [LP]     > default
+[15:49:53] [luckperms-command-executor/INFO]: [LP]     > donator3
+[15:49:53] [luckperms-command-executor/INFO]: [LP] - Contextual Data: (mode: server)
+[15:49:53] [luckperms-command-executor/INFO]: [LP]     Contexts: None
+[15:49:53] [luckperms-command-executor/INFO]: [LP]     Prefix: "Gʀᴇᴇɴʜᴏʀɴ"
+[15:49:53] [luckperms-command-executor/INFO]: [LP]     Suffix: " ✦✦✦"
+[15:49:53] [luckperms-command-executor/INFO]: [LP]     Primary Group: default
+[15:49:53] [luckperms-command-executor/INFO]: [LP]     Meta: (weight=10) (primarygroup=default)
+[15:49:54] [Async Chat Thread - #0/INFO]: Gʀᴇᴇɴʜᴏʀɴ Pokemondragon23 | im missing like 100 fabled keys
+[15:50:00] [Async Chat Thread - #1/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | rip
+[15:50:04] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 8fe3dbe7-ea00-4d91-a9fd-b835093fb7e8, mapped to EntityIronGolem['Iron Golem'/3016, uuid='8fe3dbe7-ea00-4d91-a9fd-b835093fb7e8', l='ServerLevel[IridiumSkyblock]', x=-448.86, y=45.00, z=-466.00, cpos=[-29, -30], tl=134438, v=true], can't add EntityIronGolem['Iron Golem'/3040, uuid='8fe3dbe7-ea00-4d91-a9fd-b835093fb7e8', l='ServerLevel[IridiumSkyblock]', x=-447.04, y=44.00, z=-465.86, cpos=[-28, -30], tl=137161, v=false]
+[15:50:06] [Async Chat Thread - #0/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | ping
+[15:50:13] [Server thread/INFO]: BanNear issued server command: /pong
+[15:50:13] [Craft Scheduler Thread - 17 - BuycraftX/INFO]: [BuycraftX] Sending 1 analytic events
+[15:50:15] [Craft Scheduler Thread - 16 - BuycraftX/INFO]: [BuycraftX] Fetching all due players...
+[15:50:15] [Craft Scheduler Thread - 16 - BuycraftX/INFO]: [BuycraftX] Fetched due players (0 found).
+[15:50:17] [luckperms-command-executor/INFO]: [LP] ticklemeplz had their existing parent groups on track donators cleared, and now only inherits donator4 (donator4) in context global.
+[15:50:19] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 758 x White Wool(08Decorations.page1.items.1) for $22,740.00 with the sell screen.
+[15:50:20] [Async Chat Thread - #1/INFO]: Exᴘᴇʀᴛ kehvawn | can i get the cactus again please lol
+[15:50:24] [Async Chat Thread - #0/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | LOL ye
+[15:50:33] [Server thread/INFO]: Sʜᴏᴘ » horseyboy8145 bought 1 x Splash Potion(12Brewing.page2.items.52) for $5,000.00 with the buy screen.
+[15:50:35] [luckperms-command-executor/INFO]: [LP] > User Info: ticklemeplz
+[15:50:35] [luckperms-command-executor/INFO]: [LP] - UUID: 4ea18771-6c10-4840-acf9-e5619aef315f
+[15:50:35] [luckperms-command-executor/INFO]: [LP]     (type: official)
+[15:50:35] [luckperms-command-executor/INFO]: [LP] - Status: Offline
+[15:50:35] [luckperms-command-executor/INFO]: [LP] - Parent Groups:
+[15:50:35] [luckperms-command-executor/INFO]: [LP]     > default
+[15:50:35] [luckperms-command-executor/INFO]: [LP]     > donator4
+[15:50:35] [luckperms-command-executor/INFO]: [LP] - Contextual Data: (mode: server)
+[15:50:35] [luckperms-command-executor/INFO]: [LP]     Contexts: None
+[15:50:35] [luckperms-command-executor/INFO]: [LP]     Prefix: "Gʀᴇᴇɴʜᴏʀɴ"
+[15:50:35] [luckperms-command-executor/INFO]: [LP]     Suffix: " ✦✦✦✦"
+[15:50:35] [luckperms-command-executor/INFO]: [LP]     Primary Group: default
+[15:50:35] [luckperms-command-executor/INFO]: [LP]     Meta: (weight=10) (primarygroup=default)
+[15:50:37] [Server thread/INFO]: Petranes issued server command: /is visit kehvawn
+[15:50:42] [Server thread/INFO]: Petranes issued server command: /is home
+[15:50:44] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[15:50:49] [Server thread/INFO]: kehvawn issued server command: /spawn
+[15:51:11] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: Dɪꜱᴄᴏʀᴅ > Oᴡɴᴇʀ Jappa | Going home now so I’ll be on in 15 minutes to hand out the epic key
+[15:51:15] [Craft Scheduler Thread - 7 - BuycraftX/INFO]: [BuycraftX] Fetching all due players...
+[15:51:16] [Craft Scheduler Thread - 7 - BuycraftX/INFO]: [BuycraftX] Fetched due players (0 found).
+[15:51:17] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: Dɪꜱᴄᴏʀᴅ > Oᴡɴᴇʀ Jappa | Sit tight ladies and gents :joy:
+[15:51:22] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /is visit riverforgegames
+[15:51:23] [Server thread/INFO]: Emzigma__ (/124.169.216.201:62784) lost connection: Disconnected
+[15:51:24] [Async Chat Thread - #1/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | time is money
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[15:51:25] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[15:51:25] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[15:51:27] [Async Chat Thread - #0/INFO]: Tʀᴀɪɴᴇᴇ Mᴏᴅ BanNear | yes
+[15:51:36] [Async Chat Thread - #1/INFO]: Gʀᴇᴇɴʜᴏʀɴ Pokemondragon23 | i think we should all get 100 fabled keys
+[15:51:42] [Server thread/INFO]: BanNear issued server command: /spawn
+[15:51:44] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:45] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:46] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:46] [Async Chat Thread - #0/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | minimum
+[15:51:46] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:47] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:47] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:47] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:48] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:48] [Server thread/INFO]: Petranes issued server command: /voteall
+[15:51:48] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:53] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:53] [Server thread/INFO]: kehvawn issued server command: /is home
+[15:51:53] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:53] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Birch Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:54] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 1 Birch Log for 62.50 to RiverForgeGames at [IridiumSkyblock] -300, 25, 610
+[15:51:55] [Server thread/INFO]: horseyboy8145 issued server command: /is visit Pokemondragon23
+[15:52:00] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 410 x Gunpowder(02Mobs.page1.items.5) for $16,400.00 with the sell screen.
+[15:52:01] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /151.80.36.203:49864 -> Vote (from:MinecraftPocket-Servers.com username:Petranes address:45.46.8.76 timeStamp:1708231921 additionalData:null)
+[15:52:01] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'MinecraftPocket-Servers.com' by player 'Petranes'!
+[15:52:01] [pool-98-thread-1/INFO]: Vᴏᴛɪɴɢ » Thanks Petranes for voting on Mɪɴᴇᴄʀᴀꜰᴛ Pᴏᴄᴋᴇᴛ Sᴇʀᴠᴇʀꜱ!
+[15:52:01] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Spruce Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -303, 26, 612
+[15:52:01] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:52:01] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Spruce Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -303, 26, 612
+[15:52:02] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Spruce Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -303, 26, 612
+[15:52:02] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Spruce Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -303, 26, 612
+[15:52:02] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Spruce Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -303, 26, 612
+[15:52:03] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Spruce Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -303, 26, 612
+[15:52:03] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 8 Spruce Log for 500.00 to RiverForgeGames at [IridiumSkyblock] -303, 26, 612
+[15:52:03] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 128 x Bone(02Mobs.page1.items.2) for $6,400.00 with the sell screen.
+[15:52:04] [Server thread/INFO]: [ChestShop Shops] .xXllP4CM4NllXx sold 1 Spruce Log for 62.50 to RiverForgeGames at [IridiumSkyblock] -303, 26, 612
+[15:52:05] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /162.243.41.44:37391 -> Vote (from:TopMinecraftServers username:Petranes address:45.46.8.76 timeStamp:1708231864 additionalData:null)
+[15:52:05] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'TopMinecraftServers' by player 'Petranes'!
+[15:52:05] [pool-98-thread-1/INFO]: Vᴏᴛɪɴɢ » Thanks Petranes for voting on TᴏᴘMɪɴᴇᴄʀᴀꜰᴛSᴇʀᴠᴇʀꜱ!
+[15:52:05] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:52:07] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 128 x Rotten Flesh(02Mobs.page1.items.3) for $6,400.00 with the sell screen.
+[15:52:09] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 25 x String(02Mobs.page1.items.1) for $750.00 with the sell screen.
+[15:52:11] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 56 x Arrow(02Mobs.page1.items.16) for $1,680.00 with the sell screen.
+[15:52:13] [Server thread/INFO]: BanNear issued server command: /home
+[15:52:16] [Craft Scheduler Thread - 29 - BuycraftX/INFO]: [BuycraftX] Fetching all due players...
+[15:52:16] [Craft Scheduler Thread - 29 - BuycraftX/INFO]: [BuycraftX] Fetched due players (0 found).
+[15:52:19] [User Authenticator #1/INFO]: UUID of player Emzigma__ is 4e72659b-7aca-4e26-8904-1e2d77e1e831
+[15:52:20] [Server thread/INFO]: Emzigma__[/124.169.216.201:62930] logged in with entity id 7580 at ([IridiumSkyblock]908.3570606469247, 85.5, 610.6745797536953)
+[15:52:20] [Server thread/INFO]: + | Gʀᴇᴇɴʜᴏʀɴ Emzigma__
+[15:52:20] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /50.28.37.175:49400 -> Vote (from:PlanetMinecraft.com username:Petranes address:50.28.37.175 timeStamp:1708231940 additionalData:null)
+[15:52:20] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'PlanetMinecraft.com' by player 'Petranes'!
+[15:52:20] [pool-98-thread-1/INFO]: Vᴏᴛɪɴɢ » Thanks Petranes for voting on PʟᴀɴᴇᴛMɪɴᴇᴄʀᴀꜰᴛ!
+[15:52:20] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:52:26] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /165.227.188.89:58478 -> Vote (from:Minecraft.Buzz username:Petranes address:45.46.8.76 timeStamp:1708231946 additionalData:null)
+[15:52:26] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'Minecraft.Buzz' by player 'Petranes'!
+[15:52:26] [pool-98-thread-1/INFO]: Vᴏᴛɪɴɢ » Thanks Petranes for voting on Mɪɴᴇᴄʀᴀꜰᴛ Bᴜᴢᴢ!
+[15:52:26] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:52:29] [Server thread/INFO]: Pokemondragon23 issued server command: /crate
+[15:52:33] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /66.175.210.190:35192 -> Vote (from:MinecraftServers.org username:Petranes address:45.46.8.76 timeStamp:1708231952000 additionalData:null)
+[15:52:33] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'MinecraftServers.org' by player 'Petranes'!
+[15:52:33] [pool-98-thread-1/INFO]: Vᴏᴛɪɴɢ » Thanks Petranes for voting on MɪɴᴇᴄʀᴀꜰᴛSᴇʀᴠᴇʀꜱ!
+[15:52:33] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:52:35] [Async Chat Thread - #1/INFO]: [Not Secure] Exᴘᴇʀᴛ .xXllP4CM4NllXx | glad i wasnt adding more to my cactus farm past 44 min
+[15:52:39] [Server thread/INFO]: horseyboy8145 issued server command: /is visit BanNear
+[15:52:40] [Async Chat Thread - #0/INFO]: Gʀᴇᴇɴʜᴏʀɴ Emzigma__ | What happened to the server?
+[15:52:43] [Server thread/INFO]: Emzigma__ issued server command: /crates
+[15:52:45] [Async Chat Thread - #1/INFO]: [Not Secure] Exᴘᴇʀᴛ .xXllP4CM4NllXx | rollback
+[15:52:47] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /159.65.226.243:42344 -> Vote (from:Minelist.net username:Petranes address:45.46.8.76 timeStamp:1708231967 additionalData:null)
+[15:52:47] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'Minelist.net' by player 'Petranes'!
+[15:52:47] [pool-98-thread-1/INFO]: Vᴏᴛɪɴɢ » Thanks Petranes for voting on Mɪɴᴇʟɪꜱᴛ!
+[15:52:47] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:52:51] [Votifier epoll worker/INFO]: [Votifier] Got a protocol v1 vote record from /54.37.31.166:36330 -> Vote (from:Minecraft-MP.com username:Petranes address:45.46.8.76 timeStamp:1708231971 additionalData:null)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[15:52:51] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[15:52:51] [Server thread/INFO]: [VotingPlugin] Received a vote from service site 'Minecraft-MP.com' by player 'Petranes'!
+[15:52:51] [pool-98-thread-1/INFO]: Vᴏᴛɪɴɢ » Thanks Petranes for voting on Mɪɴᴇᴄʀᴀꜰᴛ-MP!
+[15:52:51] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:52:51] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Petranes 1 Keys.
+[15:52:53] [Async Chat Thread - #1/INFO]: Gʀᴇᴇɴʜᴏʀɴ Pokemondragon23 | i lost stuff from multiple rare keys
+[15:52:54] [Async Chat Thread - #0/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | ask ban
+[15:52:56] [Async Chat Thread - #1/INFO]: Gʀᴇᴇɴʜᴏʀɴ Pokemondragon23 | :(
+[15:53:03] [Async Chat Thread - #0/INFO]: [Not Secure] Exᴘᴇʀᴛ .xXllP4CM4NllXx | acdidental regen island
+[15:53:10] [Server thread/INFO]: Emzigma__ issued server command: /crates
+[15:53:13] [Craft Scheduler Thread - 12 - BuycraftX/INFO]: [BuycraftX] Sending 1 analytic events
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[15:53:14] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[15:53:16] [Craft Scheduler Thread - 16 - BuycraftX/INFO]: [BuycraftX] Fetching all due players...
+[15:53:16] [Craft Scheduler Thread - 16 - BuycraftX/INFO]: [BuycraftX] Fetched due players (0 found).
+[15:53:19] [Server thread/INFO]: Emzigma__ issued server command: /crates
+[15:53:19] [Async Chat Thread - #1/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | #notmymod
+[15:53:21] [Server thread/INFO]: Hmmm, I don't recognise that command...
+[15:53:24] [Async Chat Thread - #0/INFO]: Tʀᴀɪɴᴇᴇ Mᴏᴅ BanNear | Yeah... It was me..
+[15:53:28] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /i know you dont
+[15:53:28] [Server thread/INFO]: Error: <dark_red>Only in-game players can use <secondary>i<dark_red>.
+[15:53:31] [Async Chat Thread - #1/INFO]: Gʀᴇᴇɴʜᴏʀɴ Emzigma__ | Ooh okay, same here. I lost an epic crate key that was in my inv :<
+[15:53:34] [Async Chat Thread - #0/INFO]: Gʀᴇᴇɴʜᴏʀɴ Petranes ✦✦✦✦✦✦ | #boycottskyblossom
+[15:53:41] [Craft Scheduler Thread - 7 - ConDump/INFO]: [ConDump] Repo successfully cleared at https://github.com/ Grovre/JL
+[15:53:41] [Craft Scheduler Thread - 7 - ConDump/INFO]: [ConDump] Repo successfully cleared in 9.193 seconds (9193ms)
+[15:53:43] [Craft Scheduler Thread - 25 - ConDump/INFO]: [ConDump] Latest log file is at /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/./logs/latest.log
