@@ -1,0 +1,1684 @@
+[07:22:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:22:55] [ServerMain/INFO]: Loaded 1174 recipes
+[07:22:55] [ServerMain/INFO]: Loaded 1271 advancements
+[07:22:56] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[07:22:56] [Server thread/INFO]: Loading properties
+[07:22:56] [Server thread/INFO]: This server is running Purpur version git-Purpur-2149 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 9cd8eb4 on HEAD)
+[07:22:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:22:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:22:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[07:22:56] [Server thread/INFO]: [Pufferfish] Max SIMD vector size on this system is 256 bits (int)
+[07:22:56] [Server thread/INFO]: [Pufferfish] Max SIMD vector size on this system is 256 bits (float)
+[07:22:56] [Server thread/INFO]: [Pufferfish] SIMD operations detected as functional. Will replace some operations with faster versions.
+[07:22:57] [Server thread/INFO]: Default game type: ADVENTURE
+[07:22:57] [Server thread/INFO]: Generating keypair
+[07:22:57] [Server thread/INFO]: Starting Minecraft server on 119.252.189.36:27540
+[07:22:57] [Server thread/INFO]: Using epoll channel type
+[07:22:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:22:57] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loading 1 libraries... please wait
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/ow2/asm/asm/7.3.1/asm-7.3.1.jar
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/ow2/asm/asm-commons/7.3.1/asm-commons-7.3.1.jar
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/ow2/asm/asm-analysis/7.3.1/asm-analysis-7.3.1.jar
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/ow2/asm/asm-tree/7.3.1/asm-tree-7.3.1.jar
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [VotingPlugin] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/ow2/asm/asm-util/7.3.1/asm-util-7.3.1.jar
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loading 1 libraries... please wait
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[07:22:57] [Server thread/INFO]: [SpigotLibraryLoader] [CrazyCrates] Loaded library /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[07:22:58] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.102
+[07:22:58] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[07:22:58] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.18+6616-abda4e0
+[07:22:59] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@184ab2af]
+[07:22:59] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+56-1929d41
+[07:22:59] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[07:22:59] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.5
+[07:22:59] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0-dev+56-1929d41
+[07:22:59] [Server thread/INFO]: [RoseStacker] Loading server plugin RoseStacker v1.5.17
+[07:22:59] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.1-SNAPSHOT-673
+[07:22:59] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.20.4) has not yet been tested! Proceed with caution.
+[07:23:00] [Server thread/INFO]: [IridiumSkyblock] Loading server plugin IridiumSkyblock v4.0.9
+[07:23:01] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[07:23:01] [Server thread/INFO]: [floodgate] Took 468ms to boot Floodgate
+[07:23:01] [Server thread/INFO]: [Votifier] Loading server plugin Votifier v2.7.3
+[07:23:01] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.6
+[07:23:01] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.1-b861
+[07:23:01] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.2-SNAPSHOT
+[07:23:02] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[07:23:02] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[07:23:02] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.4.5.1
+[07:23:02] [Server thread/INFO]: [VotingPlugin] Loading server plugin VotingPlugin v6.15
+[07:23:02] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.59
+[07:23:02] [Server thread/INFO]: [UnsafeEnchants] Loading server plugin UnsafeEnchants v1.0.3
+[07:23:02] [Server thread/INFO]: [Vulcan] Loading server plugin Vulcan v2.8.6
+[07:23:02] [Server thread/INFO]: [CrazyCrates] Loading server plugin CrazyCrates v1.17
+[07:23:02] [Server thread/INFO]: [ConDump] Loading server plugin ConDump v1.3.3.1
+[07:23:02] [Server thread/INFO]: [TAB] Loading server plugin TAB v4.1.2
+[07:23:02] [Server thread/INFO]: [WorldGuardExtraFlags] Loading server plugin WorldGuardExtraFlags v4.2.2
+[07:23:02] [Server thread/INFO]: [MobArena] Loading server plugin MobArena v0.108
+[07:23:02] [Server thread/INFO]: [Citizens] Loading server plugin Citizens v2.0.33-SNAPSHOT (build 3311)
+[07:23:02] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+56-1929d41
+[07:23:02] [Server thread/INFO]: [ProCosmetics] Loading server plugin ProCosmetics v13.9.4
+[07:23:02] [Server thread/INFO]: [Parkour] Loading server plugin Parkour v7.2.2
+[07:23:02] [Server thread/INFO]: [Tebex] Loading server plugin Tebex v2.0.3
+[07:23:02] [Server thread/INFO]: [ChatColor2] Loading server plugin ChatColor2 v1.14.2
+[07:23:02] [Server thread/INFO]: [EconomyShopGUI-Premium] Loading server plugin EconomyShopGUI-Premium v5.8.3
+[07:23:02] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.12.3-SNAPSHOT (build 403)
+[07:23:02] [Server thread/INFO]: [ChestShop] WorldGuard version 7.0.9+5934e49 loaded.
+[07:23:02] [Server thread/INFO]: [ChatGames-Premium] Loading server plugin ChatGames-Premium v1.5.4
+[07:23:02] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.6.0
+[07:23:02] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.27.0
+[07:23:02] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.2.3
+[07:23:02] [Server thread/INFO]: [Rankup] Loading server plugin Rankup v3.14.4
+[07:23:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:23:02] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.102
+[07:23:03] [Server thread/INFO]:         __
+[07:23:03] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.102
+[07:23:03] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[07:23:03] [Server thread/INFO]:
+[07:23:03] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[07:23:03] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[07:23:04] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[07:23:04] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[07:23:04] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2211ms)
+[07:23:04] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[07:23:04] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[07:23:04] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[07:23:04] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[07:23:04] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[07:23:04] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.18+6616-abda4e0
+[07:23:04] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[07:23:04] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[07:23:05] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[07:23:05] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.1-SNAPSHOT-673
+[07:23:05] [Server thread/INFO]: Preparing level "world"
+[07:23:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:23:06] [Server thread/INFO]: Time elapsed: 252 ms
+[07:23:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:23:07] [Server thread/INFO]: Time elapsed: 495 ms
+[07:23:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:23:07] [Server thread/INFO]: Time elapsed: 203 ms
+[07:23:07] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+56-1929d41
+[07:23:07] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[07:23:07] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[07:23:07] [Server thread/INFO]: [Essentials] Loaded 39095 items from items.json.
+[07:23:07] [Server thread/INFO]: [Essentials] Using locale en_GB
+[07:23:07] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[07:23:07] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[07:23:07] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[07:23:07] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[07:23:07] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[07:23:08] [Server thread/INFO]: [WorldGuard] Loading region data...
+[07:23:08] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[07:23:08] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[07:23:08] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+56-1929d41
+[07:23:08] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[07:23:08] [Server thread/INFO]: [RoseStacker] Enabling RoseStacker v1.5.17
+[07:23:08] [Server thread/INFO]: [RoseStacker] Initializing using RoseGarden v1.2.4
+[07:23:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: rosestacker [1.5.17]
+[07:23:08] [Server thread/INFO]: [IridiumSkyblock] Enabling IridiumSkyblock v4.0.9
+[07:23:08] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock
+[07:23:08] [Server thread/INFO]: Time elapsed: 64 ms
+[07:23:08] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) TNT ignition is PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lighters are PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Lava fire is PERMITTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock) Fire spread is UNRESTRICTED.
+[07:23:08] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock'
+[07:23:09] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_nether
+[07:23:09] [Server thread/INFO]: Time elapsed: 72 ms
+[07:23:09] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) TNT ignition is PERMITTED.
+[07:23:09] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lighters are PERMITTED.
+[07:23:09] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Lava fire is PERMITTED.
+[07:23:09] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_nether) Fire spread is UNRESTRICTED.
+[07:23:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_nether'
+[07:23:09] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_the_end
+[07:23:09] [Server thread/INFO]: Time elapsed: 75 ms
+[07:23:09] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) TNT ignition is PERMITTED.
+[07:23:09] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lighters are PERMITTED.
+[07:23:09] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Lava fire is PERMITTED.
+[07:23:09] [Server thread/INFO]: [WorldGuard] (IridiumSkyblock_the_end) Fire spread is UNRESTRICTED.
+[07:23:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'IridiumSkyblock_the_end'
+[07:23:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'IridiumSkyblock_the_end'
+[07:23:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'IridiumSkyblock_the_end'
+[07:23:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'IridiumSkyblock_the_end'
+[07:23:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'IridiumSkyblock_the_end' in 0.00s
+[07:23:09] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R3! Trying to find NMS support
+[07:23:09] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R3' loaded!
+[07:23:09] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'IridiumSkyblock' to create a bStats instance!
+[07:23:09] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_the_end
+[07:23:09] [Server thread/INFO]: Time elapsed: 42 ms
+[07:23:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: iridiumskyblock [4.0.9]
+[07:23:10] [Server thread/INFO]: [IridiumSkyblock] Successfully registered Placeholders for PlaceholderAPI.
+[07:23:10] [Server thread/INFO]: [IridiumSkyblock] -------------------------------
+[07:23:10] [Server thread/INFO]: [IridiumSkyblock]
+[07:23:10] [Server thread/INFO]: [IridiumSkyblock] IridiumSkyblock Enabled!
+[07:23:10] [Server thread/INFO]: [IridiumSkyblock]
+[07:23:10] [Server thread/INFO]: [IridiumSkyblock] -------------------------------
+[07:23:10] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[07:23:10] [Server thread/INFO]: [Votifier] Enabling Votifier v2.7.3
+[07:23:10] [Server thread/INFO]: [Votifier] Loaded token for website: default
+[07:23:10] [Server thread/INFO]: [Votifier] Using epoll transport to accept votes.
+[07:23:10] [Server thread/INFO]: [Votifier] Method none selected for vote forwarding: Votes will not be received from a forwarder.
+[07:23:10] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.6
+[07:23:10] [Votifier epoll boss/INFO]: [Votifier] Votifier enabled on socket /119.252.189.36:48540.
+[07:23:11] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[07:23:11] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[07:23:11] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[07:23:11] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[07:23:11] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[07:23:11] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.2-SNAPSHOT
+[07:23:11] [Server thread/INFO]: [CMILib] Enabling CMILib v1.4.5.1
+[07:23:11] [Server thread/INFO]: Server version: v1_20_R3 - 1.20.4 - purpur  git-Purpur-2149 (MC: 1.20.4)
+[07:23:11] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:23:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.4.5.1]
+[07:23:11] [Server thread/INFO]: PlaceholderAPI hooked.
+[07:23:12] [Server thread/INFO]: Updated (EN) language file. Took 26ms
+[07:23:12] [Server thread/INFO]: [VotingPlugin] Enabling VotingPlugin v6.15
+[07:23:12] [Server thread/INFO]: [VotingPlugin] Loaded LuckPerms hook!
+[07:23:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: votingplugin [1.6]
+[07:23:12] [Server thread/INFO]: [VotingPlugin] Loading PlaceholderAPI expansion
+[07:23:12] [Server thread/INFO]: [VotingPlugin] Giving VotingPlugin.Player permission by default, can be disabled in the config
+[07:23:12] [Server thread/INFO]: [VotingPlugin] Enabled VotingPlugin 6.15
+[07:23:12] [Server thread/INFO]: [spark] Enabling spark v1.10.59
+[07:23:12] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[07:23:12] [Server thread/INFO]: [spark] Starting background profiler...
+[07:23:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.59]
+[07:23:12] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[07:23:12] [Server thread/INFO]: [UnsafeEnchants] Enabling UnsafeEnchants v1.0.3
+[07:23:12] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.8.6
+[07:23:14] [Server thread/INFO]: [Vulcan] Server Version: 1.20.4 detected!
+[07:23:14] [Server thread/INFO]: [Vulcan] Floodgate 2.0 found. Enabling hook!
+[07:23:14] [Server thread/INFO]: [Vulcan] BStats enabled!
+[07:23:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: Vulcan [2.8.6]
+[07:23:14] [Server thread/INFO]: [Vulcan] PlaceholderAPI found. Enabling hook!
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Enabling CrazyCrates v1.17
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loading the events.log
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Successfully loaded events.log
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loading the locations.yml
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Successfully loaded locations.yml
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/EnchantedCrate.yml.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/EpicCrate.yml.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/LegendaryCrate.yml.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/VoteCrate.yml.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/CosmeticCrate.yml.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/RareCrate.yml.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loaded new custom file: /crates/FabledCrate.yml.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[07:23:14] [Server thread/WARN]: [CrazyCrates] Created examples because we couldn't find it.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] DecentHolograms support has been enabled.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[07:23:14] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R3! Trying to find NMS support
+[07:23:14] [Server thread/WARN]: [NBTAPI] [NBTAPI] This Server-Version(v1_20_R3) is not supported by this NBT-API Version(2.12.0) located in CrazyCrates. The NBT-API will try to work as good as it can! Some functions may not work!
+[07:23:14] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'CrazyCrates' to create a bStats instance!
+[07:23:14] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Searching for schematics to load.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] outdoors.nbt was successfully found and loaded.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] sea.nbt was successfully found and loaded.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] soul.nbt was successfully found and loaded.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] wooden.nbt was successfully found and loaded.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] nether.nbt was successfully found and loaded.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] classic.nbt was successfully found and loaded.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] All schematics were found and loaded.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[07:23:14] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » DECENT_HOLOGRAMS FOUND
+[07:23:14] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » HOLOGRAPHIC_DISPLAYS NOT FOUND
+[07:23:14] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » CMI NOT FOUND
+[07:23:14] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » PLACEHOLDERAPI FOUND
+[07:23:14] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » ORAXEN NOT FOUND
+[07:23:14] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » ITEMS_ADDER NOT FOUND
+[07:23:14] [Server thread/WARN]: [CrazyCrates] CrazyCrate Update: 1.17 is one of 4 major updates.
+[07:23:14] [Server thread/WARN]: [CrazyCrates] Please submit any bugs at https://github.com/Crazy-Crew/CrazyCrates/issues
+[07:23:14] [Server thread/WARN]: [CrazyCrates]
+[07:23:14] [Server thread/WARN]: [CrazyCrates] I will wait between releasing updates for bug reports
+[07:23:14] [Server thread/WARN]: [CrazyCrates] The next version is Version 2.0 excluding version bumps for Minecraft releases or some easy features/enhancements
+[07:23:14] [Server thread/WARN]: [CrazyCrates]
+[07:23:14] [Server thread/WARN]: [CrazyCrates] 2.0 is a hard break, Legacy color codes will no longer work, Configurations will be fully migrated, Placeholders will change and so on.
+[07:23:14] [Server thread/WARN]: [CrazyCrates] We only support https://papermc.io in 2.0 and will fully migrate to Modrinth and Hangar.
+[07:23:14] [Server thread/WARN]: [CrazyCrates] After that's done, I'll be adding practically anything including light gui editors or in-game editors ( improved /cc additem ) and crate conversions.
+[07:23:14] [Server thread/INFO]: [CrazyCrates] PlaceholderAPI support is enabled!
+[07:23:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: crazycrates [1.17]
+[07:23:14] [Server thread/INFO]: [ConDump] Enabling ConDump v1.3.3.1
+[07:23:14] [Server thread/INFO]: [TAB] Enabling TAB v4.1.2
+[07:23:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tab [4.1.2]
+[07:23:14] [Server thread/INFO]: [TAB] Enabled in 129ms
+[07:23:14] [Server thread/INFO]: [WorldGuardExtraFlags] Enabling WorldGuardExtraFlags v4.2.2
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.TeleportOnEntryFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.TeleportOnExitFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.CommandOnEntryFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.CommandOnExitFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.ConsoleCommandOnEntryFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.ConsoleCommandOnExitFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.WalkSpeedFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.BlockedEffectsFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.GodmodeFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.GiveEffectsFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.FlyFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.FlySpeedFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.PlaySoundsFlagHandler
+[07:23:14] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.GlideFlagHandler
+[07:23:14] [Server thread/INFO]: [MobArena] Enabling MobArena v0.108
+[07:23:14] [Server thread/INFO]: [MobArena] Vault found; economy rewards enabled.
+[07:23:14] [Server thread/INFO]: [MobArena] Loaded arena 'default'
+[07:23:14] [Server thread/INFO]: [MobArena] Loaded 3 sign templates.
+[07:23:14] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.33-SNAPSHOT (build 3311)
+[07:23:15] [Server thread/INFO]: [Citizens] Loading external libraries
+[07:23:16] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: citizensplaceholder [1.0.0]
+[07:23:16] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[07:23:16] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+56-1929d41
+[07:23:16] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[07:23:16] [Server thread/INFO]: [ProCosmetics] Enabling ProCosmetics v13.9.4
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing configs...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing menus...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing cosmetics...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing arrow effects...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing balloons...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing banners...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing death effects...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing emotes...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing gadgets...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing miniatures...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing morphs...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing mounts...
+[07:23:17] [Server thread/INFO]: [ProCosmetics] Initializing music...
+[07:23:18] [Server thread/INFO]: [ProCosmetics] Initializing particle effects...
+[07:23:18] [Server thread/INFO]: [ProCosmetics] Initializing pets...
+[07:23:18] [Server thread/INFO]: [ProCosmetics] Initializing statuses...
+[07:23:18] [Server thread/INFO]: [ProCosmetics] Initializing treasures...
+[07:23:18] [Server thread/INFO]: [ProCosmetics] Hooking into PlaceholderAPI...
+[07:23:18] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: procosmetics [1.0.0]
+[07:23:18] [Server thread/INFO]: [ProCosmetics] Connecting to the database...
+[07:23:18] [Server thread/INFO]: [ProCosmetics] Successfully connected to the database!
+[07:23:18] [Server thread/INFO]: [ProCosmetics] Hooking into Essentials...
+[07:23:20] [Server thread/INFO]: [ProCosmetics] Initialized! Took 3348ms.
+[07:23:20] [Server thread/INFO]: [Parkour] Enabling Parkour v7.2.2
+[07:23:20] [Server thread/INFO]: [Parkour] Created folder: Parkour
+[07:23:20] [Server thread/INFO]: [Parkour] Created folder: players
+[07:23:20] [Server thread/INFO]: [Parkour] Created folder: sessions
+[07:23:20] [Server thread/INFO]: [Parkour] Created folder: courses
+[07:23:20] [Server thread/INFO]: [Parkour] Created folder: other
+[07:23:21] [Server thread/INFO]: [Parkour] 0 courses found.
+[07:23:21] [Server thread/INFO]: [Parkour] 0 courses cached.
+[07:23:21] [Server thread/WARN]: [Parkour] [BountifulAPI] Plugin is missing, link was unsuccessful.
+[07:23:21] [Server thread/INFO]: [Parkour] [Vault (Economy)] Successfully linked. Version: 1.7.3-b131
+[07:23:21] [Server thread/INFO]: [Parkour] [Vault (Permissions)] Successfully linked. Version: 1.7.3-b131
+[07:23:21] [Server thread/INFO]: [Parkour] [PlaceholderAPI] Successfully linked. Version: 2.11.5
+[07:23:21] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: parkour [7.2.2]
+[07:23:21] [Server thread/INFO]: [Parkour] Enabled Parkour v7.2.2
+[07:23:21] [ForkJoinPool.commonPool-worker-1/INFO]: [Parkour] Checking for update...
+[07:23:23] [ForkJoinPool.commonPool-worker-1/INFO]: [Parkour] No update available.
+[07:23:23] [Server thread/INFO]: [Tebex] Enabling Tebex v2.0.3
+[07:23:23] [Server thread/INFO]: [ChatColor2] Enabling ChatColor2 v1.14.2
+[07:23:23] [Server thread/INFO]: [ChatColor] ChatColor 2 Version 1.14.2 has been enabled.
+[07:23:23] [Server thread/INFO]: [ChatColor] Current update: SQL Update!
+[07:23:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cc [1.14.2]
+[07:23:23] [Server thread/INFO]: [ChatColor] PlaceholderAPI has been hooked.
+[07:23:23] [Server thread/INFO]: [ChatColor] Metrics is enabled for this plugin. Stats sent to https://bstats.org/plugin/bukkit/ChatColor2
+[07:23:23] [Server thread/INFO]: [EconomyShopGUI-Premium] Enabling EconomyShopGUI-Premium v5.8.3
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Using lang-en.yml as language file.
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Completed loading 21 section configs from /sections/
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Completed loading 21 shop configs from /shops/
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Updating Shop settings...
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Using minecraft version 1.20.4...
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Successfully hooked into Vault
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Completed loading 1 economy provider(s) for all 17 shop sections.
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Spawner provider set to ROSESTACKER in config
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: RoseStacker found, integrating...
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Using RoseStacker as spawner provider.
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Enabled PlaceholderAPI hook...
+[07:23:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.0.0]
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Debug mode is enabled.
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Loading item stock provider...
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Loading limited selling provider...
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Loading all items...
+[07:23:24] [OkHttp https://plugin.tebex.io/.../INFO]: [Tebex] Connected to Zenith Skies's Game Server - Minecraft: Java Edition server.
+[07:23:24] [Server thread/INFO]: [EconomyShopGUI-Premium] [INFO]: Initialized - Took 372ms to complete
+[07:23:24] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.12.3-SNAPSHOT (build 403)
+[07:23:25] [Server thread/INFO]: [ChestShop] Found locales hu, es_mx, sv, en, ro, zh_tw, fi, tr, af, ca, da, it, ru, nl, cs, vi, pt_br, he, zh, es, ko, no, fr, el, ja, uk, de, pl, ar, sr
+[07:23:25] [Server thread/INFO]: [ChestShop] Using EssentialsX Economy as the Economy provider now.
+[07:23:25] [Server thread/INFO]: [ChestShop] Vault loaded!
+[07:23:25] [Server thread/INFO]: [ChestShop] Using Paper's BlockDestroyEvent instead of the BlockPhysicsEvent!
+[07:23:25] [Server thread/INFO]: [ChestShop] Auto-updater is disabled. If you want the plugin to automatically download new releases then set 'TURN_OFF_UPDATES' to 'false' in your config.yml!
+[07:23:25] [Server thread/INFO]: [ChatGames-Premium] Enabling ChatGames-Premium v1.5.4
+[07:23:26] [Server thread/INFO]: [ChatGames-Premium] SQLITE DATABASE IS CONNECTED
+[07:23:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chatgames [1.0.0]
+[07:23:26] [Server thread/INFO]: [ChatGames-Premium] PlaceholderAPI Hooked!
+[07:23:26] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[07:23:26] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.27.0
+[07:23:26] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.2.3
+[07:23:26] [Server thread/INFO]: ------------- Jobs -------------
+[07:23:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: jobsr [5.2.2.3]
+[07:23:26] [Server thread/INFO]: PlaceholderAPI hooked.
+[07:23:26] [Server thread/INFO]: Connected to database (SqLite)
+[07:23:26] [Server thread/INFO]: Loaded 8 titles
+[07:23:26] [Server thread/INFO]: Loaded 1403 custom item names
+[07:23:26] [Server thread/INFO]: Loaded 81 custom entity names
+[07:23:26] [Server thread/INFO]: Loaded 2 custom MythicMobs names
+[07:23:26] [Server thread/INFO]: Loaded 38 custom enchant names
+[07:23:26] [Server thread/INFO]: Loaded 43 custom enchant names
+[07:23:26] [Server thread/INFO]: Loaded 16 custom color names
+[07:23:26] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
+[07:23:26] [Server thread/INFO]: Loaded 4 shop items
+[07:23:26] [Server thread/INFO]: Loaded 1 quests for Enchanter
+[07:23:26] [Server thread/INFO]: Loaded 1 quests for Builder
+[07:23:26] [Server thread/INFO]: Loaded 1 quests for Fisherman
+[07:23:26] [Server thread/INFO]: Loaded 1 quests for Blacksmith
+[07:23:26] [Server thread/INFO]: Loaded 1 quests for Miner
+[07:23:26] [Server thread/INFO]: Loaded 1 quests for Crafter
+[07:23:26] [Server thread/INFO]: Loaded 1 quests for Slayer
+[07:23:26] [Server thread/INFO]: Loaded 1 quests for Brewer
+[07:23:26] [Server thread/INFO]: Loaded 1 quests for Lumberjack
+[07:23:26] [Server thread/INFO]: Loaded 1 quests for Farmer
+[07:23:26] [Server thread/INFO]: Loaded 10 jobs
+[07:23:26] [Server thread/INFO]: Loaded 0 boosted items
+[07:23:26] [Server thread/INFO]: Loaded 406 furnace for reassigning.
+[07:23:26] [Server thread/INFO]: Loaded 57 brewing for reassigning.
+[07:23:26] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[07:23:26] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[07:23:26] [Server thread/INFO]: Preloaded 220 players data in 0.01
+[07:23:26] [Server thread/INFO]: WorldGuard detected.
+[07:23:26] [Server thread/INFO]: Plugin has been enabled successfully.
+[07:23:26] [Server thread/INFO]: ------------------------------------
+[07:23:26] [Server thread/INFO]: [Rankup] Enabling Rankup v3.14.4
+[07:23:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: rankup [3.14.4]
+[07:23:27] [Server thread/WARN]: Could not register alias balancetop because it contains commands that do not exist: balanceall
+[07:23:27] [Server thread/WARN]: Could not register alias baltop because it contains commands that do not exist: balall
+[07:23:27] [Server thread/WARN]: Could not register alias island top because it contains illegal characters
+[07:23:27] [Server thread/WARN]: Could not register alias is top because it contains illegal characters
+[07:23:27] [Server thread/WARN]: Could not register alias island missions because it contains illegal characters
+[07:23:27] [Server thread/WARN]: Could not register alias island home because it contains illegal characters
+[07:23:27] [Server thread/WARN]: Could not register alias island members because it contains illegal characters
+[07:23:27] [Server thread/WARN]: Could not register alias island warps because it contains illegal characters
+[07:23:27] [Server thread/WARN]: Could not register alias island upgrades because it contains illegal characters
+[07:23:27] [Server thread/WARN]: Could not register alias island boosters because it contains illegal characters
+[07:23:27] [Server thread/WARN]: Could not register alias island border because it contains illegal characters
+[07:23:27] [Server thread/WARN]: Could not register alias is permissions because it contains illegal characters
+[07:23:27] [Server thread/WARN]: Could not register alias is delete because it contains illegal characters
+[07:23:28] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[07:23:28] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:23:28] [Server thread/INFO]: [Geyser-Spigot]
+[07:23:28] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.2-SNAPSHOT (git-master-aca368e)
+[07:23:28] [Server thread/INFO]: [Geyser-Spigot]
+[07:23:28] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:23:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[07:23:29] [pool-109-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (6405e850eea61a4b9bf4f0d0cbb80fe20b3cfb90)
+[07:23:29] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[07:23:30] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:🌸 Sky Blossom 🌸(1175598720696459324)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:welcome(1185462969501503558)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:announcements(1200759587284996167)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-announcements(1208208927976718346)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(1175598720696459327)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:screenshots(1185462838274314240)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:off-topic(1185463602111590420)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ingame-chat(1185462894574448710)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:frequently-asked(1185464296747049030)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:suggestion-tickets(1185464653229346926)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:support-requests(1185464100201971733)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:official-discord-announcements(1185470208278798356)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:server-console(1199630583874203648)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:vip-general(1202500763721408582)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-general(1208205287761252362)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:server-console(1199630583874203648)
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling Essentials hook
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling LuckPerms hook
+[07:23:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling PlaceholderAPI hook
+[07:23:30] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:27540
+[07:23:30] [Server thread/INFO]: [Geyser-Spigot] Done (2.635s)! Run /geyser help for help!
+[07:23:30] [Server thread/INFO]: Running delayed init tasks
+[07:23:30] [Craft Scheduler Thread - 10 - DecentHolograms/INFO]: [DecentHolograms] Loading holograms...
+[07:23:30] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[07:23:30] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[07:23:30] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[07:23:30] [Craft Scheduler Thread - 15 - Vault/INFO]: [Vault] Checking for Updates ...
+[07:23:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: progress [2.1]
+[07:23:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: Advancements [1.7]
+[07:23:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: essentials [1.5.2]
+[07:23:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.7]
+[07:23:30] [Craft Scheduler Thread - 15 - Vault/INFO]: [Vault] No new version available
+[07:23:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[07:23:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[07:23:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.1]
+[07:23:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.6.2]
+[07:23:30] [Server thread/INFO]: 8 placeholder hook(s) registered! 2 placeholder hook(s) have an update available.
+[07:23:30] [Craft Scheduler Thread - 10 - DecentHolograms/INFO]: [DecentHolograms] Loaded 35 holograms!
+[07:23:30] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[07:23:31] [Craft Scheduler Thread - 6 - RoseStacker/INFO]: [RoseStacker] Fetched 128 translation locales.
+[07:23:31] [Server thread/INFO]: [Citizens] Loaded 28 NPCs.
+[07:23:31] [Server thread/INFO]: Done (35.276s)! For help, type "help"
+[07:23:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: discordsrv [1.27.0]
+[07:23:31] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[07:23:31] [Craft Scheduler Thread - 14 - ProCosmetics/WARN]: [ProCosmetics] Could not check for updates.
+[07:23:31] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /97.98.71.220:40977 tried to connect!
+[07:23:31] [Server thread/INFO]: [IridiumSkyblock] You are using the latest version of IridiumSkyblock.
+[07:23:32] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /97.98.71.220:40977 tried to connect!
+[07:23:35] [Server thread/INFO]: [VotingPlugin] Successfully hooked into vault economy!
+[07:23:35] [Server thread/INFO]: [VotingPlugin] Hooked into vault permissions
+[07:23:41] [Craft Scheduler Thread - 16 - VotingPlugin/INFO]: [VotingPlugin] VotingPlugin has an update available! Your Version: 6.15 New Version: 6.15.1
+[07:23:41] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /97.98.71.220:40977 tried to connect!
+[07:23:42] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /97.98.71.220:40977 tried to connect!
+[07:23:42] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /97.98.71.220:40977 tried to connect!
+[07:23:45] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username xXllP4CM4NllXx
+[07:23:45] [defaultEventLoopGroup-7-2/INFO]: [Geyser-Spigot] xXllP4CM4NllXx (logged in as: xXllP4CM4NllXx) has connected to the Java server
+[07:23:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .xXllP4CM4NllXx joined (UUID: 00000000-0000-0000-0009-000007b29d30)
+[07:23:47] [Server thread/INFO]: .xXllP4CM4NllXx[/97.98.71.220:0] logged in with entity id 1737 at ([IridiumSkyblock]-8.949974, -57.0, -609.7344)
+[07:23:47] [Server thread/INFO]: + | Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:23:57] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:23:57] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:23:57] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:23:57] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:23:57] [ForkJoinPool.commonPool-worker-11/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:26:02] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[07:26:13] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /is
+[07:27:22] [User Authenticator #0/INFO]: UUID of player pancakearcade is d6e7c1b1-dba9-4653-8add-6168cad6a710
+[07:27:23] [Server thread/INFO]: pancakearcade[/107.208.212.90:52195] logged in with entity id 8311 at ([IridiumSkyblock]-152.48992329387093, 86.875, 1063.693688757877)
+[07:27:23] [Server thread/INFO]: + | Gʀᴇᴇɴʜᴏʀɴ pancakearcade
+[07:28:27] [Server thread/INFO]: pancakearcade was shot by Skeleton
+[07:28:52] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[07:29:02] [Server thread/INFO]: pancakearcade burned to death
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:29:03] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:31:01] [User Authenticator #1/INFO]: UUID of player Jairus_ is 6ae49d84-fbcd-4029-99f1-649b824f9d97
+[07:31:01] [Server thread/INFO]: Jairus_[/122.150.148.235:25995] logged in with entity id 15269 at ([IridiumSkyblock]-452.45970092355924, 86.0, -4.3363068709807076)
+[07:31:01] [Server thread/INFO]: + | Exᴘᴇʀᴛ Jairus_
+[07:31:22] [Server thread/INFO]: Jairus_ issued server command: /is missions
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:31:36] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:31:36] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:31:36] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:31:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:31:54] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /home fish
+[07:31:54] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -23.669794,10.0,12.824299999999994
+[07:32:10] [Server thread/INFO]: Jairus_ issued server command: /is rewards
+[07:33:10] [Server thread/INFO]: Jairus_ issued server command: /is rewards
+[07:34:12] [Server thread/INFO]: Jairus_ issued server command: /is
+[07:34:14] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given pancakearcade 1 Keys.
+[07:34:21] [Server thread/INFO]: pancakearcade issued server command: /crates
+[07:34:27] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » pancakearcade is opening a Eᴘɪᴄ Cʀᴀᴛᴇ.
+[07:34:51] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /home fish
+[07:34:51] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -23.5510025,6.0,5.121899999999982
+[07:34:51] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -23.5510025,6.0,5.121899999999982
+[07:35:43] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[07:36:49] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[07:39:46] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /is
+[07:39:56] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /is settings
+[07:41:00] [User Authenticator #2/INFO]: UUID of player BanNear is f045d865-2973-4cee-850e-2d58cfb436a4
+[07:41:00] [Server thread/INFO]: BanNear[/184.190.100.237:51159] logged in with entity id 44292 at ([IridiumSkyblock]603.6999999880791, 86.0, -455.69999998807907)
+[07:41:00] [Server thread/INFO]: + | TM Exᴘᴇʀᴛ BanNear
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:41:04] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:42:03] [Server thread/INFO]: BanNear issued server command: /msg .xXllP4CM4NllXx I got 1 mill after 3 hours of afking last night
+[07:42:16] [Server thread/INFO]: pancakearcade issued server command: /spawn
+[07:42:23] [Server thread/INFO]: pancakearcade issued server command: /home
+[07:42:27] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /r nice
+[07:42:58] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[07:43:15] [Server thread/INFO]: pancakearcade issued server command: /spawn
+[07:43:42] [Server thread/INFO]: pancakearcade issued server command: /home
+[07:44:30] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » The correct usage for this command is pancakearcade
+[07:44:51] [Server thread/INFO]: pancakearcade issued server command: /is rewards
+[07:45:02] [Server thread/INFO]: pancakearcade issued server command: /region
+[07:45:07] [Server thread/INFO]: pancakearcade issued server command: /spawn
+[07:45:46] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 96 x Iron Ingot(04Mining.page1.items.3) for $2,880.00 with the sell screen.
+[07:45:51] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 112 x Coal(04Mining.page1.items.1) for $1,680.00 with the sell screen.
+[07:45:56] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 5 x Pumpkin(01Farming.page1.items.6) for $375.00 with the sell screen.
+[07:46:01] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 3 x Melon(01Farming.page1.items.5) for $225.00 with the sell screen.
+[07:46:04] [Server thread/INFO]: pancakearcade issued server command: /home
+[07:47:00] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /is rewards
+[07:48:24] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /is
+[07:48:44] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[07:48:55] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 110 x Light Gray Wool(08Decorations.page1.items.9) for $3,300.00 with the sell screen.
+[07:49:03] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 43 x Brown Wool(08Decorations.page1.items.13) for $1,290.00 with the sell screen.
+[07:49:13] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 86 x Black Wool(08Decorations.page1.items.16) for $2,580.00 with the sell screen.
+[07:49:19] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 24 x Pink Wool(08Decorations.page1.items.7) for $720.00 with the sell screen.
+[07:49:39] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[07:49:46] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 304 x Slime Ball(02Mobs.page1.items.10) for $15,200.00 with the sell screen.
+[07:49:52] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /disposal
+[07:49:59] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[07:51:43] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[07:51:51] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 1600 x White Wool(08Decorations.page1.items.1) for $48,000.00 with the sell screen.
+[07:52:15] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[07:52:22] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 1207 x White Wool(08Decorations.page1.items.1) for $36,210.00 with the sell screen.
+[07:52:39] [User Authenticator #3/INFO]: UUID of player Davo114 is 38cb2156-c73c-4e1a-8bc1-3595917ab7ce
+[07:52:39] [Server thread/INFO]: Davo114[/203.40.95.173:50485] logged in with entity id 86829 at ([IridiumSkyblock]1082.699999988079, 86.0, -611.6999999880791)
+[07:52:39] [Server thread/INFO]: + | Aᴅᴠᴀɴᴄᴇᴅ Davo114
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:52:40] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:52:40] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:52:40] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:52:40] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[07:52:40] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[07:53:20] [Server thread/INFO]: Davo114 issued server command: /spawn
+[07:53:35] [Async Chat Thread - #4/INFO]: Gʀᴇᴇɴʜᴏʀɴ pancakearcade | 3
+[07:53:36] [Async Chat Thread - #3/INFO]: [Not Secure] Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx | 33
+[07:53:36] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give .xXllP4CM4NllXx 1000
+[07:53:36] [Server thread/INFO]: $1,000 added to .xXllP4CM4NllXx account. New balance: $5,966,175.88
+[07:53:36] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given .xXllP4CM4NllXx 1 Keys.
+[07:53:37] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1856 x Leather(03Butcher.page1.items.13) for $55,680.00 with the sell screen.
+[07:53:37] [Async Chat Thread - #4/INFO]: Gʀᴇᴇɴʜᴏʀɴ pancakearcade | 33
+[07:53:37] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give pancakearcade 500
+[07:53:37] [Server thread/INFO]: $500 added to pancakearcade account. New balance: $57,597.29
+[07:53:41] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 64 x Cooked Beef(03Butcher.page1.items.6) for $2,560.00 with the sell screen.
+[07:53:45] [Server thread/INFO]: Davo114 issued server command: /sethome sell
+[07:53:48] [Server thread/INFO]: Davo114 issued server command: /is home
+[07:54:03] [Server thread/INFO]: Davo114 issued server command: /sethome 1
+[07:54:08] [Server thread/INFO]: Davo114 issued server command: /sethome one
+[07:54:25] [Server thread/INFO]: pancakearcade issued server command: /is rewards
+[07:54:26] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:54:29] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1920 x Leather(03Butcher.page1.items.13) for $57,600.00 with the sell screen.
+[07:54:32] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:54:39] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:54:41] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 640 x Cooked Beef(03Butcher.page1.items.6) for $25,600.00 with the sell screen.
+[07:54:43] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1197 x Leather(03Butcher.page1.items.13) for $35,910.00 with the sell screen.
+[07:54:45] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:55:04] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:55:06] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1920 x Cooked Beef(03Butcher.page1.items.6) for $76,800.00 with the sell screen.
+[07:55:07] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:55:14] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:55:17] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1920 x Cooked Beef(03Butcher.page1.items.6) for $76,800.00 with the sell screen.
+[07:55:19] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:55:24] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:55:27] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1920 x Cooked Beef(03Butcher.page1.items.6) for $76,800.00 with the sell screen.
+[07:55:28] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:55:50] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:55:52] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1920 x Cooked Beef(03Butcher.page1.items.6) for $76,800.00 with the sell screen.
+[07:55:54] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:55:54] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[07:56:00] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:56:02] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 640 x Leather(03Butcher.page1.items.13) for $19,200.00 with the sell screen.
+[07:56:02] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 1088 x White Wool(08Decorations.page1.items.1) for $32,640.00 with the sell screen.
+[07:56:04] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 14 x White Wool(08Decorations.page1.items.1) for $420.00 with the sell screen.
+[07:56:04] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1264 x Cooked Beef(03Butcher.page1.items.6) for $50,560.00 with the sell screen.
+[07:56:05] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:56:17] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:56:20] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 64 x Cooked Beef(03Butcher.page1.items.6) for $2,560.00 with the sell screen.
+[07:56:22] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 301 x Leather(03Butcher.page1.items.13) for $9,030.00 with the sell screen.
+[07:56:32] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1536 x White Wool(08Decorations.page1.items.1) for $46,080.00 with the sell screen.
+[07:56:38] [Server thread/INFO]: Davo114 issued server command: /delhome sell
+[07:56:44] [Server thread/INFO]: Davo114 issued server command: /sethome sell
+[07:56:49] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:56:56] [Server thread/INFO]: Davo114 issued server command: /delhome one
+[07:57:02] [Server thread/INFO]: Davo114 issued server command: /sethome one
+[07:57:19] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[07:57:19] [Server thread/INFO]: Davo114 issued server command: /sethome sell
+[07:57:23] [Server thread/INFO]: Davo114 issued server command: /spawn
+[07:57:26] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 407 x White Wool(08Decorations.page1.items.1) for $12,210.00 with the sell screen.
+[07:57:33] [Server thread/INFO]: Davo114 issued server command: /sethome sell
+[07:57:34] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 276 x Black Wool(08Decorations.page1.items.16) for $8,280.00 with the sell screen.
+[07:57:37] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 2304 x White Wool(08Decorations.page1.items.1) for $69,120.00 with the sell screen.
+[07:57:39] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:57:41] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 191 x Brown Wool(08Decorations.page1.items.13) for $5,730.00 with the sell screen.
+[07:57:51] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 336 x Gray Wool(08Decorations.page1.items.8) for $10,080.00 with the sell screen.
+[07:57:54] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:57:57] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 2304 x White Wool(08Decorations.page1.items.1) for $69,120.00 with the sell screen.
+[07:57:58] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 266 x Light Gray Wool(08Decorations.page1.items.9) for $7,980.00 with the sell screen.
+[07:58:00] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:58:12] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:58:16] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1205 x White Wool(08Decorations.page1.items.1) for $36,150.00 with the sell screen.
+[07:58:19] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1088 x Black Wool(08Decorations.page1.items.16) for $32,640.00 with the sell screen.
+[07:58:21] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:58:26] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[07:58:48] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:58:50] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 481 x Black Wool(08Decorations.page1.items.16) for $14,430.00 with the sell screen.
+[07:58:53] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 590 x Gray Wool(08Decorations.page1.items.8) for $17,700.00 with the sell screen.
+[07:58:57] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 517 x Brown Wool(08Decorations.page1.items.13) for $15,510.00 with the sell screen.
+[07:59:02] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 576 x Light Gray Wool(08Decorations.page1.items.9) for $17,280.00 with the sell screen.
+[07:59:04] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:59:19] [Server thread/INFO]: Davo114 issued server command: /home sell
+[07:59:21] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 368 x Light Gray Wool(08Decorations.page1.items.9) for $11,040.00 with the sell screen.
+[07:59:23] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 746 x Gray Wool(08Decorations.page1.items.8) for $22,380.00 with the sell screen.
+[07:59:24] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 81 x Brown Wool(08Decorations.page1.items.13) for $2,430.00 with the sell screen.
+[07:59:28] [Server thread/INFO]: Davo114 issued server command: /home one
+[07:59:39] [defaultEventLoopGroup-7-2/INFO]: [Geyser-Spigot] xXllP4CM4NllXx has disconnected from the Java server because of Bedrock client disconnected
+[07:59:39] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .xXllP4CM4NllXx disconnected
+[07:59:39] [Server thread/INFO]: .xXllP4CM4NllXx lost connection: Disconnected
+[07:59:39] [Server thread/INFO]: - | Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx
+[08:00:27] [Server thread/INFO]: Davo114 issued server command: /delhome one
+[08:00:29] [Server thread/INFO]: Davo114 issued server command: /sethome one
+[08:01:00] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:01:11] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 2304 x Bone(02Mobs.page1.items.2) for $115,200.00 with the sell screen.
+[08:01:17] [Server thread/INFO]: Davo114 issued server command: /delhome sell
+[08:01:20] [Server thread/INFO]: Davo114 issued server command: /sethome sell
+[08:01:22] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:01:43] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:01:45] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 768 x Bone(02Mobs.page1.items.2) for $38,400.00 with the sell screen.
+[08:01:46] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1536 x Rotten Flesh(02Mobs.page1.items.3) for $76,800.00 with the sell screen.
+[08:01:48] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:02:00] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:02:01] [Server thread/INFO]: pancakearcade was slain by Zombie
+[08:02:02] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 448 x Rotten Flesh(02Mobs.page1.items.3) for $22,400.00 with the sell screen.
+[08:02:04] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1856 x Gunpowder(02Mobs.page1.items.5) for $74,240.00 with the sell screen.
+[08:02:06] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:02:23] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:02:25] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 301 x Bone(02Mobs.page1.items.2) for $15,050.00 with the sell screen.
+[08:02:27] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1794 x Arrow(02Mobs.page1.items.16) for $53,820.00 with the sell screen.
+[08:02:28] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 128 x Gunpowder(02Mobs.page1.items.5) for $5,120.00 with the sell screen.
+[08:02:30] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:02:38] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:02:40] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 482 x Rotten Flesh(02Mobs.page1.items.3) for $24,100.00 with the sell screen.
+[08:02:42] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 704 x Arrow(02Mobs.page1.items.16) for $21,120.00 with the sell screen.
+[08:02:45] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1088 x Gunpowder(02Mobs.page1.items.5) for $43,520.00 with the sell screen.
+[08:02:47] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:03:15] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:03:17] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 238 x Bone(02Mobs.page1.items.2) for $11,900.00 with the sell screen.
+[08:03:19] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 821 x Rotten Flesh(02Mobs.page1.items.3) for $41,050.00 with the sell screen.
+[08:03:20] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 707 x Gunpowder(02Mobs.page1.items.5) for $28,280.00 with the sell screen.
+[08:03:23] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 448 x Arrow(02Mobs.page1.items.16) for $13,440.00 with the sell screen.
+[08:03:24] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:03:49] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:03:50] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:03:52] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 616 x Rotten Flesh(02Mobs.page1.items.3) for $30,800.00 with the sell screen.
+[08:03:54] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 303 x Gunpowder(02Mobs.page1.items.5) for $12,120.00 with the sell screen.
+[08:03:57] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 228 x Bone(02Mobs.page1.items.2) for $11,400.00 with the sell screen.
+[08:03:59] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 891 x Arrow(02Mobs.page1.items.16) for $26,730.00 with the sell screen.
+[08:04:02] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:04:03] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:05:29] [Server thread/INFO]: Davo114 issued server command: /delhome one
+[08:05:34] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:05:39] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 832 x Feather(03Butcher.page1.items.14) for $16,640.00 with the sell screen.
+[08:05:45] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:05:57] [Server thread/INFO]: Davo114 issued server command: /is home
+[08:06:22] [Server thread/INFO]: Davo114 issued server command: /sethome one
+[08:06:25] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:06:31] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 832 x Chicken(03Butcher.page1.items.4) for $24,960.00 with the sell screen.
+[08:06:33] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 734 x Feather(03Butcher.page1.items.14) for $14,680.00 with the sell screen.
+[08:06:34] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 320 x Mutton(03Butcher.page1.items.3) for $9,600.00 with the sell screen.
+[08:06:39] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:07:01] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:07:06] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 144 x Egg(03Butcher.page1.items.12) for $4,320.00 with the sell screen.
+[08:07:08] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 448 x Mutton(03Butcher.page1.items.3) for $13,440.00 with the sell screen.
+[08:07:11] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 896 x Chicken(03Butcher.page1.items.4) for $26,880.00 with the sell screen.
+[08:07:12] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:07:32] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:07:42] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1072 x White Wool(08Decorations.page1.items.1) for $32,160.00 with the sell screen.
+[08:07:44] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 147 x Light Gray Wool(08Decorations.page1.items.9) for $4,410.00 with the sell screen.
+[08:07:45] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 163 x Gray Wool(08Decorations.page1.items.8) for $4,890.00 with the sell screen.
+[08:07:48] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 140 x Black Wool(08Decorations.page1.items.16) for $4,200.00 with the sell screen.
+[08:07:49] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 73 x Brown Wool(08Decorations.page1.items.13) for $2,190.00 with the sell screen.
+[08:07:51] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 3 x Pink Wool(08Decorations.page1.items.7) for $90.00 with the sell screen.
+[08:07:54] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:08:12] [Server thread/INFO]: Davo114 issued server command: /delhome one
+[08:08:14] [Server thread/INFO]: Davo114 issued server command: /sethome one
+[08:08:17] [Server thread/INFO]: Davo114 issued server command: /spawn
+[08:08:45] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1920 x Cactus(01Farming.page1.items.13) for $288,000.00 with the sell screen.
+[08:08:50] [Server thread/INFO]: Davo114 issued server command: /delhome sell
+[08:08:53] [Server thread/INFO]: Davo114 issued server command: /sethome sell
+[08:08:55] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:09:04] [Server thread/INFO]: Davo114 issued server command: /home sell
+[08:09:07] [Server thread/INFO]: Sʜᴏᴘ » Davo114 sold 1237 x Cactus(01Farming.page1.items.13) for $185,550.00 with the sell screen.
+[08:09:17] [Server thread/INFO]: Davo114 issued server command: /home one
+[08:11:11] [Server thread/INFO]: pancakearcade issued server command: /spawn
+[08:12:10] [User Authenticator #4/INFO]: UUID of player Synix09 is 3bba27fd-5600-4289-8f10-90f2ed93dd3b
+[08:12:10] [Server thread/INFO]: Synix09[/159.196.168.209:25993] logged in with entity id 156351 at ([IridiumSkyblock]1082.699999988079, 86.0, -611.6999999880791)
+[08:12:10] [Server thread/INFO]: + | Bᴇɢɪɴɴᴇʀ Synix09
+[08:12:10] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade bought 14 x Gray Stained Glass(08Decorations.page3.items.73) for $1,400.00 with the buy screen.
+[08:12:13] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Synix09 1 Keys.
+[08:12:13] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Synix09 1 Keys.
+[08:12:13] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given Synix09 1 Keys.
+[08:12:14] [Server thread/INFO]: pancakearcade issued server command: /home
+[08:12:45] [Server thread/INFO]: pancakearcade issued server command: /spawn
+[08:12:58] [Async Chat Thread - #6/INFO]: Bᴇɢɪɴɴᴇʀ Synix09 | we need a better set up for this
+[08:13:07] [Async Chat Thread - #5/INFO]: Aᴅᴠᴀɴᴄᴇᴅ Davo114 | yea or take it down for now
+[08:13:14] [Async Chat Thread - #6/INFO]: Bᴇɢɪɴɴᴇʀ Synix09 | or that lol
+[08:13:25] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade bought 14 x Cyan Stained Glass(08Decorations.page3.items.75) for $1,400.00 with the buy screen.
+[08:13:32] [Server thread/INFO]: pancakearcade issued server command: /home
+[08:13:33] [Async Chat Thread - #5/INFO]: Bᴇɢɪɴɴᴇʀ Synix09 | why are they stakcs of 64?
+[08:14:12] [Server thread/INFO]: Davo114 issued server command: /delhome sell
+[08:14:17] [Server thread/INFO]: Davo114 issued server command: /delhome one
+[08:15:18] [Async Chat Thread - #7/INFO]: Bᴇɢɪɴɴᴇʀ Synix09 | auto sorting as well?>
+[08:15:23] [Async Chat Thread - #8/INFO]: Aᴅᴠᴀɴᴄᴇᴅ Davo114 | fully automatic sorting system yea
+[08:15:25] [Async Chat Thread - #7/INFO]: Bᴇɢɪɴɴᴇʀ Synix09 | ?!*
+[08:15:36] [Async Chat Thread - #8/INFO]: Aᴅᴠᴀɴᴄᴇᴅ Davo114 | me and jamie was up till 2:30am doing it lol
+[08:15:48] [Async Chat Thread - #7/INFO]: Bᴇɢɪɴɴᴇʀ Synix09 | looks good
+[08:16:01] [Async Chat Thread - #8/INFO]: Aᴅᴠᴀɴᴄᴇᴅ Davo114 | yea we gonna mirror it for the nether cobble gen
+[08:16:30] [Async Chat Thread - #7/INFO]: Aᴅᴠᴀɴᴄᴇᴅ Davo114 | got to use the facilities lol
+[08:16:33] [Server thread/INFO]: Davo114 issued server command: /is home
+[08:17:27] [Server thread/INFO]: Synix09 issued server command: /is rewards
+[08:18:24] [Server thread/INFO]: Synix09 issued server command: /vote
+[08:19:43] [Server thread/INFO]: Synix09 issued server command: /vote
+[08:20:02] [Server thread/INFO]: Synix09 issued server command: /crates
+[08:20:13] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » Synix09 is opening a Cᴏꜱᴍᴇᴛɪᴄ Cʀᴀᴛᴇ.
+[08:20:19] [Server thread/INFO]: [LP] Another command is being executed, waiting for it to finish...
+[08:20:19] [luckperms-command-executor/INFO]: [LP] Set procosmetics.balloons.police-car to true for synix09 in context global.
+[08:20:19] [luckperms-command-executor/INFO]: [LP] Set crazycrates.blacklist.CosmeticCrate.64 to true for synix09 in context global.
+[08:20:24] [Server thread/INFO]: Synix09 issued server command: /crates
+[08:20:25] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » Synix09 is opening a Eɴᴄʜᴀɴᴛᴇᴅ Cʀᴀᴛᴇ.
+[08:20:35] [Server thread/INFO]: Synix09 issued server command: /crates
+[08:20:37] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » Synix09 is opening a Lᴇɢᴇɴᴅᴀʀʏ Cʀᴀᴛᴇ.
+[08:20:43] [Server thread/INFO]: [RoseStacker] Gave Synix09 [Magma Cube Spawner].
+[08:22:59] [Server thread/INFO]: pancakearcade issued server command: /spawn
+[08:23:26] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade bought 4 x Cyan Stained Glass(08Decorations.page3.items.75) for $400.00 with the buy screen.
+[08:23:29] [Server thread/INFO]: pancakearcade issued server command: /home
+[08:23:39] [Async Chat Thread - #9/INFO]: Gʀᴇᴇɴʜᴏʀɴ pancakearcade | Wither Rose
+[08:23:42] [Async Chat Thread - #10/INFO]: Gʀᴇᴇɴʜᴏʀɴ pancakearcade | Nether Star
+[08:23:42] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give pancakearcade 1000
+[08:23:42] [Server thread/INFO]: $1,000 added to pancakearcade account. New balance: $60,624.46
+[08:23:42] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given pancakearcade 1 Keys.
+[08:23:44] [Async Chat Thread - #9/INFO]: Bᴇɢɪɴɴᴇʀ Synix09 | nether stae
+[08:23:47] [Server thread/INFO]: pancakearcade issued server command: /crates
+[08:23:50] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » pancakearcade is opening a Eᴘɪᴄ Cʀᴀᴛᴇ.
+[08:23:51] [Async Chat Thread - #10/INFO]: Bᴇɢɪɴɴᴇʀ Synix09 | Nether Star
+[08:24:05] [Async Chat Thread - #9/INFO]: Bᴇɢɪɴɴᴇʀ Synix09 | damn caps
+[08:25:27] [Server thread/INFO]: Synix09 issued server command: /balance top
+[08:25:56] [Server thread/INFO]: Synix09 issued server command: /is home
+[08:25:56] [Server thread/WARN]: Synix09 moved too quickly! 15.830780705113284,4.0,0.27615959001286683
+[08:26:33] [Server thread/INFO]: pancakearcade issued server command: /is rewards
+[08:26:45] [Server thread/INFO]: pancakearcade issued server command: /is upgrades
+[08:27:26] [Server thread/INFO]: Synix09 issued server command: /ranks
+[08:28:39] [Server thread/INFO]: pancakearcade issued server command: /rankup
+[08:28:43] [Server thread/INFO]:   ◇ pancakearcade has just achieved the rank of... Bᴇɢɪɴɴᴇʀ! ◇
+[08:28:49] [Server thread/INFO]: pancakearcade issued server command: /kits
+[08:28:54] [Server thread/INFO]: pancakearcade issued server command: /kit weekly1
+[08:28:54] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given pancakearcade 1 Keys.
+[08:28:59] [Server thread/INFO]: pancakearcade issued server command: /crates
+[08:29:01] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » pancakearcade is opening a Eᴘɪᴄ Cʀᴀᴛᴇ.
+[08:29:07] [Server thread/INFO]: pancakearcade has made the advancement [Cover Me with Diamonds]
+[08:31:13] [Server thread/INFO]: Synix09 issued server command: /spawn
+[08:31:24] [Server thread/INFO]: Sʜᴏᴘ » Synix09 sold 150 x White Wool(08Decorations.page1.items.1) for $4,500.00 with the sell screen.
+[08:31:29] [Server thread/INFO]: Sʜᴏᴘ » Synix09 sold 148 x Gray Wool(08Decorations.page1.items.8) for $4,440.00 with the sell screen.
+[08:31:31] [Server thread/INFO]: Sʜᴏᴘ » Synix09 sold 473 x Light Gray Wool(08Decorations.page1.items.9) for $14,190.00 with the sell screen.
+[08:31:38] [Server thread/INFO]: Sʜᴏᴘ » Synix09 sold 222 x Brown Wool(08Decorations.page1.items.13) for $6,660.00 with the sell screen.
+[08:31:39] [Server thread/INFO]: Sʜᴏᴘ » Synix09 sold 364 x Black Wool(08Decorations.page1.items.16) for $10,920.00 with the sell screen.
+[08:32:18] [Server thread/INFO]: Synix09 issued server command: /is
+[08:32:19] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] /97.98.71.220:39575 tried to connect!
+[08:32:21] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username xXllP4CM4NllXx
+[08:32:21] [defaultEventLoopGroup-7-3/INFO]: [Geyser-Spigot] xXllP4CM4NllXx (logged in as: xXllP4CM4NllXx) has connected to the Java server
+[08:32:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as .xXllP4CM4NllXx joined (UUID: 00000000-0000-0000-0009-000007b29d30)
+[08:32:24] [Server thread/INFO]: .xXllP4CM4NllXx[/97.98.71.220:0] logged in with entity id 214454 at ([IridiumSkyblock]-31.69999, -54.0, -594.40643)
+[08:32:24] [Server thread/INFO]: + | Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx
+[08:32:28] [Server thread/INFO]: Synix09 issued server command: /is home
+[08:33:13] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[08:34:02] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give .xXllP4CM4NllXx 2000
+[08:34:02] [Server thread/INFO]: $2,000 added to .xXllP4CM4NllXx account. New balance: $6,045,515.88
+[08:34:22] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /disposal
+[08:35:52] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /is
+[08:36:18] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /is rewards
+[08:36:59] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[08:37:06] [Server thread/INFO]: .xXllP4CM4NllXx was doomed to fall by Slime
+[08:37:45] [Server thread/INFO]: Synix09 issued server command: /spawn
+[08:38:02] [Server thread/INFO]: Sʜᴏᴘ » Synix09 sold 762 x White Wool(08Decorations.page1.items.1) for $22,860.00 with the sell screen.
+[08:38:06] [Server thread/INFO]: Sʜᴏᴘ » Synix09 sold 54 x Gray Wool(08Decorations.page1.items.8) for $1,620.00 with the sell screen.
+[08:38:08] [Server thread/INFO]: Sʜᴏᴘ » Synix09 sold 69 x Brown Wool(08Decorations.page1.items.13) for $2,070.00 with the sell screen.
+[08:38:11] [Server thread/INFO]: Sʜᴏᴘ » Synix09 sold 54 x Light Gray Wool(08Decorations.page1.items.9) for $1,620.00 with the sell screen.
+[08:38:13] [Server thread/INFO]: Sʜᴏᴘ » Synix09 sold 101 x Black Wool(08Decorations.page1.items.16) for $3,030.00 with the sell screen.
+[08:38:22] [Server thread/WARN]: .xXllP4CM4NllXx moved wrongly!, (0.0)
+[08:38:57] [Server thread/INFO]: Synix09 issued server command: /is home
+[08:42:32] [Server thread/INFO]: Synix09 issued server command: /is home
+[08:42:32] [Server thread/WARN]: Synix09 moved too quickly! -14.842335923658084,-30.0,19.755354331990702
+[08:42:32] [Server thread/WARN]: Synix09 moved too quickly! -14.842335923658084,-30.0,19.755354331990702
+[08:46:42] [Server thread/INFO]: Synix09 issued server command: /is home
+[08:46:42] [Server thread/WARN]: Synix09 moved too quickly! 17.071944108916114,3.0,4.783340452456628
+[08:47:55] [Server thread/INFO]: pancakearcade issued server command: /spawn
+[08:48:14] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 9 x Rotten Flesh(02Mobs.page1.items.3) for $450.00 with the sell screen.
+[08:48:42] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 128 x Coal(04Mining.page1.items.1) for $1,920.00 with the sell screen.
+[08:48:46] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 80 x Iron Ingot(04Mining.page1.items.3) for $2,400.00 with the sell screen.
+[08:48:50] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 8 x Gold Ingot(04Mining.page1.items.4) for $320.00 with the sell screen.
+[08:48:58] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 18 x Wheat(01Farming.page1.items.1) for $540.00 with the sell screen.
+[08:49:03] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 3 x Pumpkin(01Farming.page1.items.6) for $225.00 with the sell screen.
+[08:49:06] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 4 x Melon(01Farming.page1.items.5) for $300.00 with the sell screen.
+[08:49:09] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 7 x Sugar Cane(01Farming.page1.items.12) for $350.00 with the sell screen.
+[08:49:12] [Server thread/INFO]: pancakearcade issued server command: /home
+[08:50:11] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[08:50:28] [Server thread/INFO]: Davo114 issued server command: /crates
+[08:50:34] [Server thread/INFO]: Davo114 issued server command: /voteall
+[08:52:03] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[08:52:10] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 1728 x White Wool(08Decorations.page1.items.1) for $51,840.00 with the sell screen.
+[08:52:30] [Server thread/INFO]: Davo114 issued server command: /home top
+[08:52:37] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[08:52:43] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 1344 x White Wool(08Decorations.page1.items.1) for $40,320.00 with the sell screen.
+[08:52:44] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 289 x White Wool(08Decorations.page1.items.1) for $8,670.00 with the sell screen.
+[08:52:54] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 219 x Black Wool(08Decorations.page1.items.16) for $6,570.00 with the sell screen.
+[08:53:02] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 228 x Light Gray Wool(08Decorations.page1.items.9) for $6,840.00 with the sell screen.
+[08:53:09] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 221 x Gray Wool(08Decorations.page1.items.8) for $6,630.00 with the sell screen.
+[08:53:15] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 126 x Brown Wool(08Decorations.page1.items.13) for $3,780.00 with the sell screen.
+[08:53:52] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given pancakearcade 1 Keys.
+[08:53:56] [Server thread/INFO]: pancakearcade issued server command: /crates
+[08:57:07] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[08:57:14] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 1185 x White Wool(08Decorations.page1.items.1) for $35,550.00 with the sell screen.
+[08:57:20] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 69 x Light Gray Wool(08Decorations.page1.items.9) for $2,070.00 with the sell screen.
+[08:57:26] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 58 x Black Wool(08Decorations.page1.items.16) for $1,740.00 with the sell screen.
+[08:57:34] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 84 x Gray Wool(08Decorations.page1.items.8) for $2,520.00 with the sell screen.
+[08:57:40] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 34 x Brown Wool(08Decorations.page1.items.13) for $1,020.00 with the sell screen.
+[08:57:59] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[08:58:33] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /crates
+[08:58:41] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give .xXllP4CM4NllXx 25000
+[08:58:41] [Server thread/INFO]: $25,000 added to .xXllP4CM4NllXx account. New balance: $6,263,065.88
+[09:00:36] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[09:01:13] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[09:03:11] [Server thread/INFO]: pancakearcade issued server command: /is level
+[09:03:36] [Async Chat Thread - #11/INFO]: Bᴇɢɪɴɴᴇʀ pancakearcade | 255
+[09:03:37] [Async Chat Thread - #12/INFO]: [Not Secure] Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx | 365
+[09:03:38] [Async Chat Thread - #11/INFO]: Bᴇɢɪɴɴᴇʀ pancakearcade | 256
+[09:03:42] [Async Chat Thread - #12/INFO]: [Not Secure] Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx | 356
+[09:03:45] [Async Chat Thread - #11/INFO]: Bᴇɢɪɴɴᴇʀ pancakearcade | 312
+[09:03:46] [Async Chat Thread - #12/INFO]: [Not Secure] Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx | 255
+[09:11:16] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /disposal
+[09:13:38] [Async Chat Thread - #13/INFO]: Bᴇɢɪɴɴᴇʀ pancakearcade | H84xyQ6i
+[09:13:38] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give pancakearcade 1000
+[09:13:38] [Server thread/INFO]: $1,000 added to pancakearcade account. New balance: $64,076.06
+[09:13:38] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given pancakearcade 1 Keys.
+[09:13:42] [Server thread/INFO]: pancakearcade issued server command: /crates
+[09:13:45] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » pancakearcade is opening a Eᴘɪᴄ Cʀᴀᴛᴇ.
+[09:13:46] [Async Chat Thread - #14/INFO]: [Not Secure] Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx | H84xyQ6i
+[09:13:46] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give .xXllP4CM4NllXx 500
+[09:13:46] [Server thread/INFO]: $500 added to .xXllP4CM4NllXx account. New balance: $6,263,565.88
+[09:13:50] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /xp give pancakearcade 400
+[09:13:50] [Server thread/INFO]: pancakearcade now has 3,398 exp.
+[09:13:58] [Server thread/INFO]: BanNear issued server command: /spawn
+[09:14:13] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 143 x Rotten Flesh(02Mobs.page1.items.3) for $7,150.00 with the sell screen.
+[09:14:15] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 208 x Gunpowder(02Mobs.page1.items.5) for $8,320.00 with the sell screen.
+[09:14:19] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 166 x Bone(02Mobs.page1.items.2) for $8,300.00 with the sell screen.
+[09:14:21] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 177 x Arrow(02Mobs.page1.items.16) for $5,310.00 with the sell screen.
+[09:14:24] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 2 x Spider Eye(02Mobs.page1.items.4) for $80.00 with the sell screen.
+[09:14:28] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 4 x String(02Mobs.page1.items.1) for $120.00 with the sell screen.
+[09:14:31] [Server thread/INFO]: BanNear issued server command: /home near
+[09:15:14] [Server thread/INFO]: BanNear issued server command: /spawn
+[09:15:41] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 2112 x Glow Ink Sac(05Fishing.page1.items.10) for $211,200.00 with the sell screen.
+[09:15:44] [Server thread/INFO]: BanNear issued server command: /home near
+[09:16:17] [Server thread/INFO]: BanNear issued server command: /spawn
+[09:16:43] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 2112 x Glow Ink Sac(05Fishing.page1.items.10) for $211,200.00 with the sell screen.
+[09:16:46] [Server thread/INFO]: BanNear issued server command: /home near
+[09:17:08] [Server thread/INFO]: BanNear issued server command: /spawn
+[09:17:12] [Server thread/INFO]: pancakearcade was slain by Zombie
+[09:17:35] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 2112 x Glow Ink Sac(05Fishing.page1.items.10) for $211,200.00 with the sell screen.
+[09:17:38] [Server thread/INFO]: BanNear issued server command: /home near
+[09:18:09] [Server thread/INFO]: BanNear issued server command: /spawn
+[09:18:35] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 950 x Glow Ink Sac(05Fishing.page1.items.10) for $95,000.00 with the sell screen.
+[09:18:50] [Server thread/INFO]: BanNear issued server command: /baltop
+[09:18:56] [Server thread/INFO]: BanNear issued server command: /baltop 2
+[09:19:10] [Server thread/INFO]: BanNear issued server command: /home near
+[09:19:36] [Server thread/INFO]: BanNear issued server command: /home near
+[09:20:14] [Server thread/INFO]: BanNear issued server command: /island bank deposit 100000000000
+[09:20:28] [Server thread/INFO]: BanNear issued server command: /island bank Money 10000000000
+[09:20:32] [Server thread/INFO]: BanNear issued server command: /is bank
+[09:20:45] [Server thread/INFO]: BanNear issued server command: /is deposit money 1000000000
+[09:20:49] [Server thread/INFO]: BanNear issued server command: /is bank
+[09:21:36] [Server thread/INFO]: BanNear issued server command: /home near
+[09:21:41] [Server thread/INFO]: BanNear issued server command: /is value
+[09:21:54] [Server thread/INFO]: BanNear issued server command: /is value
+[09:21:57] [Server thread/INFO]: BanNear issued server command: /is list
+[09:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2582ms or 51 ticks behind
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: [Tebex] Failed to perform check: java.net.SocketTimeoutException: timeout
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: java.util.concurrent.CompletionException: java.net.SocketTimeoutException: timeout
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:636)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.sdk.request.TebexRequest$1.onFailure(TebexRequest.java:120)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.connection.RealCall$AsyncCall.run(RealCall.kt:525)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: Caused by: java.net.SocketTimeoutException: timeout
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:675)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:684)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:96)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:106)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:79)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.sdk.request.interceptor.LoggingInterceptor.intercept(LoggingInterceptor.java:39)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	at tebex-bukkit-2.0.3.jar//io.tebex.plugin.libs.okhttp3.internal.connection.RealCall$AsyncCall.run(RealCall.kt:517)
+[09:22:20] [OkHttp https://plugin.tebex.io/.../WARN]: 	... 3 more
+[09:22:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8647ms or 172 ticks behind
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/ludicer
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:33] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/Dynomix
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/Sup3rM1n0r
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:36] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/splat_splat
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:36] [ForkJoinPool.commonPool-worker-6/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/pineconesyrup
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/s0d0meliora
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:36] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/DItto567
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:36] [ForkJoinPool.commonPool-worker-10/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/guangdongese
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:37] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/Ava_Rae1
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:44] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/Reece294
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:44] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.mojang.com/users/profiles/minecraft/EternalS4ilor
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.getURLContent(SkinUtils.java:89)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumcore.utils.SkinUtils.lambda$getUUID$0(SkinUtils.java:38)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[09:22:44] [ForkJoinPool.commonPool-worker-2/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[09:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7528ms or 150 ticks behind
+[09:23:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5553ms or 111 ticks behind
+[09:24:16] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give pancakearcade 2000
+[09:24:16] [Server thread/INFO]: $2,000 added to pancakearcade account. New balance: $66,249.67
+[09:24:36] [Server thread/INFO]: BanNear issued server command: /home near
+[09:25:05] [Async Chat Thread - #15/INFO]: TM Exᴘᴇʀᴛ BanNear | I went from 600k to 2.5m in 4 hours of afk
+[09:25:12] [Async Chat Thread - #15/INFO]: TM Exᴘᴇʀᴛ BanNear | insanity
+[09:25:55] [Server thread/INFO]: BanNear issued server command: /is bank
+[09:26:12] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /disposal
+[09:27:13] [Server thread/INFO]: BanNear issued server command: /is missions
+[09:28:25] [Server thread/INFO]: BanNear issued server command: /spawn
+[09:28:52] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 122 x Glow Ink Sac(05Fishing.page1.items.10) for $12,200.00 with the sell screen.
+[09:29:14] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 282 x Rotten Flesh(02Mobs.page1.items.3) for $14,100.00 with the sell screen.
+[09:29:17] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 168 x Arrow(02Mobs.page1.items.16) for $5,040.00 with the sell screen.
+[09:29:19] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 147 x Gunpowder(02Mobs.page1.items.5) for $5,880.00 with the sell screen.
+[09:29:21] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 181 x Bone(02Mobs.page1.items.2) for $9,050.00 with the sell screen.
+[09:29:23] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 11 x String(02Mobs.page1.items.1) for $330.00 with the sell screen.
+[09:29:28] [Server thread/INFO]: BanNear issued server command: /home near
+[09:29:48] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /disposal
+[09:29:51] [Server thread/INFO]: pancakearcade was shot by Skeleton
+[09:30:02] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[09:30:14] [User Authenticator #5/INFO]: UUID of player avzn is f2dcecae-dd22-4d02-a760-83e3e602aeb8
+[09:30:14] [Server thread/INFO]: avzn[/101.167.87.165:52237] logged in with entity id 469693 at ([world]-1.5, 88.0, -0.5)
+[09:30:14] [Server thread/INFO]: + | Gʀᴇᴇɴʜᴏʀɴ avzn
+[09:30:14] [Server thread/INFO]: Applied effect Blindness to avzn
+[09:30:14] [Server thread/INFO]: Applied effect Nausea to avzn
+[09:30:14] [Server thread/INFO]: Applied effect Slowness to avzn
+[09:30:20] [Async Chat Thread - #18/INFO]: TM Exᴘᴇʀᴛ BanNear | welcome!
+[09:30:24] [Async Chat Thread - #17/INFO]: Bᴇɢɪɴɴᴇʀ pancakearcade | welcome! =]
+[09:30:25] [Async Chat Thread - #18/INFO]: TM Exᴘᴇʀᴛ BanNear | Do /island for a menu
+[09:30:30] [Server thread/INFO]: BanNear issued server command: /island for a menu
+[09:30:39] [Async Chat Thread - #17/INFO]: TM Exᴘᴇʀᴛ BanNear | ( /is)
+[09:30:41] [Server thread/INFO]: BanNear issued server command: /is
+[09:30:53] [Server thread/INFO]: avzn issued server command: /is
+[09:30:57] [Server thread/INFO]: avzn has made the advancement [Hot Stuff]
+[09:33:58] [Async Chat Thread - #19/INFO]: Bᴇɢɪɴɴᴇʀ pancakearcade | Sink
+[09:33:58] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give pancakearcade 1000
+[09:33:58] [Server thread/INFO]: $1,000 added to pancakearcade account. New balance: $67,549.53
+[09:33:58] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given pancakearcade 1 Keys.
+[09:33:59] [Async Chat Thread - #20/INFO]: [Not Secure] Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx | Skin
+[09:34:01] [Server thread/INFO]: pancakearcade issued server command: /crates
+[09:34:03] [Async Chat Thread - #19/INFO]: [Not Secure] Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx | Sink
+[09:34:03] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give .xXllP4CM4NllXx 500
+[09:34:03] [Server thread/INFO]: $500 added to .xXllP4CM4NllXx account. New balance: $6,264,065.88
+[09:34:45] [Server thread/INFO]: avzn has made the advancement [Stone Age]
+[09:34:50] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /home fish
+[09:34:50] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -44.149044,9.5,7.328200000000038
+[09:34:50] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -44.149044,9.5,7.328200000000038
+[09:34:50] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -44.149044,9.5,7.328200000000038
+[09:34:50] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -44.149044,9.5,7.328200000000038
+[09:35:05] [Server thread/INFO]: avzn has made the advancement [Getting an Upgrade]
+[09:35:11] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: Dɪꜱᴄᴏʀᴅ > Gʀᴀɴᴅᴍᴀꜱᴛᴇʀ Phasha | Womp
+[09:35:15] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: Dɪꜱᴄᴏʀᴅ > Gʀᴀɴᴅᴍᴀꜱᴛᴇʀ Phasha | O/
+[09:37:34] [Server thread/INFO]: avzn lost connection: Disconnected
+[09:37:34] [Server thread/INFO]: - | Gʀᴇᴇɴʜᴏʀɴ avzn
+[09:40:34] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /is rewards
+[09:41:02] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /home fiah
+[09:41:07] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /home fish
+[09:41:07] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -43.714231,9.5,10.839540000000056
+[09:41:07] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -43.714231,9.5,10.839540000000056
+[09:41:07] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -43.714231,9.5,10.839540000000056
+[09:41:07] [Server thread/WARN]: .xXllP4CM4NllXx moved too quickly! -43.714231,9.5,10.839540000000056
+[09:41:49] [Server thread/INFO]: pancakearcade was shot by Skeleton
+[09:41:56] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /disposal
+[09:42:13] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /ec
+[09:43:05] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /disposal
+[09:46:42] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] /12.118.231.110:4784 tried to connect!
+[09:46:44] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Nightmare055555
+[09:46:44] [defaultEventLoopGroup-7-4/INFO]: [Geyser-Spigot] Nightmare055555 (logged in as: Nightmare055555) has connected to the Java server
+[09:46:48] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Nightmare055555 joined (UUID: 00000000-0000-0000-0009-01f550bb9995)
+[09:46:48] [Server thread/INFO]: .Nightmare055555[/12.118.231.110:0] logged in with entity id 543442 at ([IridiumSkyblock]593.3905, 88.0, 263.66998)
+[09:46:48] [Server thread/INFO]: + | Gʀᴇᴇɴʜᴏʀɴ .Nightmare055555
+[09:46:48] [Server thread/INFO]: Davo114 issued server command: /home top
+[09:48:00] [Server thread/INFO]: pancakearcade issued server command: /is rewards
+[09:50:27] [Server thread/INFO]: .Nightmare055555 issued server command: /spawn
+[09:50:31] [Server thread/INFO]: Davo114 issued server command: /is home
+[09:50:39] [Geyser player thread-5-3/WARN]: [Geyser-Spigot] Haven't received PlayerListEntry packet before spawning player! We ignore the player d9a1c369-c953-2d70-9eb9-26ce37e7bc4f
+[09:50:39] [Geyser player thread-5-3/WARN]: [Geyser-Spigot] Haven't received PlayerListEntry packet before spawning player! We ignore the player 18c010ae-c46b-2fb1-b97b-943d87018478
+[09:50:39] [Geyser player thread-5-3/WARN]: [Geyser-Spigot] Haven't received PlayerListEntry packet before spawning player! We ignore the player 0acedd6e-073b-2599-93ea-151055423ab1
+[09:50:52] [Server thread/INFO]: Davo114 issued server command: /is mission
+[09:50:57] [Server thread/INFO]: Davo114 issued server command: /is missions
+[09:51:52] [Server thread/INFO]: pancakearcade issued server command: /spawn
+[09:52:18] [Server thread/INFO]: Davo114 lost connection: Disconnected
+[09:52:18] [Server thread/INFO]: - | Aᴅᴠᴀɴᴄᴇᴅ Davo114
+[09:52:22] [Server thread/INFO]: Davo114 (/203.40.95.173:50887) lost connection: Disconnected
+[09:52:48] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 173 x Coal(04Mining.page1.items.1) for $2,595.00 with the sell screen.
+[09:52:52] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 56 x Gold Ingot(04Mining.page1.items.4) for $2,240.00 with the sell screen.
+[09:52:57] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 82 x Iron Ingot(04Mining.page1.items.3) for $2,460.00 with the sell screen.
+[09:53:12] [User Authenticator #6/INFO]: UUID of player Davo114 is 38cb2156-c73c-4e1a-8bc1-3595917ab7ce
+[09:53:12] [Server thread/INFO]: Davo114[/203.40.95.173:51090] logged in with entity id 584052 at ([IridiumSkyblock]1071.2197316299644, 85.0, -580.939808499053)
+[09:53:12] [Server thread/INFO]: + | Aᴅᴠᴀɴᴄᴇᴅ Davo114
+[09:53:23] [Async Chat Thread - #22/INFO]: TM Exᴘᴇʀᴛ BanNear | Welcome back
+[09:53:32] [Async Chat Thread - #21/INFO]: TM Exᴘᴇʀᴛ BanNear | Im gonna go see the new demon slayer movie here soon
+[09:53:33] [Async Chat Thread - #22/INFO]: Aᴅᴠᴀɴᴄᴇᴅ Davo114 | thank you
+[09:53:59] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade bought 64 x Dirt(06Digging.page1.items.8) for $64,000.00 with the buy screen.
+[09:54:03] [Async Chat Thread - #21/INFO]: Aᴅᴠᴀɴᴄᴇᴅ Davo114 | GSmRnlXL
+[09:54:08] [Async Chat Thread - #22/INFO]: Bᴇɢɪɴɴᴇʀ pancakearcade | GSnRnlXL
+[09:54:08] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give pancakearcade 1000
+[09:54:08] [Server thread/INFO]: $1,000 added to pancakearcade account. New balance: $22,473.20
+[09:54:08] [Server thread/INFO]: Cʀᴀᴛᴇꜱ » You have given pancakearcade 1 Keys.
+[09:54:10] [Async Chat Thread - #21/INFO]: [Not Secure] Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx | GSnRnIXL
+[09:54:15] [Server thread/INFO]: pancakearcade issued server command: /crates
+[09:54:19] [Async Chat Thread - #22/INFO]: Aᴅᴠᴀɴᴄᴇᴅ Davo114 | GSNRnlXL
+[09:54:26] [Async Chat Thread - #21/INFO]: Aᴅᴠᴀɴᴄᴇᴅ Davo114 | GSnRnlXL
+[09:54:29] [Async Chat Thread - #22/INFO]: Aᴅᴠᴀɴᴄᴇᴅ Davo114 | dumb
+[09:54:36] [Server thread/INFO]: Sʜᴏᴘ » .Nightmare055555 sold 144 x Egg(03Butcher.page1.items.12) for $4,320.00 with the sell screen.
+[09:54:37] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 8 x Coal(04Mining.page1.items.1) for $120.00 with the sell screen.
+[09:54:45] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 8 x Iron Ingot(04Mining.page1.items.3) for $240.00 with the sell screen.
+[09:54:51] [Server thread/INFO]: Sʜᴏᴘ » pancakearcade sold 8 x Gold Ingot(04Mining.page1.items.4) for $320.00 with the sell screen.
+[09:55:08] [Server thread/INFO]: pancakearcade issued server command: /home
+[09:55:35] [Server thread/INFO]: Sʜᴏᴘ » .Nightmare055555 bought 1 x Magma Block(16Otherworld.page1.items.3) for $40.00 with the buy screen.
+[09:55:43] [Server thread/INFO]: Davo114 issued server command: /is missions
+[09:55:47] [Server thread/INFO]: pancakearcade was slain by Spider
+[09:58:24] [Server thread/INFO]: Synix09 lost connection: Disconnected
+[09:58:24] [Server thread/INFO]: - | Bᴇɢɪɴɴᴇʀ Synix09
+[09:59:19] [Server thread/INFO]: .Nightmare055555 issued server command: /is
+[10:00:24] [User Authenticator #7/INFO]: UUID of player Phasha is 66fcc0dd-7a72-4a78-ae02-38a3c50b4566
+[10:00:24] [Server thread/INFO]: Phasha[/119.18.3.48:23020] logged in with entity id 619096 at ([IridiumSkyblock]-448.30000001192093, 69.0, -586.6999999880791)
+[10:00:24] [Server thread/INFO]: + | Gʀᴀɴᴅᴍᴀꜱᴛᴇʀ Phasha
+[10:00:31] [Async Chat Thread - #24/INFO]: TM Exᴘᴇʀᴛ BanNear | Welcome back
+[10:00:32] [Async Chat Thread - #23/INFO]: Gʀᴀɴᴅᴍᴀꜱᴛᴇʀ Phasha | ty
+[10:00:33] [Server thread/INFO]: .xXllP4CM4NllXx was slain by Slime
+[10:00:33] [User Authenticator #7/INFO]: UUID of player PhashaMC is a79b5c08-cfa0-482c-8e97-a0f9842cc1d9
+[10:00:33] [Server thread/INFO]: PhashaMC[/119.18.3.48:23027] logged in with entity id 621258 at ([IridiumSkyblock_the_end]-456.69999998807907, 86.0, -573.6235156499426)
+[10:00:33] [Server thread/INFO]: + | Exᴘᴇʀᴛ PhashaMC
+[10:00:36] [Server thread/INFO]: Phasha issued server command: /is home
+[10:00:48] [Server thread/INFO]: Phasha issued server command: /echest
+[10:00:54] [Server thread/INFO]: BanNear issued server command: /spawn
+[10:01:11] [Server thread/INFO]: Davo114 issued server command: /is mission
+[10:01:13] [Server thread/INFO]: Davo114 issued server command: /is missions
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[10:01:19] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[10:01:19] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[10:01:19] [ForkJoinPool.commonPool-worker-5/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[10:01:19] [ForkJoinPool.commonPool-worker-3/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[10:01:19] [ForkJoinPool.commonPool-worker-4/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[10:01:21] [Server thread/INFO]: Sʜᴏᴘ » BanNear sold 1523 x Glow Ink Sac(05Fishing.page1.items.10) for $152,300.00 with the sell screen.
+[10:01:26] [Server thread/INFO]: Phasha issued server command: /home bee
+[10:01:44] [User Authenticator #8/INFO]: UUID of player kehvawn is d6125187-7a7b-4398-918e-d4f39455b5aa
+[10:01:45] [Server thread/INFO]: kehvawn[/184.147.83.68:64069] logged in with entity id 633462 at ([IridiumSkyblock]330.69999998807907, 88.0, 626.1560374936865)
+[10:01:45] [Server thread/INFO]: + | Exᴘᴇʀᴛ kehvawn
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[10:01:46] [ForkJoinPool.commonPool-worker-8/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[10:01:46] [ForkJoinPool.commonPool-worker-7/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[10:01:46] [ForkJoinPool.commonPool-worker-1/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (cannot commit - no transaction is active)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1179)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.newSQLException(DB.java:1190)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.throwex(DB.java:1150)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.core.DB.exec(DB.java:198)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at org.sqlite.SQLiteConnection.commit(SQLiteConnection.java:449)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.jdbc.JdbcDatabaseConnection.commit(JdbcDatabaseConnection.java:84)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.dependencies.ormlite.dao.BaseDaoImpl.commit(BaseDaoImpl.java:990)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at IridiumSkyblock-4.0.9.jar//com.iridium.iridiumskyblock.managers.tablemanagers.TableManager.lambda$delete$1(TableManager.java:90)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[10:01:46] [ForkJoinPool.commonPool-worker-9/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[10:01:47] [Server thread/INFO]: Phasha issued server command: /shop
+[10:01:52] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 2176 x Honeycomb(01Farming.page1.items.24) for $1,088,000.00 with the sell screen.
+[10:01:58] [Server thread/INFO]: Phasha issued server command: /shop
+[10:02:03] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 2176 x Honeycomb(01Farming.page1.items.24) for $1,088,000.00 with the sell screen.
+[10:02:05] [Server thread/INFO]: Phasha issued server command: /shop
+[10:02:07] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 2176 x Honeycomb(01Farming.page1.items.24) for $1,088,000.00 with the sell screen.
+[10:02:13] [Server thread/INFO]: Phasha issued server command: /shop
+[10:02:15] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 2176 x Honeycomb(01Farming.page1.items.24) for $1,088,000.00 with the sell screen.
+[10:02:19] [Server thread/INFO]: Phasha issued server command: /shop
+[10:02:22] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 1945 x Honeycomb(01Farming.page1.items.24) for $972,500.00 with the sell screen.
+[10:02:38] [Server thread/INFO]: Phasha issued server command: /baltop
+[10:02:45] [Server thread/INFO]: Davo114 issued server command: /is missions
+[10:02:49] [Server thread/INFO]: Phasha issued server command: /shop
+[10:02:49] [Server thread/INFO]: Davo114 issued server command: /is rewards
+[10:02:51] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 2176 x Honeycomb(01Farming.page1.items.24) for $1,088,000.00 with the sell screen.
+[10:02:53] [Server thread/INFO]: Phasha issued server command: /shop
+[10:02:56] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 2176 x Honeycomb(01Farming.page1.items.24) for $1,088,000.00 with the sell screen.
+[10:03:00] [Server thread/INFO]: Phasha issued server command: /shop
+[10:03:03] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 2176 x Honeycomb(01Farming.page1.items.24) for $1,088,000.00 with the sell screen.
+[10:03:11] [Server thread/INFO]: Phasha issued server command: /shop
+[10:03:14] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 2064 x Honeycomb(01Farming.page1.items.24) for $1,032,000.00 with the sell screen.
+[10:03:17] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /disposal
+[10:03:21] [Server thread/INFO]: Phasha issued server command: /shop
+[10:03:23] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 2176 x Honeycomb(01Farming.page1.items.24) for $1,088,000.00 with the sell screen.
+[10:03:27] [Server thread/INFO]: Davo114 issued server command: /is bank
+[10:03:28] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[10:03:31] [Server thread/INFO]: Phasha issued server command: /shop
+[10:03:31] [Server thread/INFO]: Davo114 issued server command: /is buy
+[10:03:34] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 2176 x Honeycomb(01Farming.page1.items.24) for $1,088,000.00 with the sell screen.
+[10:03:35] [Server thread/INFO]: Davo114 issued server command: /is shop
+[10:03:35] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 128 x Gray Wool(08Decorations.page1.items.8) for $3,840.00 with the sell screen.
+[10:03:37] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 14 x Gray Wool(08Decorations.page1.items.8) for $420.00 with the sell screen.
+[10:03:40] [Server thread/INFO]: Phasha issued server command: /shop
+[10:03:42] [Server thread/INFO]: Sʜᴏᴘ » Phasha sold 1706 x Honeycomb(01Farming.page1.items.24) for $853,000.00 with the sell screen.
+[10:03:45] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 1600 x White Wool(08Decorations.page1.items.1) for $48,000.00 with the sell screen.
+[10:03:45] [Server thread/INFO]: PhashaMC issued server command: /ranks
+[10:04:00] [Server thread/INFO]: .Nightmare055555 fell from a high place
+[10:04:07] [Server thread/INFO]: Phasha issued server command: /is home
+[10:04:46] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[10:04:54] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 1664 x White Wool(08Decorations.page1.items.1) for $49,920.00 with the sell screen.
+[10:05:12] [Server thread/INFO]: Davo114 issued server command: /is missions
+[10:06:33] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /shop
+[10:06:40] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 1216 x White Wool(08Decorations.page1.items.1) for $36,480.00 with the sell screen.
+[10:06:42] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 133 x White Wool(08Decorations.page1.items.1) for $3,990.00 with the sell screen.
+[10:06:49] [Server thread/INFO]: Sʜᴏᴘ » .xXllP4CM4NllXx sold 279 x Black Wool(08Decorations.page1.items.16) for $8,370.00 with the sell screen.
+[10:07:06] [Server thread/INFO]: pancakearcade was shot by Skeleton
+[10:07:22] [Server thread/INFO]: pancakearcade was shot by Skeleton
+[10:07:25] [Server thread/INFO]: .xXllP4CM4NllXx issued server command: /baltop
+[10:07:39] [Server thread/INFO]: pancakearcade was slain by Zombie
+[10:08:10] [Server thread/INFO]: pancakearcade was shot by Skeleton
+[10:08:13] [Server thread/INFO]: kehvawn issued server command: /crates
+[10:08:45] [Server thread/INFO]: pancakearcade burned to death
+[10:09:17] [defaultEventLoopGroup-7-3/INFO]: [Geyser-Spigot] xXllP4CM4NllXx has disconnected from the Java server because of Bedrock client disconnected
+[10:09:17] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .xXllP4CM4NllXx disconnected
+[10:09:17] [Server thread/INFO]: .xXllP4CM4NllXx lost connection: Disconnected
+[10:09:17] [Server thread/INFO]: - | Mᴀꜱᴛᴇʀ .xXllP4CM4NllXx
+[10:14:29] [Server thread/INFO]: pancakearcade issued server command: /is visit
+[10:14:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[10:15:07] [Craft Scheduler Thread - 279 - ConDump/INFO]: [ConDump] Latest log file is at /ssd/var/stipedata/servers/playnice mct 6/stipe_user_8271017/./logs/latest.log
